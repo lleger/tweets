@@ -1,24 +1,23 @@
 Grailbird.data.tweets_2011_11 = 
  [ {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "141990864426766336",
   "text" : "I'm not a business major, Baton Rouge Business Report. How insulting! I'm a real man. I'm an engineering major.",
   "id" : 141990864426766336,
-  "created_at" : "Wed Nov 30 21:23:54 +0000 2011",
+  "created_at" : "2011-11-30 21:23:54 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -37,14 +36,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "140910804726857728",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140959741743595520",
   "in_reply_to_user_id" : 26701378,
   "text" : "@AlecBordelon: Apparently he forgot what the definition of \"no\" is.",
   "id" : 140959741743595520,
   "in_reply_to_status_id" : 140910804726857728,
-  "created_at" : "Mon Nov 28 01:06:35 +0000 2011",
+  "created_at" : "2011-11-28 01:06:35 +0000",
   "in_reply_to_screen_name" : "AlecBordelon",
   "in_reply_to_user_id_str" : "26701378",
   "user" : {
@@ -52,7 +50,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -71,14 +69,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "140917007154548738",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140959363434151937",
   "in_reply_to_user_id" : 15122553,
   "text" : "@wwtdd: Kick the douche in the head. He needs to learn his place.",
   "id" : 140959363434151937,
   "in_reply_to_status_id" : 140917007154548738,
-  "created_at" : "Mon Nov 28 01:05:05 +0000 2011",
+  "created_at" : "2011-11-28 01:05:05 +0000",
   "in_reply_to_screen_name" : "bearsaremean",
   "in_reply_to_user_id_str" : "15122553",
   "user" : {
@@ -86,7 +83,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -105,14 +102,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "140945989489016832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140958588456796160",
   "in_reply_to_user_id" : 30415892,
   "text" : "@SAPowell328: At first I thought that was \"poopin\". I'm disappointed it wasn't.",
   "id" : 140958588456796160,
   "in_reply_to_status_id" : 140945989489016832,
-  "created_at" : "Mon Nov 28 01:02:01 +0000 2011",
+  "created_at" : "2011-11-28 01:02:01 +0000",
   "in_reply_to_screen_name" : "SAPowell328",
   "in_reply_to_user_id_str" : "30415892",
   "user" : {
@@ -120,7 +116,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -156,23 +152,22 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140957341376978944",
   "text" : "I have witnessed a few illicit dealings tonight. @SheaLeger, @meredithhmae, @lindseyanndavis, @Kelseyy_Gore are all naughty girls.",
   "id" : 140957341376978944,
-  "created_at" : "Mon Nov 28 00:57:03 +0000 2011",
+  "created_at" : "2011-11-28 00:57:03 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NewAperio",
@@ -188,13 +183,13 @@ Grailbird.data.tweets_2011_11 =
       "id" : 28295681
     } ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/140956977730830337/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/140956977730830337\/photo\/1",
       "indices" : [ 47, 67 ],
-      "url" : "http://t.co/qyRx6wLd",
-      "media_url" : "http://pbs.twimg.com/media/AfTHn9qCQAE2HYT.jpg",
+      "url" : "http:\/\/t.co\/qyRx6wLd",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AfTHn9qCQAE2HYT.jpg",
       "id_str" : "140956977735024641",
       "id" : 140956977735024641,
-      "media_url_https" : "https://pbs.twimg.com/media/AfTHn9qCQAE2HYT.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AfTHn9qCQAE2HYT.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -216,7 +211,7 @@ Grailbird.data.tweets_2011_11 =
         "resize" : "fit",
         "w" : 480
       } ],
-      "display_url" : "pic.twitter.com/qyRx6wLd"
+      "display_url" : "pic.twitter.com\/qyRx6wLd"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -226,15 +221,15 @@ Grailbird.data.tweets_2011_11 =
     "coordinates" : [ 30.4023107764, -91.1744752634 ]
   },
   "id_str" : "140956977730830337",
-  "text" : "Awesome @newaperio hat made by @milmom01. Yay! http://t.co/qyRx6wLd",
+  "text" : "Awesome @newaperio hat made by @milmom01. Yay! http:\/\/t.co\/qyRx6wLd",
   "id" : 140956977730830337,
-  "created_at" : "Mon Nov 28 00:55:37 +0000 2011",
+  "created_at" : "2011-11-28 00:55:37 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -246,23 +241,22 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "140956501773791232",
   "text" : "You teach me and I'll teach you\u2026",
   "id" : 140956501773791232,
-  "created_at" : "Mon Nov 28 00:53:43 +0000 2011",
+  "created_at" : "2011-11-28 00:53:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NewAperio",
@@ -275,23 +269,22 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "139848126679891968",
   "text" : "I'm thanking for my family, Melissa and my amazing team @newaperio.",
   "id" : 139848126679891968,
-  "created_at" : "Thu Nov 24 23:29:26 +0000 2011",
+  "created_at" : "2011-11-24 23:29:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brett Lemoine",
@@ -314,7 +307,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@bremic9188: Not until finals week.",
   "id" : 139237253389103104,
   "in_reply_to_status_id" : 139237119049740288,
-  "created_at" : "Wed Nov 23 07:02:02 +0000 2011",
+  "created_at" : "2011-11-23 07:02:02 +0000",
   "in_reply_to_screen_name" : "bremic9188",
   "in_reply_to_user_id_str" : "15461921",
   "user" : {
@@ -322,12 +315,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -341,18 +334,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "139236667453222912",
   "text" : "Relatedly: I'm a fantastic procrastinator.",
   "id" : 139236667453222912,
-  "created_at" : "Wed Nov 23 06:59:43 +0000 2011",
+  "created_at" : "2011-11-23 06:59:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -366,18 +359,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "139236096650387456",
   "text" : "I completely failed at studying tonight. This test won't be pretty tomorrow.",
   "id" : 139236096650387456,
-  "created_at" : "Wed Nov 23 06:57:26 +0000 2011",
+  "created_at" : "2011-11-23 06:57:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -391,18 +384,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138369285260185600",
   "text" : "Goodbye, New York. It was a lot of fun. Let's do it again \u2014 soon.",
   "id" : 138369285260185600,
-  "created_at" : "Sun Nov 20 21:33:03 +0000 2011",
+  "created_at" : "2011-11-20 21:33:03 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chase Swindler",
@@ -425,7 +418,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@chaseswindler: Do me proud and close the deal.",
   "id" : 138332380183277568,
   "in_reply_to_status_id" : 138323692840169473,
-  "created_at" : "Sun Nov 20 19:06:24 +0000 2011",
+  "created_at" : "2011-11-20 19:06:24 +0000",
   "in_reply_to_screen_name" : "chaseswindler",
   "in_reply_to_user_id_str" : "16419213",
   "user" : {
@@ -433,12 +426,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -452,18 +445,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138332051035275264",
   "text" : "Brunch isn't just for couples, dude.",
   "id" : 138332051035275264,
-  "created_at" : "Sun Nov 20 19:05:05 +0000 2011",
+  "created_at" : "2011-11-20 19:05:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -477,18 +470,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138110199033630720",
   "text" : "Lol, Ole Miss.",
   "id" : 138110199033630720,
-  "created_at" : "Sun Nov 20 04:23:32 +0000 2011",
+  "created_at" : "2011-11-20 04:23:32 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "April Frank",
@@ -517,7 +510,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@ApyFrank @shealeger lollllll",
   "id" : 138110165969944576,
   "in_reply_to_status_id" : 138081912160927744,
-  "created_at" : "Sun Nov 20 04:23:24 +0000 2011",
+  "created_at" : "2011-11-20 04:23:24 +0000",
   "in_reply_to_screen_name" : "ApyFrank",
   "in_reply_to_user_id_str" : "32628229",
   "user" : {
@@ -525,12 +518,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stefano West",
@@ -553,7 +546,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@swest1991: Definitely better.",
   "id" : 138110126077915136,
   "in_reply_to_status_id" : 138091295242588161,
-  "created_at" : "Sun Nov 20 04:23:14 +0000 2011",
+  "created_at" : "2011-11-20 04:23:14 +0000",
   "in_reply_to_screen_name" : "swest1991",
   "in_reply_to_user_id_str" : "18560265",
   "user" : {
@@ -561,12 +554,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -580,18 +573,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138079502684274688",
   "text" : "A fullback touchdown. A. Fullback.",
   "id" : 138079502684274688,
-  "created_at" : "Sun Nov 20 02:21:33 +0000 2011",
+  "created_at" : "2011-11-20 02:21:33 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Melissa Burd",
@@ -614,7 +607,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@aimlessburd: Duhhhhh",
   "id" : 138072861935009792,
   "in_reply_to_status_id" : 138071972386054144,
-  "created_at" : "Sun Nov 20 01:55:10 +0000 2011",
+  "created_at" : "2011-11-20 01:55:10 +0000",
   "in_reply_to_screen_name" : "aimlessburd",
   "in_reply_to_user_id_str" : "45671313",
   "user" : {
@@ -622,12 +615,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -656,7 +649,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger @apyfrank: I'd fuck Emma before her. Just saying.",
   "id" : 138072812614205440,
   "in_reply_to_status_id" : 138072638445715456,
-  "created_at" : "Sun Nov 20 01:54:58 +0000 2011",
+  "created_at" : "2011-11-20 01:54:58 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -664,12 +657,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -683,18 +676,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138071874163847168",
   "text" : "At Legends in NYC. There are LSU grads everywhere. This is awesome.",
   "id" : 138071874163847168,
-  "created_at" : "Sun Nov 20 01:51:14 +0000 2011",
+  "created_at" : "2011-11-20 01:51:14 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "April Frank",
@@ -717,7 +710,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@ApyFrank \u2026",
   "id" : 138071735756001280,
   "in_reply_to_status_id" : 138071541618450433,
-  "created_at" : "Sun Nov 20 01:50:41 +0000 2011",
+  "created_at" : "2011-11-20 01:50:41 +0000",
   "in_reply_to_screen_name" : "ApyFrank",
   "in_reply_to_user_id_str" : "32628229",
   "user" : {
@@ -725,12 +718,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "April Frank",
@@ -753,7 +746,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@ApyFrank: Whom you've never met.",
   "id" : 138070754100125696,
   "in_reply_to_status_id" : 138068638392524800,
-  "created_at" : "Sun Nov 20 01:46:47 +0000 2011",
+  "created_at" : "2011-11-20 01:46:47 +0000",
   "in_reply_to_screen_name" : "ApyFrank",
   "in_reply_to_user_id_str" : "32628229",
   "user" : {
@@ -761,12 +754,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paco Sanchez",
@@ -789,7 +782,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TacodePaco: Only because I love Paco.",
   "id" : 138066157348470785,
   "in_reply_to_status_id" : 138065956206415872,
-  "created_at" : "Sun Nov 20 01:28:31 +0000 2011",
+  "created_at" : "2011-11-20 01:28:31 +0000",
   "in_reply_to_screen_name" : "TacodePaco",
   "in_reply_to_user_id_str" : "136762773",
   "user" : {
@@ -797,12 +790,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paco Sanchez",
@@ -825,7 +818,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TacodePaco: Yes to both.",
   "id" : 138066102629576705,
   "in_reply_to_status_id" : 138065956206415872,
-  "created_at" : "Sun Nov 20 01:28:18 +0000 2011",
+  "created_at" : "2011-11-20 01:28:18 +0000",
   "in_reply_to_screen_name" : "TacodePaco",
   "in_reply_to_user_id_str" : "136762773",
   "user" : {
@@ -833,12 +826,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paco Sanchez",
@@ -861,7 +854,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TacodePaco: I might have talked about my favorite places in LA with him.",
   "id" : 138065153701847040,
   "in_reply_to_status_id" : 138064908536397825,
-  "created_at" : "Sun Nov 20 01:24:32 +0000 2011",
+  "created_at" : "2011-11-20 01:24:32 +0000",
   "in_reply_to_screen_name" : "TacodePaco",
   "in_reply_to_user_id_str" : "136762773",
   "user" : {
@@ -869,12 +862,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -888,13 +881,13 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138063784282566657",
   "text" : "I just met Anthony Bourdain. Great guy.",
   "id" : 138063784282566657,
-  "created_at" : "Sun Nov 20 01:19:05 +0000 2011",
+  "created_at" : "2011-11-20 01:19:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -913,14 +906,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "137985050485600257",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "138026588192251904",
   "in_reply_to_user_id" : 18560265,
   "text" : "@swest1991: I &lt;3 Fat Cow.",
   "id" : 138026588192251904,
   "in_reply_to_status_id" : 137985050485600257,
-  "created_at" : "Sat Nov 19 22:51:17 +0000 2011",
+  "created_at" : "2011-11-19 22:51:17 +0000",
   "in_reply_to_screen_name" : "swest1991",
   "in_reply_to_user_id_str" : "18560265",
   "user" : {
@@ -928,7 +920,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -959,14 +951,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "137998960588632064",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "138026265524445185",
   "in_reply_to_user_id" : 3686561,
   "text" : "@JasonLBaptiste @talsafran @markbao I was unaware there were any other metrics for determining when one should by something.",
   "id" : 138026265524445185,
   "in_reply_to_status_id" : 137998960588632064,
-  "created_at" : "Sat Nov 19 22:50:00 +0000 2011",
+  "created_at" : "2011-11-19 22:50:00 +0000",
   "in_reply_to_screen_name" : "JasonLBaptiste",
   "in_reply_to_user_id_str" : "3686561",
   "user" : {
@@ -974,7 +965,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -987,14 +978,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "138025161529114626",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "138025596335824896",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregorywschultz: Haven't we all waited long enough?!",
   "id" : 138025596335824896,
   "in_reply_to_status_id" : 138025161529114626,
-  "created_at" : "Sat Nov 19 22:47:21 +0000 2011",
+  "created_at" : "2011-11-19 22:47:21 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -1002,12 +992,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -1030,7 +1020,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger: I knew you would be.",
   "id" : 138019021323911169,
   "in_reply_to_status_id" : 138017967073017858,
-  "created_at" : "Sat Nov 19 22:21:13 +0000 2011",
+  "created_at" : "2011-11-19 22:21:13 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -1038,12 +1028,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1057,18 +1047,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "138009240907415552",
   "text" : "I just saw Andrew Garfield and Emma Stone. She's really hot and he was pretty cool too.",
   "id" : 138009240907415552,
-  "created_at" : "Sat Nov 19 21:42:21 +0000 2011",
+  "created_at" : "2011-11-19 21:42:21 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1082,13 +1072,13 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137994244542578688",
   "text" : "I just saw a giant rat in the NY subway. And I just thought it was a stereotype.",
   "id" : 137994244542578688,
-  "created_at" : "Sat Nov 19 20:42:46 +0000 2011",
+  "created_at" : "2011-11-19 20:42:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -1112,18 +1102,17 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137981543166648320",
   "text" : "Hanging out with @markbao at the @onswipe office. Apparently this is what it's like to be a rockstar.",
   "id" : 137981543166648320,
-  "created_at" : "Sat Nov 19 19:52:18 +0000 2011",
+  "created_at" : "2011-11-19 19:52:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -1142,14 +1131,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "137977121573318657",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137981455891578881",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: Dude, me either. It's about damn time.",
   "id" : 137981455891578881,
   "in_reply_to_status_id" : 137977121573318657,
-  "created_at" : "Sat Nov 19 19:51:57 +0000 2011",
+  "created_at" : "2011-11-19 19:51:57 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -1157,7 +1145,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -1175,13 +1163,12 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137981273695199232",
   "in_reply_to_user_id" : 66150766,
   "text" : "@VisionandGrowth: Go show PDX how it's done, bro. BTW, it's a great city. Enjoy it!",
   "id" : 137981273695199232,
-  "created_at" : "Sat Nov 19 19:51:13 +0000 2011",
+  "created_at" : "2011-11-19 19:51:13 +0000",
   "in_reply_to_screen_name" : "VisionandGrowth",
   "in_reply_to_user_id_str" : "66150766",
   "user" : {
@@ -1189,12 +1176,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -1214,18 +1201,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137954174343196673",
   "text" : "Hanging out with my best bud @markbao!",
   "id" : 137954174343196673,
-  "created_at" : "Sat Nov 19 18:03:32 +0000 2011",
+  "created_at" : "2011-11-19 18:03:32 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1239,54 +1226,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137739177553969152",
   "text" : "Headed out in downtown NY for a night with some of the other competitors. Should be awesome.",
   "id" : 137739177553969152,
-  "created_at" : "Sat Nov 19 03:49:13 +0000 2011",
+  "created_at" : "2011-11-19 03:49:13 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Berlin",
-      "screen_name" : "brianberlin",
-      "indices" : [ 0, 12 ],
-      "id_str" : "14849002",
-      "id" : 14849002
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "137658614222569472",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 40.7093699283, -74.0143279804 ]
-  },
-  "id_str" : "137739086499815424",
-  "in_reply_to_user_id" : 14849002,
-  "text" : "@brianberlin: Thanks!",
-  "id" : 137739086499815424,
-  "in_reply_to_status_id" : 137658614222569472,
-  "created_at" : "Sat Nov 19 03:48:51 +0000 2011",
-  "in_reply_to_screen_name" : "brianberlin",
-  "in_reply_to_user_id_str" : "14849002",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tyne Courville",
@@ -1309,7 +1260,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TyneNicole: Thanks!",
   "id" : 137739082968203264,
   "in_reply_to_status_id" : 137652765223694336,
-  "created_at" : "Sat Nov 19 03:48:51 +0000 2011",
+  "created_at" : "2011-11-19 03:48:51 +0000",
   "in_reply_to_screen_name" : "TyneNicole",
   "in_reply_to_user_id_str" : "84789445",
   "user" : {
@@ -1317,12 +1268,48 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Berlin",
+      "screen_name" : "brianberlin",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14849002",
+      "id" : 14849002
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "137658614222569472",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7093699283, -74.0143279804 ]
+  },
+  "id_str" : "137739086499815424",
+  "in_reply_to_user_id" : 14849002,
+  "text" : "@brianberlin: Thanks!",
+  "id" : 137739086499815424,
+  "in_reply_to_status_id" : 137658614222569472,
+  "created_at" : "2011-11-19 03:48:51 +0000",
+  "in_reply_to_screen_name" : "brianberlin",
+  "in_reply_to_user_id_str" : "14849002",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Hundley",
@@ -1345,7 +1332,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@kelseynhundley: Thanks!",
   "id" : 137739074969669632,
   "in_reply_to_status_id" : 137652577184657408,
-  "created_at" : "Sat Nov 19 03:48:49 +0000 2011",
+  "created_at" : "2011-11-19 03:48:49 +0000",
   "in_reply_to_screen_name" : "kelseynhundley",
   "in_reply_to_user_id_str" : "378233099",
   "user" : {
@@ -1353,12 +1340,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Gore",
@@ -1381,7 +1368,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Kelseyy_Gore: Thanks!",
   "id" : 137738905221988354,
   "in_reply_to_status_id" : 137581252936089601,
-  "created_at" : "Sat Nov 19 03:48:08 +0000 2011",
+  "created_at" : "2011-11-19 03:48:08 +0000",
   "in_reply_to_screen_name" : "Kelseyy_Gore",
   "in_reply_to_user_id_str" : "372586838",
   "user" : {
@@ -1389,12 +1376,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1408,18 +1395,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137652067157282817",
   "text" : "I didn't place in the top 5, but top 30 is still pretty good too.",
   "id" : 137652067157282817,
-  "created_at" : "Fri Nov 18 22:03:04 +0000 2011",
+  "created_at" : "2011-11-18 22:03:04 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "jaredbroussard",
@@ -1442,7 +1429,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@jaredbroussard: Thanks, Jared!",
   "id" : 137543586953707521,
   "in_reply_to_status_id" : 137542822613090306,
-  "created_at" : "Fri Nov 18 14:52:01 +0000 2011",
+  "created_at" : "2011-11-18 14:52:01 +0000",
   "in_reply_to_screen_name" : "jaredbroussard",
   "in_reply_to_user_id_str" : "15299059",
   "user" : {
@@ -1450,12 +1437,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BPAT",
@@ -1468,25 +1455,30 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "137533845003182080",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 40.7071386416, -74.0112787359 ]
   },
   "id_str" : "137534048015880192",
+  "in_reply_to_user_id" : 145019777,
   "text" : "@BijalPatel13: Thanks, Bijal. I really appreciate it.",
   "id" : 137534048015880192,
-  "created_at" : "Fri Nov 18 14:14:06 +0000 2011",
+  "in_reply_to_status_id" : 137533845003182080,
+  "created_at" : "2011-11-18 14:14:06 +0000",
+  "in_reply_to_screen_name" : "BijalPatel13",
+  "in_reply_to_user_id_str" : "145019777",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1500,18 +1492,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137525902010621952",
   "text" : "My sixth grade self that did a project on the NYSE never would have believed that I'd be here ten years later pitching my company.",
   "id" : 137525902010621952,
-  "created_at" : "Fri Nov 18 13:41:44 +0000 2011",
+  "created_at" : "2011-11-18 13:41:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Langford",
@@ -1534,7 +1526,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Matt425: In a truly terrible division.",
   "id" : 137389638225641474,
   "in_reply_to_status_id" : 137389460374568961,
-  "created_at" : "Fri Nov 18 04:40:16 +0000 2011",
+  "created_at" : "2011-11-18 04:40:16 +0000",
   "in_reply_to_screen_name" : "Matt425",
   "in_reply_to_user_id_str" : "9028732",
   "user" : {
@@ -1542,12 +1534,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joey Brooks",
@@ -1570,7 +1562,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@tunicwriter: I despise Tebow. But that doesn't change fact.",
   "id" : 137387780102832128,
   "in_reply_to_status_id" : 137387524791349248,
-  "created_at" : "Fri Nov 18 04:32:53 +0000 2011",
+  "created_at" : "2011-11-18 04:32:53 +0000",
   "in_reply_to_screen_name" : "tunicwriter",
   "in_reply_to_user_id_str" : "5287862",
   "user" : {
@@ -1578,12 +1570,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1597,18 +1589,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137385570757382144",
   "text" : "Tebow is a truly terrible NFL quarterback.",
   "id" : 137385570757382144,
-  "created_at" : "Fri Nov 18 04:24:07 +0000 2011",
+  "created_at" : "2011-11-18 04:24:07 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -1631,7 +1623,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger: Thanks lil sis!",
   "id" : 137381949235933184,
   "in_reply_to_status_id" : 137376048953303040,
-  "created_at" : "Fri Nov 18 04:09:43 +0000 2011",
+  "created_at" : "2011-11-18 04:09:43 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -1639,12 +1631,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Melissa Burd",
@@ -1667,7 +1659,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@aimlessburd: Thank you!",
   "id" : 137381767702249472,
   "in_reply_to_status_id" : 137373212223868931,
-  "created_at" : "Fri Nov 18 04:09:00 +0000 2011",
+  "created_at" : "2011-11-18 04:09:00 +0000",
   "in_reply_to_screen_name" : "aimlessburd",
   "in_reply_to_user_id_str" : "45671313",
   "user" : {
@@ -1675,12 +1667,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jared Loftus",
@@ -1703,7 +1695,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@JaredLoftus: Good luck, dude.",
   "id" : 137363623885541377,
   "in_reply_to_status_id" : 137346933713940482,
-  "created_at" : "Fri Nov 18 02:56:54 +0000 2011",
+  "created_at" : "2011-11-18 02:56:54 +0000",
   "in_reply_to_screen_name" : "JaredLoftus",
   "in_reply_to_user_id_str" : "19030591",
   "user" : {
@@ -1711,12 +1703,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1730,18 +1722,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137363534144217088",
   "text" : "11 AM EST tomorrow. That's what it all comes down to.",
   "id" : 137363534144217088,
-  "created_at" : "Fri Nov 18 02:56:33 +0000 2011",
+  "created_at" : "2011-11-18 02:56:33 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tyne Courville",
@@ -1788,7 +1780,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TyneNicole @kelseynhundley @apyfrank @crabshire1901 @cbanke1 Awesomeness.",
   "id" : 137363287422664705,
   "in_reply_to_status_id" : 137351239770963969,
-  "created_at" : "Fri Nov 18 02:55:34 +0000 2011",
+  "created_at" : "2011-11-18 02:55:34 +0000",
   "in_reply_to_screen_name" : "TyneNicole",
   "in_reply_to_user_id_str" : "84789445",
   "user" : {
@@ -1796,12 +1788,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Melissa Burd",
@@ -1824,7 +1816,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@aimlessburd: I'm competing in the global finals of the Global Student Entrepreneur Awards.",
   "id" : 137362618406027264,
   "in_reply_to_status_id" : 137271050395336706,
-  "created_at" : "Fri Nov 18 02:52:54 +0000 2011",
+  "created_at" : "2011-11-18 02:52:54 +0000",
   "in_reply_to_screen_name" : "aimlessburd",
   "in_reply_to_user_id_str" : "45671313",
   "user" : {
@@ -1832,15 +1824,15 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Lampert",
+      "name" : "SEL",
       "screen_name" : "saralampert",
       "indices" : [ 0, 12 ],
       "id_str" : "36579843",
@@ -1860,7 +1852,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@saralampert: Thanks! I present tomorrow at 11 AM EST.",
   "id" : 137362567092895744,
   "in_reply_to_status_id" : 137266068723990528,
-  "created_at" : "Fri Nov 18 02:52:42 +0000 2011",
+  "created_at" : "2011-11-18 02:52:42 +0000",
   "in_reply_to_screen_name" : "saralampert",
   "in_reply_to_user_id_str" : "36579843",
   "user" : {
@@ -1868,12 +1860,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -1896,7 +1888,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarquetteLa: That tweet was mostly tongue-in-cheek.",
   "id" : 137260533945614337,
   "in_reply_to_status_id" : 137224965308170240,
-  "created_at" : "Thu Nov 17 20:07:16 +0000 2011",
+  "created_at" : "2011-11-17 20:07:16 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -1904,12 +1896,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1923,18 +1915,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137260533115125760",
   "text" : "New York, New York. It's been too long, old friend.",
   "id" : 137260533115125760,
-  "created_at" : "Thu Nov 17 20:07:15 +0000 2011",
+  "created_at" : "2011-11-17 20:07:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Christian Bankester",
@@ -1943,11 +1935,11 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "252377432",
       "id" : 252377432
     }, {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 78, 91 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     }, {
       "name" : "Shea Leger",
       "screen_name" : "SheaLeger",
@@ -1972,18 +1964,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137224026526466048",
   "text" : "Guess who's going to the SEC Championship Game? This guy. And @cbanke1. Maybe @Charlie_Lang and @SheaLeger and @meredithhmae too?",
   "id" : 137224026526466048,
-  "created_at" : "Thu Nov 17 17:42:12 +0000 2011",
+  "created_at" : "2011-11-17 17:42:12 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -2006,7 +1998,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarquetteLa: Hm. The Grand Canyon, maybe? Texas is cool sometimes.",
   "id" : 137223754928496640,
   "in_reply_to_status_id" : 137221992586809344,
-  "created_at" : "Thu Nov 17 17:41:07 +0000 2011",
+  "created_at" : "2011-11-17 17:41:07 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -2014,12 +2006,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2033,18 +2025,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137223414086762496",
   "text" : "I guess that the airlines haven't noticed that by charging ridiculous bag fees everyone tries to bring their huge bags as carry-ons. Ugh.",
   "id" : 137223414086762496,
-  "created_at" : "Thu Nov 17 17:39:46 +0000 2011",
+  "created_at" : "2011-11-17 17:39:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jarett Rodriguez",
@@ -2067,7 +2059,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@jarettr: Hopefully someone told her about LSU's awesome student entrepreneurs. I hear one is doing something really awesome this week.",
   "id" : 137213222968246272,
   "in_reply_to_status_id" : 137201651386810368,
-  "created_at" : "Thu Nov 17 16:59:16 +0000 2011",
+  "created_at" : "2011-11-17 16:59:16 +0000",
   "in_reply_to_screen_name" : "jarettr",
   "in_reply_to_user_id_str" : "25733272",
   "user" : {
@@ -2075,12 +2067,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2094,18 +2086,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137212931682205698",
   "text" : "Well, well, well, ATL. We meet again.",
   "id" : 137212931682205698,
-  "created_at" : "Thu Nov 17 16:58:06 +0000 2011",
+  "created_at" : "2011-11-17 16:58:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2119,18 +2111,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "137172510042107904",
   "text" : "Boarding a plane for Atlanta and then headed on to New York.",
   "id" : 137172510042107904,
-  "created_at" : "Thu Nov 17 14:17:29 +0000 2011",
+  "created_at" : "2011-11-17 14:17:29 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sanjay Saraf",
@@ -2153,7 +2145,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@svsaraf: Yes. It just gets better.",
   "id" : 137172409542381568,
   "in_reply_to_status_id" : 136307579042283520,
-  "created_at" : "Thu Nov 17 14:17:05 +0000 2011",
+  "created_at" : "2011-11-17 14:17:05 +0000",
   "in_reply_to_screen_name" : "svsaraf",
   "in_reply_to_user_id_str" : "18367863",
   "user" : {
@@ -2161,12 +2153,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Carpentier",
@@ -2189,7 +2181,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@JasonCarpentier: Yeah, seriously. I feel so sorry for Barney.",
   "id" : 137172365909045248,
   "in_reply_to_status_id" : 136304883233079296,
-  "created_at" : "Thu Nov 17 14:16:55 +0000 2011",
+  "created_at" : "2011-11-17 14:16:55 +0000",
   "in_reply_to_screen_name" : "JasonCarpentier",
   "in_reply_to_user_id_str" : "941621",
   "user" : {
@@ -2197,7 +2189,7 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
@@ -2215,13 +2207,12 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "137022360275529728",
   "in_reply_to_user_id" : 26981455,
   "text" : "@letterboxd: Can I invite people to join?",
   "id" : 137022360275529728,
-  "created_at" : "Thu Nov 17 04:20:51 +0000 2011",
+  "created_at" : "2011-11-17 04:20:51 +0000",
   "in_reply_to_screen_name" : "letterboxd",
   "in_reply_to_user_id_str" : "26981455",
   "user" : {
@@ -2229,15 +2220,15 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ky",
+      "name" : "Kyle",
       "screen_name" : "explodedsoda",
       "indices" : [ 0, 13 ],
       "id_str" : "12802942",
@@ -2257,7 +2248,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@explodedsoda: I didn't know cookie dough was supposed to be used to make cookies. Huh.",
   "id" : 136304975641976832,
   "in_reply_to_status_id" : 136297440788750336,
-  "created_at" : "Tue Nov 15 04:50:13 +0000 2011",
+  "created_at" : "2011-11-15 04:50:13 +0000",
   "in_reply_to_screen_name" : "explodedsoda",
   "in_reply_to_user_id_str" : "12802942",
   "user" : {
@@ -2265,12 +2256,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2284,18 +2275,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "136304600893489152",
   "text" : "Damn, HIMYM. Just \u2026 damn.",
   "id" : 136304600893489152,
-  "created_at" : "Tue Nov 15 04:48:43 +0000 2011",
+  "created_at" : "2011-11-15 04:48:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2309,18 +2300,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "136160915241451520",
   "text" : "Watch out, the cops are radaring on Stanford. Got another ticket, dammit.",
   "id" : 136160915241451520,
-  "created_at" : "Mon Nov 14 19:17:46 +0000 2011",
+  "created_at" : "2011-11-14 19:17:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stefano West",
@@ -2349,7 +2340,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@swest1991 @youlovelucie: It's at least worth a visit.",
   "id" : 136127469660028928,
   "in_reply_to_status_id" : 136114260714598400,
-  "created_at" : "Mon Nov 14 17:04:52 +0000 2011",
+  "created_at" : "2011-11-14 17:04:52 +0000",
   "in_reply_to_screen_name" : "swest1991",
   "in_reply_to_user_id_str" : "18560265",
   "user" : {
@@ -2357,12 +2348,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -2385,7 +2376,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@markbao: Me too. About time we actually meet. I'll be free starting around lunch on Saturday.",
   "id" : 135917621894852609,
   "in_reply_to_status_id" : 135916357287034880,
-  "created_at" : "Mon Nov 14 03:11:00 +0000 2011",
+  "created_at" : "2011-11-14 03:11:00 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -2393,12 +2384,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2412,18 +2403,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135916685155762176",
   "text" : "Wait, Boise State is ranked number 10? How the fuck?",
   "id" : 135916685155762176,
-  "created_at" : "Mon Nov 14 03:07:17 +0000 2011",
+  "created_at" : "2011-11-14 03:07:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2437,18 +2428,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135916319672504320",
   "text" : "Finally, all the voters agree. Unanimous number 1. Feels good.",
   "id" : 135916319672504320,
-  "created_at" : "Mon Nov 14 03:05:50 +0000 2011",
+  "created_at" : "2011-11-14 03:05:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Gore",
@@ -2471,7 +2462,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Kelseyy_Gore: It really is.",
   "id" : 135916241377435649,
   "in_reply_to_status_id" : 135896119317237762,
-  "created_at" : "Mon Nov 14 03:05:31 +0000 2011",
+  "created_at" : "2011-11-14 03:05:31 +0000",
   "in_reply_to_screen_name" : "Kelseyy_Gore",
   "in_reply_to_user_id_str" : "372586838",
   "user" : {
@@ -2479,12 +2470,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -2507,7 +2498,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@markbao: Water before. Breakfast afterwards. Your body wants to absorb after a workout. Early morning all you need is some water.",
   "id" : 135916102738911232,
   "in_reply_to_status_id" : 135905435696902144,
-  "created_at" : "Mon Nov 14 03:04:58 +0000 2011",
+  "created_at" : "2011-11-14 03:04:58 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -2515,12 +2506,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2534,25 +2525,25 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135915175311179778",
   "text" : "Just tried out Burgersmith. Good, but Fat Cow is better.",
   "id" : 135915175311179778,
-  "created_at" : "Mon Nov 14 03:01:17 +0000 2011",
+  "created_at" : "2011-11-14 03:01:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2568,27 +2559,27 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Charlie_Lang: Either way.",
   "id" : 135802240618336257,
   "in_reply_to_status_id" : 135802118870286336,
-  "created_at" : "Sun Nov 13 19:32:31 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-13 19:32:31 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 52, 65 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2601,18 +2592,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135801883888594945",
   "text" : "Did we get a hand on that or was it jus a bad kick, @Charlie_Lang?",
   "id" : 135801883888594945,
-  "created_at" : "Sun Nov 13 19:31:06 +0000 2011",
+  "created_at" : "2011-11-13 19:31:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2626,18 +2617,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135792866940289024",
   "text" : "So glad Jimmy Graham finally caught a ball.",
   "id" : 135792866940289024,
-  "created_at" : "Sun Nov 13 18:55:17 +0000 2011",
+  "created_at" : "2011-11-13 18:55:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2651,25 +2642,25 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135790224692350977",
   "text" : "I've always thought Mike Smith kinda looks like Steve Martin.",
   "id" : 135790224692350977,
-  "created_at" : "Sun Nov 13 18:44:47 +0000 2011",
+  "created_at" : "2011-11-13 18:44:47 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2685,27 +2676,27 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Charlie_Lang: Lol. Me too.",
   "id" : 135789749062471680,
   "in_reply_to_status_id" : 135789581579726848,
-  "created_at" : "Sun Nov 13 18:42:53 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-13 18:42:53 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2721,27 +2712,27 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Charlie_Lang: If that's legit and not them bsing, that is hilarious.",
   "id" : 135788814961614849,
   "in_reply_to_status_id" : 135788572014944257,
-  "created_at" : "Sun Nov 13 18:39:10 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-13 18:39:10 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2755,20 +2746,20 @@ Grailbird.data.tweets_2011_11 =
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: I like how the commentators explained the blocking scheme for Sean Payton. Lol.",
   "id" : 135788276048080896,
-  "created_at" : "Sun Nov 13 18:37:02 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-13 18:37:02 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2785,21 +2776,21 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "135181146366554114",
   "text" : "At #swbtr waiting for the pitches to begin. Let's see what Baton Rouge's got.",
   "id" : 135181146366554114,
-  "created_at" : "Sat Nov 12 02:24:31 +0000 2011",
+  "created_at" : "2011-11-12 02:24:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Lampert",
+      "name" : "SEL",
       "screen_name" : "saralampert",
       "indices" : [ 0, 12 ],
       "id_str" : "36579843",
@@ -2819,7 +2810,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@saralampert: Yes. Also all of those things.",
   "id" : 134657613160906752,
   "in_reply_to_status_id" : 134657458026184704,
-  "created_at" : "Thu Nov 10 15:44:11 +0000 2011",
+  "created_at" : "2011-11-10 15:44:11 +0000",
   "in_reply_to_screen_name" : "saralampert",
   "in_reply_to_user_id_str" : "36579843",
   "user" : {
@@ -2827,12 +2818,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "James",
@@ -2855,7 +2846,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@jcoco6: Absolutely.",
   "id" : 134656838233890817,
   "in_reply_to_status_id" : 134656015324028928,
-  "created_at" : "Thu Nov 10 15:41:06 +0000 2011",
+  "created_at" : "2011-11-10 15:41:06 +0000",
   "in_reply_to_screen_name" : "jcoco6",
   "in_reply_to_user_id_str" : "26943926",
   "user" : {
@@ -2863,15 +2854,15 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Lampert",
+      "name" : "SEL",
       "screen_name" : "saralampert",
       "indices" : [ 0, 12 ],
       "id_str" : "36579843",
@@ -2891,7 +2882,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@saralampert: Yes. I'm a genius.",
   "id" : 134656716875902977,
   "in_reply_to_status_id" : 134656550915682305,
-  "created_at" : "Thu Nov 10 15:40:37 +0000 2011",
+  "created_at" : "2011-11-10 15:40:37 +0000",
   "in_reply_to_screen_name" : "saralampert",
   "in_reply_to_user_id_str" : "36579843",
   "user" : {
@@ -2899,15 +2890,15 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Lampert",
+      "name" : "SEL",
       "screen_name" : "saralampert",
       "indices" : [ 0, 12 ],
       "id_str" : "36579843",
@@ -2927,7 +2918,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@saralampert: Uh, pretty sure that's an English word.",
   "id" : 134655944712912896,
   "in_reply_to_status_id" : 134515449005219840,
-  "created_at" : "Thu Nov 10 15:37:33 +0000 2011",
+  "created_at" : "2011-11-10 15:37:33 +0000",
   "in_reply_to_screen_name" : "saralampert",
   "in_reply_to_user_id_str" : "36579843",
   "user" : {
@@ -2935,12 +2926,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2954,18 +2945,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134515345925996544",
   "text" : "Joe Pa is out. If you disagree with this, you clearly haven't read the grand jury testimony. It's absolutely harrowing.",
   "id" : 134515345925996544,
-  "created_at" : "Thu Nov 10 06:18:52 +0000 2011",
+  "created_at" : "2011-11-10 06:18:52 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -2988,7 +2979,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Do it. It'd be legit.",
   "id" : 134460753964040192,
   "in_reply_to_status_id" : 134449250892394496,
-  "created_at" : "Thu Nov 10 02:41:56 +0000 2011",
+  "created_at" : "2011-11-10 02:41:56 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -2996,12 +2987,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3024,7 +3015,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: I live in BTR, but I could always pick you up at MSY and we could hang around New Orleans a bit. It's less than an hour.",
   "id" : 134446055419944962,
   "in_reply_to_status_id" : 134444536154963968,
-  "created_at" : "Thu Nov 10 01:43:32 +0000 2011",
+  "created_at" : "2011-11-10 01:43:32 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3032,12 +3023,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Bankester",
@@ -3066,7 +3057,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@milmom01: Awesome! @cbanke1 and I will have to make a trip soon.",
   "id" : 134439710692093954,
   "in_reply_to_status_id" : 134439003075256320,
-  "created_at" : "Thu Nov 10 01:18:19 +0000 2011",
+  "created_at" : "2011-11-10 01:18:19 +0000",
   "in_reply_to_screen_name" : "milmom01",
   "in_reply_to_user_id_str" : "28295681",
   "user" : {
@@ -3074,12 +3065,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3102,7 +3093,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: you gotta come then. I'll make a pot of gumbo.",
   "id" : 134438074997420033,
   "in_reply_to_status_id" : 134437926112202752,
-  "created_at" : "Thu Nov 10 01:11:49 +0000 2011",
+  "created_at" : "2011-11-10 01:11:49 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3110,12 +3101,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3138,7 +3129,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: You should make a pit stop in Louisiana. Have you ever been down here?",
   "id" : 134437668896509953,
   "in_reply_to_status_id" : 134389572233740288,
-  "created_at" : "Thu Nov 10 01:10:12 +0000 2011",
+  "created_at" : "2011-11-10 01:10:12 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3146,12 +3137,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3174,7 +3165,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Haha. I should correct that statement, though: it's not entirely about the money.",
   "id" : 134389269753102337,
   "in_reply_to_status_id" : 134388498290573312,
-  "created_at" : "Wed Nov 09 21:57:53 +0000 2011",
+  "created_at" : "2011-11-09 21:57:53 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3182,12 +3173,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3210,7 +3201,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Seriously bro. We should try to get together around the end of the year. Will you be back?",
   "id" : 134389075418427394,
   "in_reply_to_status_id" : 134388155880177665,
-  "created_at" : "Wed Nov 09 21:57:07 +0000 2011",
+  "created_at" : "2011-11-09 21:57:07 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3218,12 +3209,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "James",
@@ -3237,14 +3228,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134350079569043456",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134388110883684352",
   "in_reply_to_user_id" : 26943926,
   "text" : "@jcoco6: I agree. Fire them all.",
   "id" : 134388110883684352,
   "in_reply_to_status_id" : 134350079569043456,
-  "created_at" : "Wed Nov 09 21:53:17 +0000 2011",
+  "created_at" : "2011-11-09 21:53:17 +0000",
   "in_reply_to_screen_name" : "jcoco6",
   "in_reply_to_user_id_str" : "26943926",
   "user" : {
@@ -3252,12 +3242,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3271,14 +3261,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134386522370748416",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134387779512713216",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas: It's not about the money, yo.",
   "id" : 134387779512713216,
   "in_reply_to_status_id" : 134386522370748416,
-  "created_at" : "Wed Nov 09 21:51:58 +0000 2011",
+  "created_at" : "2011-11-09 21:51:58 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3286,35 +3275,34 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134387706791862273",
   "text" : "Already making plans for 2012. Man, is it really that close?",
   "id" : 134387706791862273,
-  "created_at" : "Wed Nov 09 21:51:40 +0000 2011",
+  "created_at" : "2011-11-09 21:51:40 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Bankester",
@@ -3335,7 +3323,7 @@ Grailbird.data.tweets_2011_11 =
   "in_reply_to_user_id" : 28295681,
   "text" : "@milmom01: I only ask because my head is cold.",
   "id" : 134339936127168514,
-  "created_at" : "Wed Nov 09 18:41:51 +0000 2011",
+  "created_at" : "2011-11-09 18:41:51 +0000",
   "in_reply_to_screen_name" : "milmom01",
   "in_reply_to_user_id_str" : "28295681",
   "user" : {
@@ -3343,12 +3331,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Bankester",
@@ -3369,7 +3357,7 @@ Grailbird.data.tweets_2011_11 =
   "in_reply_to_user_id" : 28295681,
   "text" : "@milmom01: How's the hat coming?",
   "id" : 134339874361835521,
-  "created_at" : "Wed Nov 09 18:41:36 +0000 2011",
+  "created_at" : "2011-11-09 18:41:36 +0000",
   "in_reply_to_screen_name" : "milmom01",
   "in_reply_to_user_id_str" : "28295681",
   "user" : {
@@ -3377,12 +3365,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3396,18 +3384,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134339734758633472",
   "text" : "Joe Pa should have been fired immediately. Fuck his legacy, he knowingly let a predator rape little children. Egregious.",
   "id" : 134339734758633472,
-  "created_at" : "Wed Nov 09 18:41:03 +0000 2011",
+  "created_at" : "2011-11-09 18:41:03 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Bankester",
@@ -3430,7 +3418,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@milmom01: Maybe.",
   "id" : 134335084013694977,
   "in_reply_to_status_id" : 134324785365786624,
-  "created_at" : "Wed Nov 09 18:22:34 +0000 2011",
+  "created_at" : "2011-11-09 18:22:34 +0000",
   "in_reply_to_screen_name" : "milmom01",
   "in_reply_to_user_id_str" : "28295681",
   "user" : {
@@ -3438,12 +3426,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Hundley",
@@ -3457,14 +3445,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134297125126275074",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134318111397642241",
   "in_reply_to_user_id" : 378233099,
   "text" : "@kelseynhundley: Enjoy it.",
   "id" : 134318111397642241,
   "in_reply_to_status_id" : 134297125126275074,
-  "created_at" : "Wed Nov 09 17:15:07 +0000 2011",
+  "created_at" : "2011-11-09 17:15:07 +0000",
   "in_reply_to_screen_name" : "kelseynhundley",
   "in_reply_to_user_id_str" : "378233099",
   "user" : {
@@ -3472,46 +3459,45 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134303223698817025",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134318084478603264",
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: I wanted to say something to you, but I hadn't any words. So I just tagged you.",
   "id" : 134318084478603264,
   "in_reply_to_status_id" : 134303223698817025,
-  "created_at" : "Wed Nov 09 17:15:01 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-09 17:15:01 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Christian Bankester",
@@ -3525,14 +3511,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134312503038578689",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134318020771315713",
   "in_reply_to_user_id" : 252377432,
   "text" : "@cbanke1: It's certainly possible.",
   "id" : 134318020771315713,
   "in_reply_to_status_id" : 134312503038578689,
-  "created_at" : "Wed Nov 09 17:14:46 +0000 2011",
+  "created_at" : "2011-11-09 17:14:46 +0000",
   "in_reply_to_screen_name" : "cbanke1",
   "in_reply_to_user_id_str" : "252377432",
   "user" : {
@@ -3540,12 +3525,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -3559,14 +3544,13 @@ Grailbird.data.tweets_2011_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "134317873001795584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "134317991318925312",
   "in_reply_to_user_id" : 14255125,
   "text" : "@MarquetteLa: Me too.",
   "id" : 134317991318925312,
   "in_reply_to_status_id" : 134317873001795584,
-  "created_at" : "Wed Nov 09 17:14:39 +0000 2011",
+  "created_at" : "2011-11-09 17:14:39 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -3574,15 +3558,15 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heavily Sedated",
+      "name" : "You Know Me As",
       "screen_name" : "bryanculver",
       "indices" : [ 0, 12 ],
       "id_str" : "13327",
@@ -3602,7 +3586,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@bryanculver: Dude. Good point. I better go take care of that.",
   "id" : 134301947808333825,
   "in_reply_to_status_id" : 134301700533137408,
-  "created_at" : "Wed Nov 09 16:10:54 +0000 2011",
+  "created_at" : "2011-11-09 16:10:54 +0000",
   "in_reply_to_screen_name" : "bryanculver",
   "in_reply_to_user_id_str" : "13327",
   "user" : {
@@ -3610,19 +3594,19 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3636,20 +3620,20 @@ Grailbird.data.tweets_2011_11 =
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang",
   "id" : 134294511554801664,
-  "created_at" : "Wed Nov 09 15:41:21 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-09 15:41:21 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3663,18 +3647,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134294267182059520",
   "text" : "Just saw a dude on campus with locks on every zipper of his backpack. What the hell does he have in there that's so valuable?",
   "id" : 134294267182059520,
-  "created_at" : "Wed Nov 09 15:40:23 +0000 2011",
+  "created_at" : "2011-11-09 15:40:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Hundley",
@@ -3694,18 +3678,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134292095178522625",
   "text" : "Hey @kelseynhundley, happy birthday.",
   "id" : 134292095178522625,
-  "created_at" : "Wed Nov 09 15:31:45 +0000 2011",
+  "created_at" : "2011-11-09 15:31:45 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3722,18 +3706,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134291818673217537",
   "text" : "This weather needs to decide what it wants to do because it is killing me. #sick",
   "id" : 134291818673217537,
-  "created_at" : "Wed Nov 09 15:30:39 +0000 2011",
+  "created_at" : "2011-11-09 15:30:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://fav.tv\" rel=\"nofollow\">Fav.tv</a>",
+  "source" : "\u003Ca href=\"http:\/\/fav.tv\" rel=\"nofollow\"\u003EFav.tv\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Fav.tv",
@@ -3746,35 +3730,34 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 101, 121 ],
-      "url" : "http://t.co/knsH6D5X",
-      "expanded_url" : "http://fav.tv/s/8DHhW",
-      "display_url" : "fav.tv/s/8DHhW"
+      "url" : "http:\/\/t.co\/knsH6D5X",
+      "expanded_url" : "http:\/\/fav.tv\/s\/8DHhW",
+      "display_url" : "fav.tv\/s\/8DHhW"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "133962673426661377",
-  "text" : "I'm using @Favtv to keep track of my favorite TV shows. Sign up now and you could win a free iPad 2! http://t.co/knsH6D5X",
+  "text" : "I'm using @Favtv to keep track of my favorite TV shows. Sign up now and you could win a free iPad 2! http:\/\/t.co\/knsH6D5X",
   "id" : 133962673426661377,
-  "created_at" : "Tue Nov 08 17:42:44 +0000 2011",
+  "created_at" : "2011-11-08 17:42:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3788,20 +3771,20 @@ Grailbird.data.tweets_2011_11 =
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: The streak stays alive!",
   "id" : 133271184736403456,
-  "created_at" : "Sun Nov 06 19:55:01 +0000 2011",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2011-11-06 19:55:01 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brett Lemoine",
@@ -3824,7 +3807,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@bremic9188: Do it.",
   "id" : 133028260400476160,
   "in_reply_to_status_id" : 133027302421430272,
-  "created_at" : "Sun Nov 06 03:49:43 +0000 2011",
+  "created_at" : "2011-11-06 03:49:43 +0000",
   "in_reply_to_screen_name" : "bremic9188",
   "in_reply_to_user_id_str" : "15461921",
   "user" : {
@@ -3832,12 +3815,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brett Lemoine",
@@ -3850,47 +3833,45 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "133028218910408704",
   "text" : "RT @bremic9188: 50 RTs and I'll put \"Geaux Tigers\" on the DMS signs along I-10 and I-12.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.metrotwit.com/\" rel=\"nofollow\">MetroTwit</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.metrotwit.com\/\" rel=\"nofollow\"\u003EMetroTwit\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "133027302421430272",
     "text" : "50 RTs and I'll put \"Geaux Tigers\" on the DMS signs along I-10 and I-12.",
     "id" : 133027302421430272,
-    "created_at" : "Sun Nov 06 03:45:55 +0000 2011",
+    "created_at" : "2011-11-06 03:45:55 +0000",
     "user" : {
       "name" : "Brett Lemoine",
       "screen_name" : "bremic9188",
       "protected" : false,
       "id_str" : "15461921",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1439853545/39811_1433645320220_1205520073_30993032_111474_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000257680396\/142b26d688f1364407dffc7f59297135_normal.jpeg",
       "id" : 15461921,
       "verified" : false
     }
   },
   "id" : 133028218910408704,
-  "created_at" : "Sun Nov 06 03:49:33 +0000 2011",
+  "created_at" : "2011-11-06 03:49:33 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3904,18 +3885,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "133028130351878144",
   "text" : "This is our year. LSU.",
   "id" : 133028130351878144,
-  "created_at" : "Sun Nov 06 03:49:12 +0000 2011",
+  "created_at" : "2011-11-06 03:49:12 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -3938,7 +3919,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: $150. We usually do flat rate though.",
   "id" : 132945632079003649,
   "in_reply_to_status_id" : 132926540504772608,
-  "created_at" : "Sat Nov 05 22:21:23 +0000 2011",
+  "created_at" : "2011-11-05 22:21:23 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -3946,12 +3927,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "April Frank",
@@ -3974,7 +3955,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@ApyFrank: Thanks, April! You made my day.",
   "id" : 132945552500461568,
   "in_reply_to_status_id" : 132945073049571328,
-  "created_at" : "Sat Nov 05 22:21:04 +0000 2011",
+  "created_at" : "2011-11-05 22:21:04 +0000",
   "in_reply_to_screen_name" : "ApyFrank",
   "in_reply_to_user_id_str" : "32628229",
   "user" : {
@@ -3982,12 +3963,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "April Frank",
@@ -4006,12 +3987,11 @@ Grailbird.data.tweets_2011_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "132945489015480320",
   "text" : "RT @ApyFrank: @lleger is the coolest dude ever",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+    "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Logan Leger",
@@ -4024,13 +4004,12 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "132945073049571328",
     "in_reply_to_user_id" : 3952921,
     "text" : "@lleger is the coolest dude ever",
     "id" : 132945073049571328,
-    "created_at" : "Sat Nov 05 22:19:10 +0000 2011",
+    "created_at" : "2011-11-05 22:19:10 +0000",
     "in_reply_to_screen_name" : "lleger",
     "in_reply_to_user_id_str" : "3952921",
     "user" : {
@@ -4038,24 +4017,24 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "ApyFrank",
       "protected" : true,
       "id_str" : "32628229",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3438322332/32e2e6f098f6fe19a02a085a923825f0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3438322332\/32e2e6f098f6fe19a02a085a923825f0_normal.jpeg",
       "id" : 32628229,
       "verified" : false
     }
   },
   "id" : 132945489015480320,
-  "created_at" : "Sat Nov 05 22:20:49 +0000 2011",
+  "created_at" : "2011-11-05 22:20:49 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -4078,7 +4057,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Done. Also RT'd.",
   "id" : 132863381928550400,
   "in_reply_to_status_id" : 132862899373871104,
-  "created_at" : "Sat Nov 05 16:54:33 +0000 2011",
+  "created_at" : "2011-11-05 16:54:33 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -4086,20 +4065,14 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marshall Haas",
-      "screen_name" : "MarshallHaas",
-      "indices" : [ 3, 16 ],
-      "id_str" : "1268491417",
-      "id" : 1268491417
-    }, {
       "name" : "MovieNightMe",
       "screen_name" : "MovieNightMe",
       "indices" : [ 108, 121 ],
@@ -4108,12 +4081,16 @@ Grailbird.data.tweets_2011_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/jEUUtmT9",
+      "expanded_url" : "http:\/\/goo.gl\/Hv3S4",
+      "display_url" : "goo.gl\/Hv3S4"
+    } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "132863311908847616",
-  "text" : "RT @MarshallHaas: Would love it if the movie lovers out there answered 1 question about a new movie service @movienightme http://t.co/jE ...",
+  "text" : "RT @MarshallHaas: Would love it if the movie lovers out there answered 1 question about a new movie service @movienightme http:\/\/t.co\/jE ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4128,40 +4105,39 @@ Grailbird.data.tweets_2011_11 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 104, 124 ],
-        "url" : "http://t.co/jEUUtmT9",
-        "expanded_url" : "http://goo.gl/Hv3S4",
-        "display_url" : "goo.gl/Hv3S4"
+        "url" : "http:\/\/t.co\/jEUUtmT9",
+        "expanded_url" : "http:\/\/goo.gl\/Hv3S4",
+        "display_url" : "goo.gl\/Hv3S4"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "132860046534119424",
-    "text" : "Would love it if the movie lovers out there answered 1 question about a new movie service @movienightme http://t.co/jEUUtmT9",
+    "text" : "Would love it if the movie lovers out there answered 1 question about a new movie service @movienightme http:\/\/t.co\/jEUUtmT9",
     "id" : 132860046534119424,
-    "created_at" : "Sat Nov 05 16:41:18 +0000 2011",
+    "created_at" : "2011-11-05 16:41:18 +0000",
     "user" : {
       "name" : "Marshall Haas",
       "screen_name" : "marshal",
       "protected" : false,
       "id_str" : "19028099",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2972115740/7346a478ed6aa483126949529c69d5c9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000108991070\/4a9df77a6caf3adbc3904e0ece6ff577_normal.jpeg",
       "id" : 19028099,
       "verified" : false
     }
   },
   "id" : 132863311908847616,
-  "created_at" : "Sat Nov 05 16:54:16 +0000 2011",
+  "created_at" : "2011-11-05 16:54:16 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -4184,7 +4160,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Algorithmically selected or people selected?",
   "id" : 132862945611882496,
   "in_reply_to_status_id" : 132862775667068928,
-  "created_at" : "Sat Nov 05 16:52:49 +0000 2011",
+  "created_at" : "2011-11-05 16:52:49 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -4192,12 +4168,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4211,18 +4187,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132862589100232704",
   "text" : "Brian. Wilson.",
   "id" : 132862589100232704,
-  "created_at" : "Sat Nov 05 16:51:24 +0000 2011",
+  "created_at" : "2011-11-05 16:51:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -4245,7 +4221,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: I like the idea. I love movies. Need an engineer?",
   "id" : 132862035150114816,
   "in_reply_to_status_id" : 132861839083180033,
-  "created_at" : "Sat Nov 05 16:49:12 +0000 2011",
+  "created_at" : "2011-11-05 16:49:12 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -4253,12 +4229,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -4281,7 +4257,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@MarshallHaas: Your venture?",
   "id" : 132861694232895489,
   "in_reply_to_status_id" : 132860046534119424,
-  "created_at" : "Sat Nov 05 16:47:51 +0000 2011",
+  "created_at" : "2011-11-05 16:47:51 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -4289,12 +4265,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4308,18 +4284,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132861474946301952",
   "text" : "I can feel the victory. We're almost there.",
   "id" : 132861474946301952,
-  "created_at" : "Sat Nov 05 16:46:58 +0000 2011",
+  "created_at" : "2011-11-05 16:46:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Gore",
@@ -4354,7 +4330,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@Kelseyy_Gore @shealeger @meredithhmae: We'll finish it next time.",
   "id" : 132843659992367104,
   "in_reply_to_status_id" : 132802946332233729,
-  "created_at" : "Sat Nov 05 15:36:11 +0000 2011",
+  "created_at" : "2011-11-05 15:36:11 +0000",
   "in_reply_to_screen_name" : "Kelseyy_Gore",
   "in_reply_to_user_id_str" : "372586838",
   "user" : {
@@ -4362,12 +4338,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -4402,7 +4378,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger @kelseyy_gore @meredithhmae: Kelsey insisted we watch a movie and then fell asleep 5 minutes in.",
   "id" : 132735001748967424,
   "in_reply_to_status_id" : 132708414706024449,
-  "created_at" : "Sat Nov 05 08:24:25 +0000 2011",
+  "created_at" : "2011-11-05 08:24:25 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -4410,12 +4386,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelsey Gore",
@@ -4441,18 +4417,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132652431074013184",
   "text" : "Hanging out with my favorite equestrian @kelseyy_gore and my favorite Native American @meredithhmae! Yay!",
   "id" : 132652431074013184,
-  "created_at" : "Sat Nov 05 02:56:18 +0000 2011",
+  "created_at" : "2011-11-05 02:56:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4466,18 +4442,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132164592381079553",
   "text" : "\u201CIs she Asian?\u201D \u201CI don't know. She's from somewhere, I bet. The forest, maybe.\u201D",
   "id" : 132164592381079553,
-  "created_at" : "Thu Nov 03 18:37:48 +0000 2011",
+  "created_at" : "2011-11-03 18:37:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4491,18 +4467,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131794140164915201",
   "text" : "My professor looks at us in class as if we don't understand. That's because we don't, dude. I don't speak Korean. Unfortunately.",
   "id" : 131794140164915201,
-  "created_at" : "Wed Nov 02 18:05:46 +0000 2011",
+  "created_at" : "2011-11-02 18:05:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4516,18 +4492,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131793443709132802",
   "text" : "So glad my iPhone learned that I mean \"it's\" when I type irs and not \"IRS\". Why would I ever type that? Except, well, to complain about it.",
   "id" : 131793443709132802,
-  "created_at" : "Wed Nov 02 18:03:00 +0000 2011",
+  "created_at" : "2011-11-02 18:03:00 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4541,18 +4517,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131793152003670016",
   "text" : "Learning about tax credits. You jelly? You should be. My life is awesome.",
   "id" : 131793152003670016,
-  "created_at" : "Wed Nov 02 18:01:50 +0000 2011",
+  "created_at" : "2011-11-02 18:01:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Meredith Holmes",
@@ -4587,7 +4563,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@meredithhmae @shealeger @tynenicole: If you need one eventually, do it. It's supposed to be super easy. And then you'd be with me. :)",
   "id" : 131793042817548288,
   "in_reply_to_status_id" : 131792809240952832,
-  "created_at" : "Wed Nov 02 18:01:24 +0000 2011",
+  "created_at" : "2011-11-02 18:01:24 +0000",
   "in_reply_to_screen_name" : "meredithhmae",
   "in_reply_to_user_id_str" : "316531603",
   "user" : {
@@ -4595,12 +4571,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4614,18 +4590,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131767054008201217",
   "text" : "Lunching with Lonnie at Fuzzy's Taco, officially the chain with the worst name.",
   "id" : 131767054008201217,
-  "created_at" : "Wed Nov 02 16:18:08 +0000 2011",
+  "created_at" : "2011-11-02 16:18:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -4660,7 +4636,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger @tynenicole @meredithhmae: ah, cool. Anyone else?",
   "id" : 131766930339147777,
   "in_reply_to_status_id" : 131766768657121282,
-  "created_at" : "Wed Nov 02 16:17:38 +0000 2011",
+  "created_at" : "2011-11-02 16:17:38 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -4668,12 +4644,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -4708,7 +4684,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@SheaLeger @tynenicole @meredithhmae: Greek and Roman Mythology. It's supposed to be the easiest LSU offers. CLST 2090.",
   "id" : 131766500884348928,
   "in_reply_to_status_id" : 131766342796853248,
-  "created_at" : "Wed Nov 02 16:15:56 +0000 2011",
+  "created_at" : "2011-11-02 16:15:56 +0000",
   "in_reply_to_screen_name" : "SheaLeger",
   "in_reply_to_user_id_str" : "337825260",
   "user" : {
@@ -4716,12 +4692,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tyne Courville",
@@ -4756,7 +4732,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@TyneNicole @shealeger @meredithhmae: I need one and want someone to take it with me.",
   "id" : 131766175578329088,
   "in_reply_to_status_id" : 131765961140355072,
-  "created_at" : "Wed Nov 02 16:14:39 +0000 2011",
+  "created_at" : "2011-11-02 16:14:39 +0000",
   "in_reply_to_screen_name" : "TyneNicole",
   "in_reply_to_user_id_str" : "84789445",
   "user" : {
@@ -4764,12 +4740,12 @@ Grailbird.data.tweets_2011_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -4801,18 +4777,18 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131765398235394050",
   "text" : "Anyone need to take a humanities elective? @SheaLeger @meredithhmae @TyneNicole",
   "id" : 131765398235394050,
-  "created_at" : "Wed Nov 02 16:11:33 +0000 2011",
+  "created_at" : "2011-11-02 16:11:33 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4826,13 +4802,13 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "131567363551281152",
   "text" : "I hate how everything I'm doing academically is so hard, esoteric and so utterly useless.",
   "id" : 131567363551281152,
-  "created_at" : "Wed Nov 02 03:04:38 +0000 2011",
+  "created_at" : "2011-11-02 03:04:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }

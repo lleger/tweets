@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_11 = 
  [ {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Percle",
@@ -14,14 +14,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274735973022179328",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274736232834150400",
   "in_reply_to_user_id" : 187694909,
   "text" : "@JonathanPercle: Guess they\u2019re not used to quality. Different expectations.",
   "id" : 274736232834150400,
   "in_reply_to_status_id" : 274735973022179328,
-  "created_at" : "Sat Dec 01 04:46:36 +0000 2012",
+  "created_at" : "2012-12-01 04:46:36 +0000",
   "in_reply_to_screen_name" : "JonathanPercle",
   "in_reply_to_user_id_str" : "187694909",
   "user" : {
@@ -29,35 +28,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274734830497959936",
   "text" : "This PAC-12 game was pretty lame.",
   "id" : 274734830497959936,
-  "created_at" : "Sat Dec 01 04:41:02 +0000 2012",
+  "created_at" : "2012-12-01 04:41:02 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -65,14 +63,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274713798953279488",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274713898375073792",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: Sounds about right. Could see him fitting in well there. Got good size and speed.",
   "id" : 274713898375073792,
   "in_reply_to_status_id" : 274713798953279488,
-  "created_at" : "Sat Dec 01 03:17:51 +0000 2012",
+  "created_at" : "2012-12-01 03:17:51 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -80,12 +77,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -93,14 +90,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274681011550425089",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274711035364130817",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: Assume he wouldn\u2019t be played at QB at LSU\u2026",
   "id" : 274711035364130817,
   "in_reply_to_status_id" : 274681011550425089,
-  "created_at" : "Sat Dec 01 03:06:29 +0000 2012",
+  "created_at" : "2012-12-01 03:06:29 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -108,12 +104,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -121,14 +117,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274681011550425089",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274710967840038914",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: Looks like a great player. Hate to lose LA boys, but I only want kids who want to play for LSU. Hope he does.",
   "id" : 274710967840038914,
   "in_reply_to_status_id" : 274681011550425089,
-  "created_at" : "Sat Dec 01 03:06:13 +0000 2012",
+  "created_at" : "2012-12-01 03:06:13 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -136,35 +131,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274707285744422912",
   "text" : "I swear to god, if I hear another \u201Cscientist\u201D talk about how creationism is valid and should be taught in classrooms, I\u2019m going to lose it.",
   "id" : 274707285744422912,
-  "created_at" : "Sat Dec 01 02:51:35 +0000 2012",
+  "created_at" : "2012-12-01 02:51:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -172,14 +166,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274678916608819201",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274680765114093568",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: Is LSU a front-runner for Beckwith?",
   "id" : 274680765114093568,
   "in_reply_to_status_id" : 274678916608819201,
-  "created_at" : "Sat Dec 01 01:06:12 +0000 2012",
+  "created_at" : "2012-12-01 01:06:12 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -187,12 +180,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -202,13 +195,13 @@ Grailbird.data.tweets_2012_11 =
       "id" : 370125671
     } ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/274671548936368128/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/274671548936368128\/photo\/1",
       "indices" : [ 93, 113 ],
-      "url" : "http://t.co/0QPLiL2w",
-      "media_url" : "http://pbs.twimg.com/media/A8_UUYjCMAAWuWg.jpg",
+      "url" : "http:\/\/t.co\/0QPLiL2w",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A8_UUYjCMAAWuWg.jpg",
       "id_str" : "274671548944756736",
       "id" : 274671548944756736,
-      "media_url_https" : "https://pbs.twimg.com/media/A8_UUYjCMAAWuWg.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A8_UUYjCMAAWuWg.jpg",
       "sizes" : [ {
         "h" : 450,
         "resize" : "fit",
@@ -230,20 +223,19 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       } ],
-      "display_url" : "pic.twitter.com/0QPLiL2w"
+      "display_url" : "pic.twitter.com\/0QPLiL2w"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274631986142932992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274671548936368128",
   "in_reply_to_user_id" : 370125671,
-  "text" : "@ParishBrewing: I believe these to be the last bottles in Baton Rouge. And they\u2019re all mine! http://t.co/0QPLiL2w",
+  "text" : "@ParishBrewing: I believe these to be the last bottles in Baton Rouge. And they\u2019re all mine! http:\/\/t.co\/0QPLiL2w",
   "id" : 274671548936368128,
   "in_reply_to_status_id" : 274631986142932992,
-  "created_at" : "Sat Dec 01 00:29:35 +0000 2012",
+  "created_at" : "2012-12-01 00:29:35 +0000",
   "in_reply_to_screen_name" : "ParishBrewing",
   "in_reply_to_user_id_str" : "370125671",
   "user" : {
@@ -251,12 +243,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BPAT",
@@ -269,46 +261,49 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "in_reply_to_status_id_str" : "274652455646658561",
+  "geo" : { },
   "id_str" : "274662585079586816",
+  "in_reply_to_user_id" : 145019777,
   "text" : "@BijalPatel13: Stay hungry. Stay foolish.",
   "id" : 274662585079586816,
-  "created_at" : "Fri Nov 30 23:53:57 +0000 2012",
+  "in_reply_to_status_id" : 274652455646658561,
+  "created_at" : "2012-11-30 23:53:57 +0000",
+  "in_reply_to_screen_name" : "BijalPatel13",
+  "in_reply_to_user_id_str" : "145019777",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274648288525971457",
   "text" : "My vote for SEC Coach of the Year would be Sumlin at A&amp;M. He\u2019s done a great job. Franklin and Freeze deserve nods as well.",
   "id" : 274648288525971457,
-  "created_at" : "Fri Nov 30 22:57:09 +0000 2012",
+  "created_at" : "2012-11-30 22:57:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -322,14 +317,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274624191066685440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274632834789023744",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: In a good way or a bad way?",
   "id" : 274632834789023744,
   "in_reply_to_status_id" : 274624191066685440,
-  "created_at" : "Fri Nov 30 21:55:44 +0000 2012",
+  "created_at" : "2012-11-30 21:55:44 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -337,12 +331,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -356,14 +350,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274631986142932992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274632694435045377",
   "in_reply_to_user_id" : 370125671,
   "text" : "@ParishBrewing: Awesome! Can\u2019t wait to drink it.",
   "id" : 274632694435045377,
   "in_reply_to_status_id" : 274631986142932992,
-  "created_at" : "Fri Nov 30 21:55:11 +0000 2012",
+  "created_at" : "2012-11-30 21:55:11 +0000",
   "in_reply_to_screen_name" : "ParishBrewing",
   "in_reply_to_user_id_str" : "370125671",
   "user" : {
@@ -371,12 +364,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -389,23 +382,22 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274631365943767040",
   "text" : "Sent Melissa to Calandro\u2019s because I have to get some @ParishBrewing Grand Reserve, but I\u2019m stuck in finals all day. Better not run out.",
   "id" : 274631365943767040,
-  "created_at" : "Fri Nov 30 21:49:54 +0000 2012",
+  "created_at" : "2012-11-30 21:49:54 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -419,14 +411,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274568777553809408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274569024011124736",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: I\u2019m in.",
   "id" : 274569024011124736,
   "in_reply_to_status_id" : 274568777553809408,
-  "created_at" : "Fri Nov 30 17:42:11 +0000 2012",
+  "created_at" : "2012-11-30 17:42:11 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -434,12 +425,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -453,14 +444,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274568777553809408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274569007057756162",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: Or laugh at how $2 B buys you a losing team?",
   "id" : 274569007057756162,
   "in_reply_to_status_id" : 274568777553809408,
-  "created_at" : "Fri Nov 30 17:42:07 +0000 2012",
+  "created_at" : "2012-11-30 17:42:07 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -468,12 +458,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -487,14 +477,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274568777553809408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274568938434736130",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: And taunt him because with all of that he couldn\u2019t get Les to go to his alma mater?",
   "id" : 274568938434736130,
   "in_reply_to_status_id" : 274568777553809408,
-  "created_at" : "Fri Nov 30 17:41:50 +0000 2012",
+  "created_at" : "2012-11-30 17:41:50 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -502,12 +491,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -520,115 +509,110 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274568580492820480",
   "text" : "I\u2019m sure @Jonathan_Hooper would love to head to the home of his precious Cowboys for a bowl, eh?",
   "id" : 274568580492820480,
-  "created_at" : "Fri Nov 30 17:40:25 +0000 2012",
+  "created_at" : "2012-11-30 17:40:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274568143849021440",
   "text" : "I\u2019d take Cotton Bowl though. Definitely over Chick-fil-A. Jerry Dome is so nice. Dallas for a weekend could be fun.",
   "id" : 274568143849021440,
-  "created_at" : "Fri Nov 30 17:38:41 +0000 2012",
+  "created_at" : "2012-11-30 17:38:41 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274568034524483584",
   "text" : "Hearing Cotton Bowl v Texas rumors. Would be surprised since we\u2019re facing TCU (also B12) in Jerry Dome at the beginning of next season.",
   "id" : 274568034524483584,
-  "created_at" : "Fri Nov 30 17:38:15 +0000 2012",
+  "created_at" : "2012-11-30 17:38:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274550555936956416",
   "text" : "Wish dead week actually meant time to get prepared for finals. I\u2019m so exhausted.",
   "id" : 274550555936956416,
-  "created_at" : "Fri Nov 30 16:28:48 +0000 2012",
+  "created_at" : "2012-11-30 16:28:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274536729615159297",
   "text" : "SEC teams vs Manziel: LSU: 1-0; Bama: 0-1. SEC titles in past year: LSU: 1-0; Bama: 0-0. Ergo, LSU is best SEC W team. QED.",
   "id" : 274536729615159297,
-  "created_at" : "Fri Nov 30 15:33:51 +0000 2012",
+  "created_at" : "2012-11-30 15:33:51 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "J. C.",
@@ -642,14 +626,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274535244076564482",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274535601129271297",
   "in_reply_to_user_id" : 53593056,
   "text" : "@cptnsexy: I complain about my math class all the time. It\u2019s really hard. But we already knew I was a terrible person.",
   "id" : 274535601129271297,
   "in_reply_to_status_id" : 274535244076564482,
-  "created_at" : "Fri Nov 30 15:29:22 +0000 2012",
+  "created_at" : "2012-11-30 15:29:22 +0000",
   "in_reply_to_screen_name" : "cptnsexy",
   "in_reply_to_user_id_str" : "53593056",
   "user" : {
@@ -657,150 +640,144 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274535442676846593",
   "text" : "IMMA PUNCH YOU IN THE JEANS",
   "id" : 274535442676846593,
-  "created_at" : "Fri Nov 30 15:28:44 +0000 2012",
+  "created_at" : "2012-11-30 15:28:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274527613337350144",
   "text" : "The founder of 5 Hour Energy is a billionaire, yet their commercials look like they were produced by a fifth grader.",
   "id" : 274527613337350144,
-  "created_at" : "Fri Nov 30 14:57:38 +0000 2012",
+  "created_at" : "2012-11-30 14:57:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274501831198121984",
   "text" : "Banana foster latte at CC\u2019s is delicious.",
   "id" : 274501831198121984,
-  "created_at" : "Fri Nov 30 13:15:11 +0000 2012",
+  "created_at" : "2012-11-30 13:15:11 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274419053743988737",
   "text" : "Late to the party, but\u2026 holy shit, they found water on Mercury. This is big news.",
   "id" : 274419053743988737,
-  "created_at" : "Fri Nov 30 07:46:15 +0000 2012",
+  "created_at" : "2012-11-30 07:46:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274412344237506560",
   "text" : "Or maybe that\u2019s just because I\u2019m mildly ADD and it\u2019s hard for me to do the same thing and sit in the same place for 2 damn hours.",
   "id" : 274412344237506560,
-  "created_at" : "Fri Nov 30 07:19:35 +0000 2012",
+  "created_at" : "2012-11-30 07:19:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274412257511866369",
   "text" : "The worst part about finals is that they\u2019re 2 hours long. A 2 hour test is hard to get through no matter how well you know the material.",
   "id" : 274412257511866369,
-  "created_at" : "Fri Nov 30 07:19:15 +0000 2012",
+  "created_at" : "2012-11-30 07:19:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -814,14 +791,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274405032575778816",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274407944328732672",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: Oh, yeah, sleep is important for talking. Good luck.",
   "id" : 274407944328732672,
   "in_reply_to_status_id" : 274405032575778816,
-  "created_at" : "Fri Nov 30 07:02:06 +0000 2012",
+  "created_at" : "2012-11-30 07:02:06 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -829,12 +805,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -848,14 +824,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274403639370592256",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274404360862191616",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: \u201CDead week\u201D my ass.",
   "id" : 274404360862191616,
   "in_reply_to_status_id" : 274403639370592256,
-  "created_at" : "Fri Nov 30 06:47:52 +0000 2012",
+  "created_at" : "2012-11-30 06:47:52 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -863,12 +838,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -882,14 +857,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274403639370592256",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274404334995922944",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: Not too bad. We\u2019re probably in the same boat. Definitely an all-nighter for me.",
   "id" : 274404334995922944,
   "in_reply_to_status_id" : 274403639370592256,
-  "created_at" : "Fri Nov 30 06:47:46 +0000 2012",
+  "created_at" : "2012-11-30 06:47:46 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -897,12 +871,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -916,14 +890,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274402404630396928",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274403452325609472",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: How far along are you in either?",
   "id" : 274403452325609472,
   "in_reply_to_status_id" : 274402404630396928,
-  "created_at" : "Fri Nov 30 06:44:15 +0000 2012",
+  "created_at" : "2012-11-30 06:44:15 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -931,35 +904,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274400972892168192",
   "text" : "There\u2019s a giant fire just off campus. I can see it from my apartment. Looks almost like burn off from a refinery. Is there one that close?",
   "id" : 274400972892168192,
-  "created_at" : "Fri Nov 30 06:34:24 +0000 2012",
+  "created_at" : "2012-11-30 06:34:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Will Heflin",
@@ -973,14 +945,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274385580022968320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274386993465659392",
   "in_reply_to_user_id" : 18150454,
   "text" : "@KaiserWillis: Looks like we\u2019re at the bottom of the race with too many teams competing. Not seeing it happen.",
   "id" : 274386993465659392,
   "in_reply_to_status_id" : 274385580022968320,
-  "created_at" : "Fri Nov 30 05:38:51 +0000 2012",
+  "created_at" : "2012-11-30 05:38:51 +0000",
   "in_reply_to_screen_name" : "KaiserWillis",
   "in_reply_to_user_id_str" : "18150454",
   "user" : {
@@ -988,35 +959,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274379686480596992",
   "text" : "So, the odds after tonight\u2019s loss of the Saints making the playoffs is essentially zero, right?",
   "id" : 274379686480596992,
-  "created_at" : "Fri Nov 30 05:09:49 +0000 2012",
+  "created_at" : "2012-11-30 05:09:49 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -1030,14 +1000,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274379313665699840",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274379531404587008",
   "in_reply_to_user_id" : 14255125,
   "text" : "@MarquetteLa: I feel like I\u2019m in elementary. This is a senior-only class. Our instructor pretends we\u2019re infants. It\u2019s infuriating.",
   "id" : 274379531404587008,
   "in_reply_to_status_id" : 274379313665699840,
-  "created_at" : "Fri Nov 30 05:09:12 +0000 2012",
+  "created_at" : "2012-11-30 05:09:12 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -1045,81 +1014,78 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274378885691482113",
   "text" : "I feel like I\u2019m in third grade. Going to have to pull an all-nighter to finish up this journal for my college class. Wtf.",
   "id" : 274378885691482113,
-  "created_at" : "Fri Nov 30 05:06:38 +0000 2012",
+  "created_at" : "2012-11-30 05:06:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274373067092934656",
   "text" : "Not during dead week (aka 80% of your course points are due week), however. Looked like an awesome game tonight.",
   "id" : 274373067092934656,
-  "created_at" : "Fri Nov 30 04:43:31 +0000 2012",
+  "created_at" : "2012-11-30 04:43:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274372956816297984",
   "text" : "So excited that LSU BB is looking on the up-and-up again. Need to get into the PMAC more and check them out.",
   "id" : 274372956816297984,
-  "created_at" : "Fri Nov 30 04:43:05 +0000 2012",
+  "created_at" : "2012-11-30 04:43:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Dixon",
@@ -1135,12 +1101,11 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274372876809932800",
   "text" : "RT @Sheadixon: Johnny Jones is off to a 5-0 start as #LSU head coach. Tigers erased a 16-point deficit, took down Seton Hall 72-67 over  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1150,35 +1115,34 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274372721893326848",
     "text" : "Johnny Jones is off to a 5-0 start as #LSU head coach. Tigers erased a 16-point deficit, took down Seton Hall 72-67 over at the PMAC.",
     "id" : 274372721893326848,
-    "created_at" : "Fri Nov 30 04:42:09 +0000 2012",
+    "created_at" : "2012-11-30 04:42:09 +0000",
     "user" : {
       "name" : "Shea Dixon",
       "screen_name" : "Sheadixon",
       "protected" : false,
       "id_str" : "23910455",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1266426928/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1266426928\/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
       "id" : 23910455,
       "verified" : false
     }
   },
   "id" : 274372876809932800,
-  "created_at" : "Fri Nov 30 04:42:46 +0000 2012",
+  "created_at" : "2012-11-30 04:42:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "New Orleans Saints",
@@ -1194,10 +1158,9 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274372809910792192",
-  "text" : "RT @Saints: Last time Brees didn\u2019t throw a TD pass was in a 24-10 home win vs Jets on 10/4/09 #NOvsATL",
+  "text" : "RT @Saints: Last time Brees didn\u2019t throw a TD pass was in a 24-10 home win vs Jets on 10\/4\/09 #NOvsATL",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1209,35 +1172,34 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274372270682681345",
-    "text" : "Last time Brees didn\u2019t throw a TD pass was in a 24-10 home win vs Jets on 10/4/09 #NOvsATL",
+    "text" : "Last time Brees didn\u2019t throw a TD pass was in a 24-10 home win vs Jets on 10\/4\/09 #NOvsATL",
     "id" : 274372270682681345,
-    "created_at" : "Fri Nov 30 04:40:21 +0000 2012",
+    "created_at" : "2012-11-30 04:40:21 +0000",
     "user" : {
       "name" : "New Orleans Saints",
       "screen_name" : "Saints",
       "protected" : false,
       "id_str" : "31504542",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2791375676/ecc7163eb0792408e88e137f1fb20f28_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000867427250\/CBDCATv__normal.jpeg",
       "id" : 31504542,
       "verified" : true
     }
   },
   "id" : 274372809910792192,
-  "created_at" : "Fri Nov 30 04:42:30 +0000 2012",
+  "created_at" : "2012-11-30 04:42:30 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matthew Albright",
@@ -1251,14 +1213,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274372244598300672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274372784493309952",
   "in_reply_to_user_id" : 65446064,
   "text" : "@DaMattAlbright: Average, like $10 M a year, but I think his contract gets him something like $40 M during this first year.",
   "id" : 274372784493309952,
   "in_reply_to_status_id" : 274372244598300672,
-  "created_at" : "Fri Nov 30 04:42:24 +0000 2012",
+  "created_at" : "2012-11-30 04:42:24 +0000",
   "in_reply_to_screen_name" : "DaMattAlbright",
   "in_reply_to_user_id_str" : "65446064",
   "user" : {
@@ -1266,12 +1227,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "SportsCenter",
@@ -1284,8 +1245,7 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274372464673447936",
   "text" : "RT @SportsCenter: Falcons make statement win over Saints 23-13. Drew Brees throws 5 INT (career high) and snaps NFL record 54-game Pass  ...",
   "retweeted_status" : {
@@ -1296,235 +1256,226 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274371946559447040",
     "text" : "Falcons make statement win over Saints 23-13. Drew Brees throws 5 INT (career high) and snaps NFL record 54-game Pass TD streak.",
     "id" : 274371946559447040,
-    "created_at" : "Fri Nov 30 04:39:04 +0000 2012",
+    "created_at" : "2012-11-30 04:39:04 +0000",
     "user" : {
       "name" : "SportsCenter",
       "screen_name" : "SportsCenter",
       "protected" : false,
       "id_str" : "26257166",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3567372788/397a42648d71e68327b9179258ec2d90_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417192959864344576\/wvwStqon_normal.jpeg",
       "id" : 26257166,
       "verified" : true
     }
   },
   "id" : 274372464673447936,
-  "created_at" : "Fri Nov 30 04:41:07 +0000 2012",
+  "created_at" : "2012-11-30 04:41:07 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274371899469991936",
   "text" : "What a way to end the streak, Brees. Five interceptions? Unbelievable.",
   "id" : 274371899469991936,
-  "created_at" : "Fri Nov 30 04:38:53 +0000 2012",
+  "created_at" : "2012-11-30 04:38:53 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274371782742511616",
   "text" : "Twitter has revolutionized scout reporting. Recruits just simply post on Twitter when they have their visits and what they\u2019re feeling.",
   "id" : 274371782742511616,
-  "created_at" : "Fri Nov 30 04:38:25 +0000 2012",
+  "created_at" : "2012-11-30 04:38:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274370781683806208",
   "text" : "This has become a farce. Never thought we\u2019d see this kind of piss poor performance by Drew. Terrible, just terrible.",
   "id" : 274370781683806208,
-  "created_at" : "Fri Nov 30 04:34:26 +0000 2012",
+  "created_at" : "2012-11-30 04:34:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274367807460892673",
   "text" : "JESUS CHRIST BREES CAN YOU THROW ONE COMPLETE GOD DAMN PASS WITHOUT IT BEING INTERCEPTED?!",
   "id" : 274367807460892673,
-  "created_at" : "Fri Nov 30 04:22:37 +0000 2012",
+  "created_at" : "2012-11-30 04:22:37 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274359564814671872",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274360998692007938",
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: He needs to quit throwing INTs first. God damn.",
   "id" : 274360998692007938,
   "in_reply_to_status_id" : 274359564814671872,
-  "created_at" : "Fri Nov 30 03:55:34 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-30 03:55:34 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274358879075328002",
   "text" : "Brees is doing his best Jarett Lee impression tonight. Jesus, man, get your shit together.",
   "id" : 274358879075328002,
-  "created_at" : "Fri Nov 30 03:47:08 +0000 2012",
+  "created_at" : "2012-11-30 03:47:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 0, 20 ],
-      "url" : "http://t.co/x3JI5KCJ",
-      "expanded_url" : "http://cl.ly/image/062P3z020E1b",
-      "display_url" : "cl.ly/image/062P3z02\u2026"
+      "url" : "http:\/\/t.co\/x3JI5KCJ",
+      "expanded_url" : "http:\/\/cl.ly\/image\/062P3z020E1b",
+      "display_url" : "cl.ly\/image\/062P3z02\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274343027500277761",
-  "text" : "http://t.co/x3JI5KCJ Weird note on Wikipedia. Never seen that before.",
+  "text" : "http:\/\/t.co\/x3JI5KCJ Weird note on Wikipedia. Never seen that before.",
   "id" : 274343027500277761,
-  "created_at" : "Fri Nov 30 02:44:09 +0000 2012",
+  "created_at" : "2012-11-30 02:44:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274342889859985408",
   "text" : "If your dad doesn\u2019t even want to work for you, how terrible must you be? Wasn\u2019t USC\u2019s only shining light Monte\u2019s defense? Lane Kiffin sucks.",
   "id" : 274342889859985408,
-  "created_at" : "Fri Nov 30 02:43:36 +0000 2012",
+  "created_at" : "2012-11-30 02:43:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -1538,14 +1489,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274339679225143296",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274342282487033856",
   "in_reply_to_user_id" : 1471331,
-  "text" : "@gregwschultz: I\u2019ve got homework :/ Gamecast is distracting enough. Thanks, though.",
+  "text" : "@gregwschultz: I\u2019ve got homework :\/ Gamecast is distracting enough. Thanks, though.",
   "id" : 274342282487033856,
   "in_reply_to_status_id" : 274339679225143296,
-  "created_at" : "Fri Nov 30 02:41:11 +0000 2012",
+  "created_at" : "2012-11-30 02:41:11 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -1553,35 +1503,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274338455125893120",
   "text" : "Don\u2019t have the NFL network, so I\u2019m watching the game on ESPN\u2019s website. Dude. The Saints are playing like shit.",
   "id" : 274338455125893120,
-  "created_at" : "Fri Nov 30 02:25:59 +0000 2012",
+  "created_at" : "2012-11-30 02:25:59 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "LSUtix",
@@ -1595,14 +1544,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274334249870557185",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274335248811180033",
   "in_reply_to_user_id" : 353241558,
   "text" : "@LSUtix: Lame. Thanks for the info.",
   "id" : 274335248811180033,
   "in_reply_to_status_id" : 274334249870557185,
-  "created_at" : "Fri Nov 30 02:13:14 +0000 2012",
+  "created_at" : "2012-11-30 02:13:14 +0000",
   "in_reply_to_screen_name" : "LSUtix",
   "in_reply_to_user_id_str" : "353241558",
   "user" : {
@@ -1610,12 +1558,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jim Gaffigan",
@@ -1628,47 +1576,45 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274300743631126528",
   "text" : "RT @JimGaffigan: Just found out Taylor Swift broke up with me.  Again. :(",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.whosay.com\" rel=\"nofollow\">WhoSay</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.whosay.com\" rel=\"nofollow\"\u003EWhoSay\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274297263906500608",
     "text" : "Just found out Taylor Swift broke up with me.  Again. :(",
     "id" : 274297263906500608,
-    "created_at" : "Thu Nov 29 23:42:18 +0000 2012",
+    "created_at" : "2012-11-29 23:42:18 +0000",
     "user" : {
       "name" : "Jim Gaffigan",
       "screen_name" : "JimGaffigan",
       "protected" : false,
       "id_str" : "6539592",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2901067463/51dd03cae8aac60297be0a0d65ab5bc6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000403406798\/3b74ca32384573f33d86bbea35765df2_normal.jpeg",
       "id" : 6539592,
       "verified" : true
     }
   },
   "id" : 274300743631126528,
-  "created_at" : "Thu Nov 29 23:56:08 +0000 2012",
+  "created_at" : "2012-11-29 23:56:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Moscona",
@@ -1681,47 +1627,45 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274300639746588672",
   "text" : "RT @MattMoscona: CFB wins since '05: LSU-85; OhioSt-84; Florida-83; Bama-82; USC-80; Texas-79; UGA-75. BoiseSt leads non-BCS with 91",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274295871728930817",
     "text" : "CFB wins since '05: LSU-85; OhioSt-84; Florida-83; Bama-82; USC-80; Texas-79; UGA-75. BoiseSt leads non-BCS with 91",
     "id" : 274295871728930817,
-    "created_at" : "Thu Nov 29 23:36:46 +0000 2012",
+    "created_at" : "2012-11-29 23:36:46 +0000",
     "user" : {
       "name" : "Matt Moscona",
       "screen_name" : "MattMoscona",
       "protected" : false,
       "id_str" : "486702899",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1813181897/matt_heisman_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1813181897\/matt_heisman_normal.jpg",
       "id" : 486702899,
       "verified" : false
     }
   },
   "id" : 274300639746588672,
-  "created_at" : "Thu Nov 29 23:55:43 +0000 2012",
+  "created_at" : "2012-11-29 23:55:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Allie Graham",
@@ -1735,14 +1679,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274295124983427072",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274295352566366208",
   "in_reply_to_user_id" : 24721978,
   "text" : "@alliergraham: The pros will help him straighten out, but he needs to get away from his \u2018crew\u2019. He keeps getting pulled back.",
   "id" : 274295352566366208,
   "in_reply_to_status_id" : 274295124983427072,
-  "created_at" : "Thu Nov 29 23:34:42 +0000 2012",
+  "created_at" : "2012-11-29 23:34:42 +0000",
   "in_reply_to_screen_name" : "alliergraham",
   "in_reply_to_user_id_str" : "24721978",
   "user" : {
@@ -1750,12 +1693,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Moscona",
@@ -1768,46 +1711,44 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274293518380457984",
   "text" : "I like how @MattMoscona just called a guy out on air for being a troll. Good for you, Matt.",
   "id" : 274293518380457984,
-  "created_at" : "Thu Nov 29 23:27:25 +0000 2012",
+  "created_at" : "2012-11-29 23:27:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274293059326472192",
   "text" : "I believe Mathieu can be successful in the NFL, but only if he gets drafted away from Louisiana. Packers, Lions\u00A0\u2014 somewhere far away.",
   "id" : 274293059326472192,
-  "created_at" : "Thu Nov 29 23:25:36 +0000 2012",
+  "created_at" : "2012-11-29 23:25:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Barrett Conrad",
@@ -1821,14 +1762,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274278016891359233",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274288523480281090",
   "in_reply_to_user_id" : 20596403,
   "text" : "@BarrettConrad: That is awesome.",
   "id" : 274288523480281090,
   "in_reply_to_status_id" : 274278016891359233,
-  "created_at" : "Thu Nov 29 23:07:34 +0000 2012",
+  "created_at" : "2012-11-29 23:07:34 +0000",
   "in_reply_to_screen_name" : "BarrettConrad",
   "in_reply_to_user_id_str" : "20596403",
   "user" : {
@@ -1836,12 +1776,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Barrett Conrad",
@@ -1855,14 +1795,18 @@ Grailbird.data.tweets_2012_11 =
       "text" : "loveit",
       "indices" : [ 120, 127 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/6GlNdy2V",
+      "expanded_url" : "http:\/\/www.macobserver.com\/tmo\/article\/need-the-lord-of-the-rings-timeline-its-on-your-mac",
+      "display_url" : "macobserver.com\/tmo\/article\/ne\u2026"
+    } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274288507055403009",
-  "text" : "RT @BarrettConrad: Dates from the LotR is stored in Mac OS X. Open terminal and \"cat /usr/share/calendar/calendar.lotr\" #loveit http://t ...",
+  "text" : "RT @BarrettConrad: Dates from the LotR is stored in Mac OS X. Open terminal and \"cat \/usr\/share\/calendar\/calendar.lotr\" #loveit http:\/\/t ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1872,118 +1816,114 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ {
         "indices" : [ 109, 129 ],
-        "url" : "http://t.co/6GlNdy2V",
-        "expanded_url" : "http://www.macobserver.com/tmo/article/need-the-lord-of-the-rings-timeline-its-on-your-mac",
-        "display_url" : "macobserver.com/tmo/article/ne\u2026"
+        "url" : "http:\/\/t.co\/6GlNdy2V",
+        "expanded_url" : "http:\/\/www.macobserver.com\/tmo\/article\/need-the-lord-of-the-rings-timeline-its-on-your-mac",
+        "display_url" : "macobserver.com\/tmo\/article\/ne\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "274278016891359233",
-    "text" : "Dates from the LotR is stored in Mac OS X. Open terminal and \"cat /usr/share/calendar/calendar.lotr\" #loveit http://t.co/6GlNdy2V",
+    "text" : "Dates from the LotR is stored in Mac OS X. Open terminal and \"cat \/usr\/share\/calendar\/calendar.lotr\" #loveit http:\/\/t.co\/6GlNdy2V",
     "id" : 274278016891359233,
-    "created_at" : "Thu Nov 29 22:25:49 +0000 2012",
+    "created_at" : "2012-11-29 22:25:49 +0000",
     "user" : {
       "name" : "Barrett Conrad",
       "screen_name" : "BarrettConrad",
       "protected" : false,
       "id_str" : "20596403",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2509305142/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2509305142\/image_normal.jpg",
       "id" : 20596403,
       "verified" : false
     }
   },
   "id" : 274288507055403009,
-  "created_at" : "Thu Nov 29 23:07:30 +0000 2012",
+  "created_at" : "2012-11-29 23:07:30 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274287410915995649",
   "text" : "As in, could you go to draft with NCAA eligibility left, not get selected, and return to play in college?",
   "id" : 274287410915995649,
-  "created_at" : "Thu Nov 29 23:03:09 +0000 2012",
+  "created_at" : "2012-11-29 23:03:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274287294888935424",
   "text" : "Just curious: if you declare for the draft, does that make you ineligible in NCAA, or do you become ineligible after you sign a contract?",
   "id" : 274287294888935424,
-  "created_at" : "Thu Nov 29 23:02:41 +0000 2012",
+  "created_at" : "2012-11-29 23:02:41 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274271118385377280",
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: Honestly, if we sweep the dirty birds this year, I\u2019ll consider this season a success. Because fuck ATL.",
   "id" : 274271118385377280,
-  "created_at" : "Thu Nov 29 21:58:24 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-29 21:58:24 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "LSUtix",
@@ -1996,13 +1936,12 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274269614094041088",
   "in_reply_to_user_id" : 353241558,
   "text" : "@lsutix: Can I get student priority points for going to Arkansas? Wasn\u2019t a student ticket, but y\u2019all upgraded me, so it was an LSU one.",
   "id" : 274269614094041088,
-  "created_at" : "Thu Nov 29 21:52:26 +0000 2012",
+  "created_at" : "2012-11-29 21:52:26 +0000",
   "in_reply_to_screen_name" : "LSUtix",
   "in_reply_to_user_id_str" : "353241558",
   "user" : {
@@ -2010,12 +1949,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Meredith Holmes",
@@ -2029,14 +1968,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274034032596107265",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274035181667635201",
   "in_reply_to_user_id" : 316531603,
   "text" : "@meredithhmae: Good.",
   "id" : 274035181667635201,
   "in_reply_to_status_id" : 274034032596107265,
-  "created_at" : "Thu Nov 29 06:20:53 +0000 2012",
+  "created_at" : "2012-11-29 06:20:53 +0000",
   "in_reply_to_screen_name" : "meredithhmae",
   "in_reply_to_user_id_str" : "316531603",
   "user" : {
@@ -2044,12 +1982,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Meredith Holmes",
@@ -2063,14 +2001,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "274033010284851201",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274033297519157248",
   "in_reply_to_user_id" : 316531603,
   "text" : "@meredithhmae: When? Hope you scheduled time in to see your favorite person ever. (Hint: me)",
   "id" : 274033297519157248,
   "in_reply_to_status_id" : 274033010284851201,
-  "created_at" : "Thu Nov 29 06:13:24 +0000 2012",
+  "created_at" : "2012-11-29 06:13:24 +0000",
   "in_reply_to_screen_name" : "meredithhmae",
   "in_reply_to_user_id_str" : "316531603",
   "user" : {
@@ -2078,12 +2015,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Meredith Holmes",
@@ -2097,14 +2034,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273995817164079105",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "274029693798338560",
   "in_reply_to_user_id" : 316531603,
   "text" : "@meredithhmae: You\u2019re coming back?",
   "id" : 274029693798338560,
   "in_reply_to_status_id" : 273995817164079105,
-  "created_at" : "Thu Nov 29 05:59:04 +0000 2012",
+  "created_at" : "2012-11-29 05:59:04 +0000",
   "in_reply_to_screen_name" : "meredithhmae",
   "in_reply_to_user_id_str" : "316531603",
   "user" : {
@@ -2112,35 +2048,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273996229237678080",
   "text" : "\u201CLogan, quit smufflecating me!\u201D \u2014Melissa\n\nThere\u2019s that Texas education for you.",
   "id" : 273996229237678080,
-  "created_at" : "Thu Nov 29 03:46:06 +0000 2012",
+  "created_at" : "2012-11-29 03:46:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -2154,14 +2089,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273935197504929792",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273939958895628288",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Gotcha.",
   "id" : 273939958895628288,
   "in_reply_to_status_id" : 273935197504929792,
-  "created_at" : "Thu Nov 29 00:02:30 +0000 2012",
+  "created_at" : "2012-11-29 00:02:30 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -2169,81 +2103,78 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273939916776419328",
   "text" : "I\u2019m glad we gave him the extension. I like Les. He\u2019s a great coach who wins. He fits here. We probably went paying him competitively anyway.",
   "id" : 273939916776419328,
-  "created_at" : "Thu Nov 29 00:02:20 +0000 2012",
+  "created_at" : "2012-11-29 00:02:20 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273934088132521984",
   "text" : "Also, he needs to stop promoting Chavis so much for that damn UT job. I\u2019d like him to stay.",
   "id" : 273934088132521984,
-  "created_at" : "Wed Nov 28 23:39:10 +0000 2012",
+  "created_at" : "2012-11-28 23:39:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273933641896304640",
   "text" : "Also, Miles said the offer was \u201Csincere\u201D, but any chance he was seriously considering it? I don\u2019t see that.",
   "id" : 273933641896304640,
-  "created_at" : "Wed Nov 28 23:37:24 +0000 2012",
+  "created_at" : "2012-11-28 23:37:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Moscona",
@@ -2256,185 +2187,177 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273933146733563905",
   "text" : "RT @MattMoscona: Miles: 31 starts by true frosh this season.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "273899573246840833",
     "text" : "Miles: 31 starts by true frosh this season.",
     "id" : 273899573246840833,
-    "created_at" : "Wed Nov 28 21:22:01 +0000 2012",
+    "created_at" : "2012-11-28 21:22:01 +0000",
     "user" : {
       "name" : "Matt Moscona",
       "screen_name" : "MattMoscona",
       "protected" : false,
       "id_str" : "486702899",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1813181897/matt_heisman_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1813181897\/matt_heisman_normal.jpg",
       "id" : 486702899,
       "verified" : false
     }
   },
   "id" : 273933146733563905,
-  "created_at" : "Wed Nov 28 23:35:26 +0000 2012",
+  "created_at" : "2012-11-28 23:35:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273933119189577728",
   "text" : "Wait. When did Jerry Jones enter the Miles-Arkansas drama? Did I miss something?",
   "id" : 273933119189577728,
-  "created_at" : "Wed Nov 28 23:35:19 +0000 2012",
+  "created_at" : "2012-11-28 23:35:19 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273875914557898752",
   "text" : "About to go get owned on this semester project. It didn\u2019t turn out how I wanted it to at all. :(",
   "id" : 273875914557898752,
-  "created_at" : "Wed Nov 28 19:48:01 +0000 2012",
+  "created_at" : "2012-11-28 19:48:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273706816930721792",
   "text" : "In the end, we should fight for human rights, because it affects us all\u2014not just the women, gays and minorities who are oppressed.",
   "id" : 273706816930721792,
-  "created_at" : "Wed Nov 28 08:36:05 +0000 2012",
+  "created_at" : "2012-11-28 08:36:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273706519332265984",
   "text" : "And, of course, discourse with others from different backgrounds is very important. There\u2019s so much to learn out there!",
   "id" : 273706519332265984,
-  "created_at" : "Wed Nov 28 08:34:54 +0000 2012",
+  "created_at" : "2012-11-28 08:34:54 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273706343007920128",
   "text" : "Think. Reason. Observe. When you do it first-hand and continually question your results, you\u2019ll find many new interesting thoughts.",
   "id" : 273706343007920128,
-  "created_at" : "Wed Nov 28 08:34:12 +0000 2012",
+  "created_at" : "2012-11-28 08:34:12 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273706183737618432",
   "text" : "I believe in so many things I never thought I would. Opening your mind to doubt and skepticism is truly freeing.",
   "id" : 273706183737618432,
-  "created_at" : "Wed Nov 28 08:33:34 +0000 2012",
+  "created_at" : "2012-11-28 08:33:34 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -2448,14 +2371,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273661998028423169",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273662121638780928",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: And why would they be?",
   "id" : 273662121638780928,
   "in_reply_to_status_id" : 273661998028423169,
-  "created_at" : "Wed Nov 28 05:38:28 +0000 2012",
+  "created_at" : "2012-11-28 05:38:28 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -2463,81 +2385,78 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273627124106153984",
   "text" : "Sportacular is the best sports app on iOS right now, and it just got better. ESPN is way behind. Do yourself a favor and download it.",
   "id" : 273627124106153984,
-  "created_at" : "Wed Nov 28 03:19:24 +0000 2012",
+  "created_at" : "2012-11-28 03:19:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273623776091054080",
   "text" : "Where there\u2019s smoke, there\u2019s fire? I just really can\u2019t see Les leaving the best job in college football. He loves it here, as far as I know.",
   "id" : 273623776091054080,
-  "created_at" : "Wed Nov 28 03:06:06 +0000 2012",
+  "created_at" : "2012-11-28 03:06:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273623432854388736",
   "text" : "I previously said I needed a sound engineer. What I actually need is a sound designer. Need some effects created for an app.",
   "id" : 273623432854388736,
-  "created_at" : "Wed Nov 28 03:04:44 +0000 2012",
+  "created_at" : "2012-11-28 03:04:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Worrel",
@@ -2551,14 +2470,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273620047354798080",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273622173728530432",
   "in_reply_to_user_id" : 45771317,
   "text" : "@johnworrel: Yeah\u2014get what you\u2019re saying, but disagree. He wins, players like him, and we have a good graduation rate. Good to me.",
   "id" : 273622173728530432,
   "in_reply_to_status_id" : 273620047354798080,
-  "created_at" : "Wed Nov 28 02:59:44 +0000 2012",
+  "created_at" : "2012-11-28 02:59:44 +0000",
   "in_reply_to_screen_name" : "johnworrel",
   "in_reply_to_user_id_str" : "45771317",
   "user" : {
@@ -2566,12 +2484,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Worrel",
@@ -2585,14 +2503,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273619113706934272",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273619279176417280",
   "in_reply_to_user_id" : 45771317,
   "text" : "@johnworrel: I get what you\u2019re saying, but I don\u2019t buy it. Lot of fans like you, but I think he\u2019s a great coach.",
   "id" : 273619279176417280,
   "in_reply_to_status_id" : 273619113706934272,
-  "created_at" : "Wed Nov 28 02:48:14 +0000 2012",
+  "created_at" : "2012-11-28 02:48:14 +0000",
   "in_reply_to_screen_name" : "johnworrel",
   "in_reply_to_user_id_str" : "45771317",
   "user" : {
@@ -2600,65 +2517,57 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
-      "indices" : [ 3, 17 ],
-      "id_str" : "73194806",
-      "id" : 73194806
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273618628153335808",
   "text" : "RT @LSUBillMartin: Combined 2012 SEC Record of '13 East Opponents: LSU 14-2 (at UGA, UF); Ark 13-3; AU 8-8; Ole Miss, A&amp;M 7-9; MSU 6 ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "273516538454212609",
     "text" : "Combined 2012 SEC Record of '13 East Opponents: LSU 14-2 (at UGA, UF); Ark 13-3; AU 8-8; Ole Miss, A&amp;M 7-9; MSU 6-10; Alabama 1-15 (UK, UT)",
     "id" : 273516538454212609,
-    "created_at" : "Tue Nov 27 19:59:59 +0000 2012",
+    "created_at" : "2012-11-27 19:59:59 +0000",
     "user" : {
       "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
+      "screen_name" : "MSUBillMartin",
       "protected" : false,
       "id_str" : "73194806",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2326294370/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2326294370\/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
       "id" : 73194806,
       "verified" : false
     }
   },
   "id" : 273618628153335808,
-  "created_at" : "Wed Nov 28 02:45:39 +0000 2012",
+  "created_at" : "2012-11-28 02:45:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Worrel",
@@ -2672,14 +2581,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273597734022418432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273617079486267392",
   "in_reply_to_user_id" : 45771317,
   "text" : "@johnworrel: Why don\u2019t you like Les?",
   "id" : 273617079486267392,
   "in_reply_to_status_id" : 273597734022418432,
-  "created_at" : "Wed Nov 28 02:39:29 +0000 2012",
+  "created_at" : "2012-11-28 02:39:29 +0000",
   "in_reply_to_screen_name" : "johnworrel",
   "in_reply_to_user_id_str" : "45771317",
   "user" : {
@@ -2687,12 +2595,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Worrel",
@@ -2706,14 +2614,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273595966232350721",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273596328074948609",
   "in_reply_to_user_id" : 45771317,
   "text" : "@johnworrel: Some random sports \u201Cwriter\u201D. Miles loves it here. He won\u2019t make the mistake Saban did and leave the best job in cfb.",
   "id" : 273596328074948609,
   "in_reply_to_status_id" : 273595966232350721,
-  "created_at" : "Wed Nov 28 01:17:02 +0000 2012",
+  "created_at" : "2012-11-28 01:17:02 +0000",
   "in_reply_to_screen_name" : "johnworrel",
   "in_reply_to_user_id_str" : "45771317",
   "user" : {
@@ -2721,35 +2628,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273592898258354176",
   "text" : "Hahaha, Les Miles? Hahaha, to Arkansas? Hahaha. Best thing I\u2019ve heard all day.",
   "id" : 273592898258354176,
-  "created_at" : "Wed Nov 28 01:03:24 +0000 2012",
+  "created_at" : "2012-11-28 01:03:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -2763,14 +2669,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273584753377148928",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273585094269235200",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: I\u2019ve looked at a few sites but haven\u2019t found anything I\u2019m totally happy with yet. Custom might be the way to go.",
   "id" : 273585094269235200,
   "in_reply_to_status_id" : 273584753377148928,
-  "created_at" : "Wed Nov 28 00:32:24 +0000 2012",
+  "created_at" : "2012-11-28 00:32:24 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -2778,12 +2683,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -2797,14 +2702,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273578741177925633",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273581089719730177",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Looking for someone who can create sound effects for an app we\u2019re working on.",
   "id" : 273581089719730177,
   "in_reply_to_status_id" : 273578741177925633,
-  "created_at" : "Wed Nov 28 00:16:29 +0000 2012",
+  "created_at" : "2012-11-28 00:16:29 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -2812,86 +2716,83 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273577434262163457",
   "text" : "Looking for a good sound engineer for help on a project. Hit me up if you know anyone.",
   "id" : 273577434262163457,
-  "created_at" : "Wed Nov 28 00:01:57 +0000 2012",
+  "created_at" : "2012-11-28 00:01:57 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273515210705342464",
   "text" : "Tulane to the Big East? One reaction: LOL.",
   "id" : 273515210705342464,
-  "created_at" : "Tue Nov 27 19:54:42 +0000 2012",
+  "created_at" : "2012-11-27 19:54:42 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 120, 140 ],
-      "url" : "http://t.co/41U3HLTX",
-      "expanded_url" : "http://www.theonion.com/articles/gene-chizik-fired-just-two-years-before-auburns-na,30521/",
-      "display_url" : "theonion.com/articles/gene-\u2026"
+      "url" : "http:\/\/t.co\/41U3HLTX",
+      "expanded_url" : "http:\/\/www.theonion.com\/articles\/gene-chizik-fired-just-two-years-before-auburns-na,30521\/",
+      "display_url" : "theonion.com\/articles\/gene-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273477722028777473",
-  "text" : "\u201CGene Chizik Fired Just Two Years Before Auburn's National Title Stripped Away\u201D The Onion looks into their crystal ball http://t.co/41U3HLTX",
+  "text" : "\u201CGene Chizik Fired Just Two Years Before Auburn's National Title Stripped Away\u201D The Onion looks into their crystal ball http:\/\/t.co\/41U3HLTX",
   "id" : 273477722028777473,
-  "created_at" : "Tue Nov 27 17:25:44 +0000 2012",
+  "created_at" : "2012-11-27 17:25:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Fake ESPN",
@@ -2904,84 +2805,72 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273313837955039233",
   "text" : "RT @TheFakeESPN: Eagles may have just turned over Reid's job.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "273280447906213888",
     "text" : "Eagles may have just turned over Reid's job.",
     "id" : 273280447906213888,
-    "created_at" : "Tue Nov 27 04:21:50 +0000 2012",
+    "created_at" : "2012-11-27 04:21:50 +0000",
     "user" : {
       "name" : "The Fake ESPN",
       "screen_name" : "TheFakeESPN",
       "protected" : false,
       "id_str" : "307478701",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3636597876/9e92458d4102194073414c3fb44f447f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3636597876\/9e92458d4102194073414c3fb44f447f_normal.jpeg",
       "id" : 307478701,
       "verified" : false
     }
   },
   "id" : 273313837955039233,
-  "created_at" : "Tue Nov 27 06:34:31 +0000 2012",
+  "created_at" : "2012-11-27 06:34:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 15, 36 ],
-      "url" : "https://t.co/nIklsdE9",
-      "expanded_url" : "https://twitter.com/aaronpaul_8/status/273267807406391296",
-      "display_url" : "twitter.com/aaronpaul_8/st\u2026"
+      "url" : "https:\/\/t.co\/nIklsdE9",
+      "expanded_url" : "https:\/\/twitter.com\/aaronpaul_8\/status\/273267807406391296",
+      "display_url" : "twitter.com\/aaronpaul_8\/st\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273313236512817152",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: https://t.co/nIklsdE9 I can\u2019t wait.",
+  "text" : "@LSUrockhound: https:\/\/t.co\/nIklsdE9 I can\u2019t wait.",
   "id" : 273313236512817152,
-  "created_at" : "Tue Nov 27 06:32:08 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
+  "created_at" : "2012-11-27 06:32:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Aaron Paul",
@@ -2994,47 +2883,45 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273313024373317632",
   "text" : "RT @aaronpaul_8: I just finished reading the first episode of the final season of Breaking Bad and words can not express what I just exp ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "273267807406391296",
     "text" : "I just finished reading the first episode of the final season of Breaking Bad and words can not express what I just experienced. Holy shit.",
     "id" : 273267807406391296,
-    "created_at" : "Tue Nov 27 03:31:37 +0000 2012",
+    "created_at" : "2012-11-27 03:31:37 +0000",
     "user" : {
       "name" : "Aaron Paul",
       "screen_name" : "aaronpaul_8",
       "protected" : false,
       "id_str" : "332638587",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3598139336/5e6f7ea9a4619aaaa4c05c73b735314d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3598139336\/5e6f7ea9a4619aaaa4c05c73b735314d_normal.jpeg",
       "id" : 332638587,
       "verified" : true
     }
   },
   "id" : 273313024373317632,
-  "created_at" : "Tue Nov 27 06:31:17 +0000 2012",
+  "created_at" : "2012-11-27 06:31:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -3048,14 +2935,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273229508272857088",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273310574476132352",
   "in_reply_to_user_id" : 14255125,
   "text" : "@MarquetteLa: Me too, mothafucka. He was my favorite.",
   "id" : 273310574476132352,
   "in_reply_to_status_id" : 273229508272857088,
-  "created_at" : "Tue Nov 27 06:21:33 +0000 2012",
+  "created_at" : "2012-11-27 06:21:33 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -3063,35 +2949,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273309578643513344",
   "text" : "Anyone else impressed at how LSU manages to keep rebuilding top defenses in the wake of yearly mass NFL exoduses? I certainly am.",
   "id" : 273309578643513344,
-  "created_at" : "Tue Nov 27 06:17:36 +0000 2012",
+  "created_at" : "2012-11-27 06:17:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ron Domingue",
@@ -3105,14 +2990,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273204866959171584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273214356915892224",
   "in_reply_to_user_id" : 10999052,
   "text" : "@rondomingue: The NFL\u2019s bias against the Saints is blatant and ridiculous.",
   "id" : 273214356915892224,
   "in_reply_to_status_id" : 273204866959171584,
-  "created_at" : "Mon Nov 26 23:59:13 +0000 2012",
+  "created_at" : "2012-11-26 23:59:13 +0000",
   "in_reply_to_screen_name" : "rondomingue",
   "in_reply_to_user_id_str" : "10999052",
   "user" : {
@@ -3120,12 +3004,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -3139,14 +3023,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273157154918240257",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273172689626226688",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: Dude. How high are you right now?",
   "id" : 273172689626226688,
   "in_reply_to_status_id" : 273157154918240257,
-  "created_at" : "Mon Nov 26 21:13:39 +0000 2012",
+  "created_at" : "2012-11-26 21:13:39 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -3154,58 +3037,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273169730959994880",
   "text" : "This new LSU word game has a terrible name and an even worse design. Don\u2019t waste your money.",
   "id" : 273169730959994880,
-  "created_at" : "Mon Nov 26 21:01:53 +0000 2012",
+  "created_at" : "2012-11-26 21:01:53 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273168709558886401",
   "text" : "So much shit to do. Engineering professors do not understand dead week.",
   "id" : 273168709558886401,
-  "created_at" : "Mon Nov 26 20:57:50 +0000 2012",
+  "created_at" : "2012-11-26 20:57:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -3219,14 +3100,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273090140388335617",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273168455866392576",
   "in_reply_to_user_id" : 14255125,
   "text" : "@MarquetteLa: You must not be doing DNS correctly.",
   "id" : 273168455866392576,
   "in_reply_to_status_id" : 273090140388335617,
-  "created_at" : "Mon Nov 26 20:56:49 +0000 2012",
+  "created_at" : "2012-11-26 20:56:49 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -3234,12 +3114,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Will Heflin",
@@ -3253,14 +3133,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273083914988429313",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273116797220298755",
   "in_reply_to_user_id" : 18150454,
   "text" : "@KaiserWillis: I faxed in a letter. Hopefully that\u2019ll do the trick.",
   "id" : 273116797220298755,
   "in_reply_to_status_id" : 273083914988429313,
-  "created_at" : "Mon Nov 26 17:31:33 +0000 2012",
+  "created_at" : "2012-11-26 17:31:33 +0000",
   "in_reply_to_screen_name" : "KaiserWillis",
   "in_reply_to_user_id_str" : "18150454",
   "user" : {
@@ -3268,12 +3147,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Bunner",
@@ -3287,14 +3166,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273114083967004672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273116707583819776",
   "in_reply_to_user_id" : 14804784,
   "text" : "@jeremybnnr: I should be able to. Just a lot of bureaucracy to navigate. And I have to find a fax machine. Lame.",
   "id" : 273116707583819776,
   "in_reply_to_status_id" : 273114083967004672,
-  "created_at" : "Mon Nov 26 17:31:12 +0000 2012",
+  "created_at" : "2012-11-26 17:31:12 +0000",
   "in_reply_to_screen_name" : "jeremybnnr",
   "in_reply_to_user_id_str" : "14804784",
   "user" : {
@@ -3302,12 +3180,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Percle",
@@ -3321,14 +3199,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273088887004467200",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273116561492025345",
   "in_reply_to_user_id" : 187694909,
   "text" : "@JonathanPercle: I can\u2019t even email back. I have to call or fax. Who the hell even has a fax anymore?",
   "id" : 273116561492025345,
   "in_reply_to_status_id" : 273088887004467200,
-  "created_at" : "Mon Nov 26 17:30:37 +0000 2012",
+  "created_at" : "2012-11-26 17:30:37 +0000",
   "in_reply_to_screen_name" : "JonathanPercle",
   "in_reply_to_user_id_str" : "187694909",
   "user" : {
@@ -3336,12 +3213,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Percle",
@@ -3355,14 +3232,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "273080432315203584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273080648732917761",
   "in_reply_to_user_id" : 187694909,
   "text" : "@JonathanPercle: Trying to navigate that right now. It has to be done today but I just got the notice. Bureaucracy, ugh.",
   "id" : 273080648732917761,
   "in_reply_to_status_id" : 273080432315203584,
-  "created_at" : "Mon Nov 26 15:07:54 +0000 2012",
+  "created_at" : "2012-11-26 15:07:54 +0000",
   "in_reply_to_screen_name" : "JonathanPercle",
   "in_reply_to_user_id_str" : "187694909",
   "user" : {
@@ -3370,58 +3246,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "273077644738826240",
   "text" : "I got summoned for jury duty during finals week. Naturally.",
   "id" : 273077644738826240,
-  "created_at" : "Mon Nov 26 14:55:58 +0000 2012",
+  "created_at" : "2012-11-26 14:55:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272875233256550400",
   "text" : "\u2026and there goes the Saints\u2019 playoff chances. Great year for Louisiana football.",
   "id" : 272875233256550400,
-  "created_at" : "Mon Nov 26 01:31:40 +0000 2012",
+  "created_at" : "2012-11-26 01:31:40 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Sawyer",
@@ -3435,14 +3309,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "272799579769020417",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272800344172548096",
   "in_reply_to_user_id" : 17893043,
   "text" : "@MrCleanWithHair: Sounds legitimate.",
   "id" : 272800344172548096,
   "in_reply_to_status_id" : 272799579769020417,
-  "created_at" : "Sun Nov 25 20:34:05 +0000 2012",
+  "created_at" : "2012-11-25 20:34:05 +0000",
   "in_reply_to_screen_name" : "MrCleanWithHair",
   "in_reply_to_user_id_str" : "17893043",
   "user" : {
@@ -3450,12 +3323,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3463,14 +3336,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "272788288543289345",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272788654349512704",
   "in_reply_to_user_id" : 4429011,
   "text" : "@dgmcdowe: I don\u2019t see how that merits a jump.",
   "id" : 272788654349512704,
   "in_reply_to_status_id" : 272788288543289345,
-  "created_at" : "Sun Nov 25 19:47:38 +0000 2012",
+  "created_at" : "2012-11-25 19:47:38 +0000",
   "in_reply_to_screen_name" : "dgmcdowell",
   "in_reply_to_user_id_str" : "4429011",
   "user" : {
@@ -3478,12 +3350,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Bunner",
@@ -3506,7 +3378,7 @@ Grailbird.data.tweets_2012_11 =
   "text" : "@jeremybnnr: It\u2019s looking likely. Sigh.",
   "id" : 272788519670407168,
   "in_reply_to_status_id" : 272788417941741568,
-  "created_at" : "Sun Nov 25 19:47:05 +0000 2012",
+  "created_at" : "2012-11-25 19:47:05 +0000",
   "in_reply_to_screen_name" : "jeremybnnr",
   "in_reply_to_user_id_str" : "14804784",
   "user" : {
@@ -3514,104 +3386,100 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272787707527303168",
   "text" : "AP is full of shit. No way Ohio State is #4.",
   "id" : 272787707527303168,
-  "created_at" : "Sun Nov 25 19:43:52 +0000 2012",
+  "created_at" : "2012-11-25 19:43:52 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272787022563921920",
   "text" : "We\u2019re going to end up in the Chick-fil-A bowl, and that makes me sad. At least we should get a quality opponent, right? Clemson or FSU?",
   "id" : 272787022563921920,
-  "created_at" : "Sun Nov 25 19:41:08 +0000 2012",
+  "created_at" : "2012-11-25 19:41:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272786840107507712",
   "text" : "Why does the AP hate LSU so much? We dropped behind a Stanford team that lost to Washington, which LSU dismantled.",
   "id" : 272786840107507712,
-  "created_at" : "Sun Nov 25 19:40:25 +0000 2012",
+  "created_at" : "2012-11-25 19:40:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272743105181138946",
   "text" : "Minter stacks up better than Te\u2019o in every category except interceptions. How is Te\u2019o in the Heisman discussion again?",
   "id" : 272743105181138946,
-  "created_at" : "Sun Nov 25 16:46:38 +0000 2012",
+  "created_at" : "2012-11-25 16:46:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Abshire",
@@ -3625,14 +3493,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "272587498440515585",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272742251409575938",
   "in_reply_to_user_id" : 30381234,
   "text" : "@crabshire1901: I like this tweet. Very much.",
   "id" : 272742251409575938,
   "in_reply_to_status_id" : 272587498440515585,
-  "created_at" : "Sun Nov 25 16:43:14 +0000 2012",
+  "created_at" : "2012-11-25 16:43:14 +0000",
   "in_reply_to_screen_name" : "crabshire1901",
   "in_reply_to_user_id_str" : "30381234",
   "user" : {
@@ -3640,367 +3507,320 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272741313550626816",
   "text" : "If LSU had prevented that last Bama TD, we\u2019d be going to Miami to face ND. Instead, we\u2019re going to ATL to play in the CFA Bowl. Sigh.",
   "id" : 272741313550626816,
-  "created_at" : "Sun Nov 25 16:39:31 +0000 2012",
+  "created_at" : "2012-11-25 16:39:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272559925874532352",
-  "text" : "Also, it was really nice hearing something other than the Verne/Gary train wreck call a game. Not much better, though.",
+  "text" : "Also, it was really nice hearing something other than the Verne\/Gary train wreck call a game. Not much better, though.",
   "id" : 272559925874532352,
-  "created_at" : "Sun Nov 25 04:38:44 +0000 2012",
+  "created_at" : "2012-11-25 04:38:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272558749850427392",
   "text" : "How worthless is Lane Kiffin as a coach? That\u2019s a team loaded with title-level talent and he pissed it away. Fire him already!",
   "id" : 272558749850427392,
-  "created_at" : "Sun Nov 25 04:34:04 +0000 2012",
+  "created_at" : "2012-11-25 04:34:04 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272558308475412480",
   "text" : "I swear to god if Manziel loses to Te\u2019o I will give up on the Heisman forever. God dammit.",
   "id" : 272558308475412480,
-  "created_at" : "Sun Nov 25 04:32:19 +0000 2012",
+  "created_at" : "2012-11-25 04:32:19 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "272557104823422977",
-  "geo" : {
-  },
-  "id_str" : "272557696748752896",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: Pretty sure ND just proved there is no god. How wonderfully ironic.",
-  "id" : 272557696748752896,
-  "in_reply_to_status_id" : 272557104823422977,
-  "created_at" : "Sun Nov 25 04:29:53 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "272557104823422977",
-  "geo" : {
-  },
-  "id_str" : "272557617157656576",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: OH MY GOD WHAT THE FUCK",
-  "id" : 272557617157656576,
-  "in_reply_to_status_id" : 272557104823422977,
-  "created_at" : "Sun Nov 25 04:29:34 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "272557696748752896",
+  "text" : "@LSUrockhound: Pretty sure ND just proved there is no god. How wonderfully ironic.",
+  "id" : 272557696748752896,
+  "created_at" : "2012-11-25 04:29:53 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "272557617157656576",
+  "text" : "@LSUrockhound: OH MY GOD WHAT THE FUCK",
+  "id" : 272557617157656576,
+  "created_at" : "2012-11-25 04:29:34 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "272557048586203137",
   "text" : "I am so annoyed right now at college football.",
   "id" : 272557048586203137,
-  "created_at" : "Sun Nov 25 04:27:18 +0000 2012",
+  "created_at" : "2012-11-25 04:27:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272556828754333696",
   "text" : "And this means LSU ends up in the Chick-fil-A bowl. What a deflated end to a great 10-2 season with quality wins.",
   "id" : 272556828754333696,
-  "created_at" : "Sun Nov 25 04:26:26 +0000 2012",
+  "created_at" : "2012-11-25 04:26:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272556458913193984",
   "text" : "But honestly, fuck Norte Dame. Their schedule and wins are pathetic. Alabama will trounce them. Another Bama title. Thanks a lot, cfb.",
   "id" : 272556458913193984,
-  "created_at" : "Sun Nov 25 04:24:58 +0000 2012",
+  "created_at" : "2012-11-25 04:24:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272555745080381440",
   "text" : "Lots of stupid Kiffin coaching. That guy sucks.",
   "id" : 272555745080381440,
-  "created_at" : "Sun Nov 25 04:22:08 +0000 2012",
+  "created_at" : "2012-11-25 04:22:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272555440955592706",
   "text" : "I\u2019m more convinced USC lost the game more than Norte Dame won. Barkley would\u2019ve tipped the scales, probably.",
   "id" : 272555440955592706,
-  "created_at" : "Sun Nov 25 04:20:55 +0000 2012",
+  "created_at" : "2012-11-25 04:20:55 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272555296650571776",
   "text" : "After watching this game, I\u2019m not convinced Notre Dame is the best team in the nation. Top 10, sure, but not the best.",
   "id" : 272555296650571776,
-  "created_at" : "Sun Nov 25 04:20:21 +0000 2012",
+  "created_at" : "2012-11-25 04:20:21 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "272548124952764417",
-  "geo" : {
-  },
-  "id_str" : "272548758787616768",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: Especially if we don\u2019t learn how to tackle or play pass defense. They\u2019ve got a great team.",
-  "id" : 272548758787616768,
-  "in_reply_to_status_id" : 272548124952764417,
-  "created_at" : "Sun Nov 25 03:54:22 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "272547539482447872",
-  "text" : "How long until A&amp;M led by Sumlin and Manziel win a championship? Next year, perhaps?",
-  "id" : 272547539482447872,
-  "created_at" : "Sun Nov 25 03:49:31 +0000 2012",
+  "geo" : { },
+  "id_str" : "272548758787616768",
+  "text" : "@LSUrockhound: Especially if we don\u2019t learn how to tackle or play pass defense. They\u2019ve got a great team.",
+  "id" : 272548758787616768,
+  "created_at" : "2012-11-25 03:54:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "272547539482447872",
+  "text" : "How long until A&amp;M led by Sumlin and Manziel win a championship? Next year, perhaps?",
+  "id" : 272547539482447872,
+  "created_at" : "2012-11-25 03:49:31 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4008,14 +3828,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "272505835622645761",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272513422481035264",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: It should be at least close. It\u2019s very hard to play with a target on your back. It\u2019s a lot of pressure.",
   "id" : 272513422481035264,
   "in_reply_to_status_id" : 272505835622645761,
-  "created_at" : "Sun Nov 25 01:33:57 +0000 2012",
+  "created_at" : "2012-11-25 01:33:57 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -4023,12 +3842,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Allaura Roberts",
@@ -4041,36 +3860,34 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272467134116950016",
   "text" : "Congratulations to my dear friend @allieroberts on tying the knot today. It was a beautiful ceremony. May you be happy forever!",
   "id" : 272467134116950016,
-  "created_at" : "Sat Nov 24 22:30:01 +0000 2012",
+  "created_at" : "2012-11-24 22:30:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272363469347639296",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: Think LSU looks for a new OC anytime soon? Not sure an offensive line coach was ever a good choice. Some good coaches free.",
   "id" : 272363469347639296,
-  "created_at" : "Sat Nov 24 15:38:06 +0000 2012",
+  "created_at" : "2012-11-24 15:38:06 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -4078,259 +3895,243 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003ESafari on iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 68, 88 ],
-      "url" : "http://t.co/sPvqamXn",
-      "expanded_url" : "http://jukeleft.com/black-friday-tragedy-22-trampled-by-bargain-crazed-ndamukong-suh/",
-      "display_url" : "jukeleft.com/black-friday-t\u2026"
+      "url" : "http:\/\/t.co\/sPvqamXn",
+      "expanded_url" : "http:\/\/jukeleft.com\/black-friday-tragedy-22-trampled-by-bargain-crazed-ndamukong-suh\/",
+      "display_url" : "jukeleft.com\/black-friday-t\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272311302888751104",
-  "text" : "\u201CBLACK FRIDAY TRAGEDY: 22 trampled by bargain-crazed Ndamukong Suh\u201D http://t.co/sPvqamXn",
+  "text" : "\u201CBLACK FRIDAY TRAGEDY: 22 trampled by bargain-crazed Ndamukong Suh\u201D http:\/\/t.co\/sPvqamXn",
   "id" : 272311302888751104,
-  "created_at" : "Sat Nov 24 12:10:48 +0000 2012",
+  "created_at" : "2012-11-24 12:10:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272187182322679808",
   "text" : "My road trip through Arkansas can be summed up thusly: \u201CWell, that\u2019s an unusual place for a Wal-mart.\u201D",
   "id" : 272187182322679808,
-  "created_at" : "Sat Nov 24 03:57:35 +0000 2012",
+  "created_at" : "2012-11-24 03:57:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
-      "indices" : [ 3, 14 ],
-      "id_str" : "104203557",
-      "id" : 104203557
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272143090293284864",
   "text" : "RT @AbshireTDR: It's pretty difficult to play a worse game while allowing only 13 points than LSU's defense just did.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "272131026191527937",
     "text" : "It's pretty difficult to play a worse game while allowing only 13 points than LSU's defense just did.",
     "id" : 272131026191527937,
-    "created_at" : "Sat Nov 24 00:14:27 +0000 2012",
+    "created_at" : "2012-11-24 00:14:27 +0000",
     "user" : {
       "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
+      "screen_name" : "Abshire_Chris",
       "protected" : false,
       "id_str" : "104203557",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1620187295/EZIMYAGDFTXGWNU.20111013193938_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1620187295\/EZIMYAGDFTXGWNU.20111013193938_normal.jpg",
       "id" : 104203557,
       "verified" : false
     }
   },
   "id" : 272143090293284864,
-  "created_at" : "Sat Nov 24 01:02:23 +0000 2012",
+  "created_at" : "2012-11-24 01:02:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272127378841542657",
   "text" : "Glad for another 10-win season, but there\u2019s a lot we still need answered.",
   "id" : 272127378841542657,
-  "created_at" : "Fri Nov 23 23:59:57 +0000 2012",
+  "created_at" : "2012-11-23 23:59:57 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272127193562353665",
   "text" : "Uninspiring performance from both sides of the ball. What\u2019s up with our defense? One of the worst teams in the conference put up almost 500.",
   "id" : 272127193562353665,
-  "created_at" : "Fri Nov 23 23:59:13 +0000 2012",
+  "created_at" : "2012-11-23 23:59:13 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272110605819867136",
   "text" : "Arkansas giving it their all, that\u2019s for sure. Guess this is how you play when you have nothing left to lose.",
   "id" : 272110605819867136,
-  "created_at" : "Fri Nov 23 22:53:18 +0000 2012",
+  "created_at" : "2012-11-23 22:53:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272098580376985600",
   "text" : "Fuck. Why is our passing defense so bad?",
   "id" : 272098580376985600,
-  "created_at" : "Fri Nov 23 22:05:31 +0000 2012",
+  "created_at" : "2012-11-23 22:05:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 68, 88 ],
-      "url" : "http://t.co/eNMqxLtX",
-      "expanded_url" : "http://gif.mocksession.com/wp-content/uploads/2012/11/WHAT-A-CATCH.gif",
-      "display_url" : "gif.mocksession.com/wp-content/upl\u2026"
+      "url" : "http:\/\/t.co\/eNMqxLtX",
+      "expanded_url" : "http:\/\/gif.mocksession.com\/wp-content\/uploads\/2012\/11\/WHAT-A-CATCH.gif",
+      "display_url" : "gif.mocksession.com\/wp-content\/upl\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272089749076971520",
-  "text" : "Jarvis Landry catch as a gif. Caption: Landry is a wizard. Fitting. http://t.co/eNMqxLtX",
+  "text" : "Jarvis Landry catch as a gif. Caption: Landry is a wizard. Fitting. http:\/\/t.co\/eNMqxLtX",
   "id" : 272089749076971520,
-  "created_at" : "Fri Nov 23 21:30:26 +0000 2012",
+  "created_at" : "2012-11-23 21:30:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272088225223421953",
   "text" : "Down 10-0 to a top 10 divisional rival, and you empty the stadium at half time? I don\u2019t get it. Razorback Stadium is empty.",
   "id" : 272088225223421953,
-  "created_at" : "Fri Nov 23 21:24:22 +0000 2012",
+  "created_at" : "2012-11-23 21:24:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4344,64 +4145,62 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "272082505803366400",
   "text" : "JARVIS LANDRY!!! That\u2019s gotta be an ESPN top 10 right there. Holy hell that was a great catch!",
   "id" : 272082505803366400,
-  "created_at" : "Fri Nov 23 21:01:39 +0000 2012",
+  "created_at" : "2012-11-23 21:01:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272080726608977920",
   "text" : "Arkansas\u2019s video board sucks. They\u2019re not replaying anything.",
   "id" : 272080726608977920,
-  "created_at" : "Fri Nov 23 20:54:34 +0000 2012",
+  "created_at" : "2012-11-23 20:54:34 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272079657627705345",
   "text" : "Interesting play, but no significant pickup. Still cool though.",
   "id" : 272079657627705345,
-  "created_at" : "Fri Nov 23 20:50:20 +0000 2012",
+  "created_at" : "2012-11-23 20:50:20 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4415,26 +4214,20 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "272076159964037120",
   "text" : "Really, really bizarre 4th down call there. What was that?",
   "id" : 272076159964037120,
-  "created_at" : "Fri Nov 23 20:36:26 +0000 2012",
+  "created_at" : "2012-11-23 20:36:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gary Laney",
-      "screen_name" : "GLaneyESPN",
-      "indices" : [ 3, 14 ],
-      "id_str" : "14513075",
-      "id" : 14513075
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "LSUvsARK",
@@ -4442,8 +4235,7 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272075303159996417",
   "text" : "RT @GLaneyESPN: During CBS commercial breaks, you can play entire country songs on the PA. Fun fact. #LSUvsARK",
   "retweeted_status" : {
@@ -4457,35 +4249,34 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "272074402361917441",
     "text" : "During CBS commercial breaks, you can play entire country songs on the PA. Fun fact. #LSUvsARK",
     "id" : 272074402361917441,
-    "created_at" : "Fri Nov 23 20:29:27 +0000 2012",
+    "created_at" : "2012-11-23 20:29:27 +0000",
     "user" : {
       "name" : "Gary Laney",
-      "screen_name" : "GLaneyESPN",
+      "screen_name" : "GaryMLaney",
       "protected" : false,
       "id_str" : "14513075",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3550047565/0aa5996531842d61846f5096169f4fcf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3550047565\/0aa5996531842d61846f5096169f4fcf_normal.jpeg",
       "id" : 14513075,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 272075303159996417,
-  "created_at" : "Fri Nov 23 20:33:01 +0000 2012",
+  "created_at" : "2012-11-23 20:33:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4499,18 +4290,18 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "272073968914165760",
   "text" : "Poor officiating, even worse tackling. Come on boys!",
   "id" : 272073968914165760,
-  "created_at" : "Fri Nov 23 20:27:43 +0000 2012",
+  "created_at" : "2012-11-23 20:27:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "LSUtix",
@@ -4520,13 +4311,13 @@ Grailbird.data.tweets_2012_11 =
       "id" : 353241558
     } ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/272052291832516608/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/272052291832516608\/photo\/1",
       "indices" : [ 108, 128 ],
-      "url" : "http://t.co/JHUuXhwM",
-      "media_url" : "http://pbs.twimg.com/media/A8aGHjeCEAE8yNK.jpg",
+      "url" : "http:\/\/t.co\/JHUuXhwM",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A8aGHjeCEAE8yNK.jpg",
       "id_str" : "272052291840905217",
       "id" : 272052291840905217,
-      "media_url_https" : "https://pbs.twimg.com/media/A8aGHjeCEAE8yNK.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A8aGHjeCEAE8yNK.jpg",
       "sizes" : [ {
         "h" : 450,
         "resize" : "fit",
@@ -4548,130 +4339,125 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       } ],
-      "display_url" : "pic.twitter.com/JHUuXhwM"
+      "display_url" : "pic.twitter.com\/JHUuXhwM"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272052291832516608",
-  "text" : "Great seats in Razorback Stadium. Shout out to @LSUtix for upgrading us to the lower section. Geaux Tigers! http://t.co/JHUuXhwM",
+  "text" : "Great seats in Razorback Stadium. Shout out to @LSUtix for upgrading us to the lower section. Geaux Tigers! http:\/\/t.co\/JHUuXhwM",
   "id" : 272052291832516608,
-  "created_at" : "Fri Nov 23 19:01:36 +0000 2012",
+  "created_at" : "2012-11-23 19:01:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "272051151405449216",
   "text" : "Just saw a corndog stand in Razorback Stadium. Not sure if they\u2019re trolling LSU fans or making a brilliant business move.",
   "id" : 272051151405449216,
-  "created_at" : "Fri Nov 23 18:57:03 +0000 2012",
+  "created_at" : "2012-11-23 18:57:03 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "271730024611192832",
   "text" : "Not surprised the Lions lost. What a ridiculous game.",
   "id" : 271730024611192832,
-  "created_at" : "Thu Nov 22 21:41:01 +0000 2012",
+  "created_at" : "2012-11-22 21:41:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "271625249328599040",
   "text" : "Happy Thanksgiving, y\u2019all.",
   "id" : 271625249328599040,
-  "created_at" : "Thu Nov 22 14:44:40 +0000 2012",
+  "created_at" : "2012-11-22 14:44:40 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "271469933127430145",
   "text" : "No idea how ESPN pulled this off, but acquiring the rights to the playoffs for 12 years means we won\u2019t have to listen to Verne and Gary.",
   "id" : 271469933127430145,
-  "created_at" : "Thu Nov 22 04:27:30 +0000 2012",
+  "created_at" : "2012-11-22 04:27:30 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/271403234533449728/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/271403234533449728\/photo\/1",
       "indices" : [ 20, 40 ],
-      "url" : "http://t.co/EsijiQy5",
-      "media_url" : "http://pbs.twimg.com/media/A8Q3zcmCIAARuki.jpg",
+      "url" : "http:\/\/t.co\/EsijiQy5",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A8Q3zcmCIAARuki.jpg",
       "id_str" : "271403234537644032",
       "id" : 271403234537644032,
-      "media_url_https" : "https://pbs.twimg.com/media/A8Q3zcmCIAARuki.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A8Q3zcmCIAARuki.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -4693,28 +4479,27 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 600
       } ],
-      "display_url" : "pic.twitter.com/EsijiQy5"
+      "display_url" : "pic.twitter.com\/EsijiQy5"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "271403234533449728",
-  "text" : "My new best friend. http://t.co/EsijiQy5",
+  "text" : "My new best friend. http:\/\/t.co\/EsijiQy5",
   "id" : 271403234533449728,
-  "created_at" : "Thu Nov 22 00:02:28 +0000 2012",
+  "created_at" : "2012-11-22 00:02:28 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Danny Breaux",
@@ -4734,14 +4519,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "271087291139764225",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "271091883919413248",
   "in_reply_to_user_id" : 90746164,
   "text" : "@dannybreaux @ParishBrewing I would have at least considered it if I hadn\u2019t taken it with me to see family in Arkansas.",
   "id" : 271091883919413248,
   "in_reply_to_status_id" : 271087291139764225,
-  "created_at" : "Wed Nov 21 03:25:16 +0000 2012",
+  "created_at" : "2012-11-21 03:25:16 +0000",
   "in_reply_to_screen_name" : "dannybreaux",
   "in_reply_to_user_id_str" : "90746164",
   "user" : {
@@ -4749,12 +4533,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -4768,14 +4552,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270998849093509121",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270999964363157505",
   "in_reply_to_user_id" : 370125671,
   "text" : "@ParishBrewing: Guy at Marcello\u2019s said they got 15 cases yesterday and we got the last just now. So I guess it\u2019ll be a while!",
   "id" : 270999964363157505,
   "in_reply_to_status_id" : 270998849093509121,
-  "created_at" : "Tue Nov 20 21:20:01 +0000 2012",
+  "created_at" : "2012-11-20 21:20:01 +0000",
   "in_reply_to_screen_name" : "ParishBrewing",
   "in_reply_to_user_id_str" : "370125671",
   "user" : {
@@ -4783,12 +4566,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -4802,14 +4585,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270997780594565120",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270998642171711488",
   "in_reply_to_user_id" : 370125671,
   "text" : "@ParishBrewing: Marcello\u2019s. I cleared out what they had left. Y\u2019all gonna start sending some to Baton Rouge soon?",
   "id" : 270998642171711488,
   "in_reply_to_status_id" : 270997780594565120,
-  "created_at" : "Tue Nov 20 21:14:45 +0000 2012",
+  "created_at" : "2012-11-20 21:14:45 +0000",
   "in_reply_to_screen_name" : "ParishBrewing",
   "in_reply_to_user_id_str" : "370125671",
   "user" : {
@@ -4817,12 +4599,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Parish Brewing Co.",
@@ -4835,23 +4617,22 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270997125888888833",
   "text" : "Just got some six packs of Cane Break by @ParishBrewing. Had to drive to Lafayette to get it. Definitely my favorite beer right now.",
   "id" : 270997125888888833,
-  "created_at" : "Tue Nov 20 21:08:44 +0000 2012",
+  "created_at" : "2012-11-20 21:08:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -4865,14 +4646,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270729014036017152",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270798074048282624",
   "in_reply_to_user_id" : 14255125,
   "text" : "@MarquetteLa: You\u2019re supposed to be that way. It\u2019s the only way to make great stuff. Demand perfection always.",
   "id" : 270798074048282624,
   "in_reply_to_status_id" : 270729014036017152,
-  "created_at" : "Tue Nov 20 07:57:46 +0000 2012",
+  "created_at" : "2012-11-20 07:57:46 +0000",
   "in_reply_to_screen_name" : "MarquetteLa",
   "in_reply_to_user_id_str" : "14255125",
   "user" : {
@@ -4880,12 +4660,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -4898,12 +4678,11 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270586921061847040",
   "text" : "RT @Jonathan_Hooper: Thanksgiving is my favorite holiday. Whoever had the idea for a holiday about watching football is a genius.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4917,51 +4696,44 @@ Grailbird.data.tweets_2012_11 =
     "id_str" : "270586256155627521",
     "text" : "Thanksgiving is my favorite holiday. Whoever had the idea for a holiday about watching football is a genius.",
     "id" : 270586256155627521,
-    "created_at" : "Mon Nov 19 17:56:05 +0000 2012",
+    "created_at" : "2012-11-19 17:56:05 +0000",
     "user" : {
       "name" : "Jonathan Hooper",
       "screen_name" : "Jonathan_Hooper",
       "protected" : false,
       "id_str" : "252777660",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3592386246/ba1b38e12615bfc99c3d28f3c97a1bc0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415164031666647040\/zMZhPGoP_normal.jpeg",
       "id" : 252777660,
       "verified" : false
     }
   },
   "id" : 270586921061847040,
-  "created_at" : "Mon Nov 19 17:58:43 +0000 2012",
+  "created_at" : "2012-11-19 17:58:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
-      "indices" : [ 12, 23 ],
-      "id_str" : "104203557",
-      "id" : 104203557
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270219821717807104",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270401194143383552",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN @AbshireTDR Forgot about that one. Figured it\u2019d be farther back. Thanks for digging that up.",
   "id" : 270401194143383552,
   "in_reply_to_status_id" : 270219821717807104,
-  "created_at" : "Mon Nov 19 05:40:43 +0000 2012",
+  "created_at" : "2012-11-19 05:40:43 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -4969,12 +4741,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -4988,14 +4760,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270400825107574785",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270401036257202177",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Nah, it should matter. Getting blown out by an unranked team is a bigger deal than losing to two top-5 teams.",
   "id" : 270401036257202177,
   "in_reply_to_status_id" : 270400825107574785,
-  "created_at" : "Mon Nov 19 05:40:05 +0000 2012",
+  "created_at" : "2012-11-19 05:40:05 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -5003,127 +4774,122 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270389867450626048",
   "text" : "Ironic, but I think the BCS computers will fuck over LSU this year. All I want is a Sugar Bowl! Come on, man.",
   "id" : 270389867450626048,
-  "created_at" : "Mon Nov 19 04:55:42 +0000 2012",
+  "created_at" : "2012-11-19 04:55:42 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270386699182411776",
   "text" : "At least Oregon lost to a ranked team.",
   "id" : 270386699182411776,
-  "created_at" : "Mon Nov 19 04:43:07 +0000 2012",
+  "created_at" : "2012-11-19 04:43:07 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270386571801399296",
   "text" : "I do not get the latest BCS standings. LSU should not be ranked below a team that got blown the fuck out by an unranked team.",
   "id" : 270386571801399296,
-  "created_at" : "Mon Nov 19 04:42:36 +0000 2012",
+  "created_at" : "2012-11-19 04:42:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270327559680581633",
   "text" : "Honestly, I\u2019m still holding my breath for the Sugar Bowl.",
   "id" : 270327559680581633,
-  "created_at" : "Mon Nov 19 00:48:07 +0000 2012",
+  "created_at" : "2012-11-19 00:48:07 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270325474557825024",
-  "text" : "/r/cfb comment about Les Miles: \u201CHe's perfect for our state and our fans. Really weird, frequently inexplicable, probably drunk.\u201D Yep.",
+  "text" : "\/r\/cfb comment about Les Miles: \u201CHe's perfect for our state and our fans. Really weird, frequently inexplicable, probably drunk.\u201D Yep.",
   "id" : 270325474557825024,
-  "created_at" : "Mon Nov 19 00:39:50 +0000 2012",
+  "created_at" : "2012-11-19 00:39:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -5137,14 +4903,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270068192616005632",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270216101902839808",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Hm. Not as long as I thought.",
   "id" : 270216101902839808,
   "in_reply_to_status_id" : 270068192616005632,
-  "created_at" : "Sun Nov 18 17:25:13 +0000 2012",
+  "created_at" : "2012-11-18 17:25:13 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -5152,35 +4917,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270215188073021440",
   "text" : "Dooley is out. Any word on Chizik?",
   "id" : 270215188073021440,
-  "created_at" : "Sun Nov 18 17:21:35 +0000 2012",
+  "created_at" : "2012-11-18 17:21:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "JazzyBird Coffee",
@@ -5194,14 +4958,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270203837409808384",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270214269893742592",
   "in_reply_to_user_id" : 19547757,
   "text" : "@JazzyBirdCoffee: Sorry to see y\u2019all go. Glad I could help.",
   "id" : 270214269893742592,
   "in_reply_to_status_id" : 270203837409808384,
-  "created_at" : "Sun Nov 18 17:17:56 +0000 2012",
+  "created_at" : "2012-11-18 17:17:56 +0000",
   "in_reply_to_screen_name" : "JazzyBirdCoffee",
   "in_reply_to_user_id_str" : "19547757",
   "user" : {
@@ -5209,35 +4972,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270053711227797504",
   "text" : "Les Miles post-game conference, y\u2019all. We\u2019ve got a great guy as our head coach. This is why the players love him. And he was so right, too.",
   "id" : 270053711227797504,
-  "created_at" : "Sun Nov 18 06:39:56 +0000 2012",
+  "created_at" : "2012-11-18 06:39:56 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jacques Doucet",
@@ -5251,14 +5013,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "270052734470877185",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270053319593054208",
   "in_reply_to_user_id" : 119154208,
   "text" : "@JacquesDoucet: ESPN said he just let it out. Gotta love that guy.",
   "id" : 270053319593054208,
   "in_reply_to_status_id" : 270052734470877185,
-  "created_at" : "Sun Nov 18 06:38:23 +0000 2012",
+  "created_at" : "2012-11-18 06:38:23 +0000",
   "in_reply_to_screen_name" : "JacquesDoucet",
   "in_reply_to_user_id_str" : "119154208",
   "user" : {
@@ -5266,41 +5027,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
-      "indices" : [ 101, 112 ],
-      "id_str" : "104203557",
-      "id" : 104203557
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "270053183580172288",
   "text" : "Curious: when was the last time a BCS #1 and #2 both lost in the same weekend. Any ideas @HelmanESPN @AbshireTDR?",
   "id" : 270053183580172288,
-  "created_at" : "Sun Nov 18 06:37:50 +0000 2012",
+  "created_at" : "2012-11-18 06:37:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "LSU Football",
@@ -5319,8 +5073,7 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269994155344818176",
   "text" : "RT @LSUfball: A school-record 741,005 fans passed through the gates of @LSUTigerStadium in 2012, an average of over 92,600 for the 3rd y ...",
   "retweeted_status" : {
@@ -5337,196 +5090,188 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "269993273702117376",
     "text" : "A school-record 741,005 fans passed through the gates of @LSUTigerStadium in 2012, an average of over 92,600 for the 3rd year in a row.",
     "id" : 269993273702117376,
-    "created_at" : "Sun Nov 18 02:39:47 +0000 2012",
+    "created_at" : "2012-11-18 02:39:47 +0000",
     "user" : {
       "name" : "LSU Football",
       "screen_name" : "LSUfball",
       "protected" : false,
       "id_str" : "137396575",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1746583610/Football_Socia_Media_pic_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1746583610\/Football_Socia_Media_pic_normal.jpg",
       "id" : 137396575,
       "verified" : false
     }
   },
   "id" : 269994155344818176,
-  "created_at" : "Sun Nov 18 02:43:17 +0000 2012",
+  "created_at" : "2012-11-18 02:43:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269963374023032832",
   "text" : "Thank you, LSU. Death Valley, I\u2019ll always consider you my second home.",
   "id" : 269963374023032832,
-  "created_at" : "Sun Nov 18 00:40:58 +0000 2012",
+  "created_at" : "2012-11-18 00:40:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269963214224252928",
   "text" : "At least my last game as a student was interesting. I\u2019m going to miss it quite a bit. In fact, I\u2019m quite sure I already do.",
   "id" : 269963214224252928,
-  "created_at" : "Sun Nov 18 00:40:20 +0000 2012",
+  "created_at" : "2012-11-18 00:40:20 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269946699546492928",
   "text" : "Spencer Ware is LSU\u2019s best, most underutilized player.",
   "id" : 269946699546492928,
-  "created_at" : "Sat Nov 17 23:34:43 +0000 2012",
+  "created_at" : "2012-11-17 23:34:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269944600083443712",
   "text" : "Our defense is being eviscerated by Ole Miss. This is ugly.",
   "id" : 269944600083443712,
-  "created_at" : "Sat Nov 17 23:26:22 +0000 2012",
+  "created_at" : "2012-11-17 23:26:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269926639146778624",
   "text" : "Our pass defense is awful.",
   "id" : 269926639146778624,
-  "created_at" : "Sat Nov 17 22:15:00 +0000 2012",
+  "created_at" : "2012-11-17 22:15:00 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269911467573252097",
   "text" : "Simon is getting owned on the field. Need to make some adjustments there.",
   "id" : 269911467573252097,
-  "created_at" : "Sat Nov 17 21:14:43 +0000 2012",
+  "created_at" : "2012-11-17 21:14:43 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269908178236493824",
   "text" : "Well, that\u2019s the quickest I\u2019ve ever seen LSU score.",
   "id" : 269908178236493824,
-  "created_at" : "Sat Nov 17 21:01:39 +0000 2012",
+  "created_at" : "2012-11-17 21:01:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5540,88 +5285,85 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "269907436608028673",
   "text" : "Slow start much? Two three-and-outs in a row. Against Ole Miss. Gonna be a long game.",
   "id" : 269907436608028673,
-  "created_at" : "Sat Nov 17 20:58:42 +0000 2012",
+  "created_at" : "2012-11-17 20:58:42 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269900909067259905",
   "text" : "RT @HelmanESPN: Mingo, Logan and Montgomery joined Aghayere on his senior day run. Show of support or statement of intention? Hmmmm.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "269897731613552641",
     "text" : "Mingo, Logan and Montgomery joined Aghayere on his senior day run. Show of support or statement of intention? Hmmmm.",
     "id" : 269897731613552641,
-    "created_at" : "Sat Nov 17 20:20:08 +0000 2012",
+    "created_at" : "2012-11-17 20:20:08 +0000",
     "user" : {
       "name" : "David Helman ",
       "screen_name" : "aquahelmini",
       "protected" : true,
       "id_str" : "460227130",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3533730543/8d4acc1be02729be6e333e6994af8c3e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000087695416\/d49b4d69b4b66e5f0c2e3f8a3a4762d8_normal.png",
       "id" : 460227130,
       "verified" : false
     }
   },
   "id" : 269900909067259905,
-  "created_at" : "Sat Nov 17 20:32:45 +0000 2012",
+  "created_at" : "2012-11-17 20:32:45 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269890524557766657",
   "text" : "Last home game day as a student. Definitely bittersweet. Geaux Tigers! Beat the hell out of Ole Miss!",
   "id" : 269890524557766657,
-  "created_at" : "Sat Nov 17 19:51:30 +0000 2012",
+  "created_at" : "2012-11-17 19:51:30 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lolo Jones",
@@ -5640,23 +5382,22 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269848190700892160",
   "text" : "As much as I loved @lolojones as the guest picker on @CollegeGameDay, that 5 year old kid was adorable. But I agree with Lee. Not so fast!",
   "id" : 269848190700892160,
-  "created_at" : "Sat Nov 17 17:03:16 +0000 2012",
+  "created_at" : "2012-11-17 17:03:16 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Boyd",
@@ -5665,7 +5406,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "84614702",
       "id" : 84614702
     }, {
-      "name" : "Madison",
+      "name" : "Madison Barras",
       "screen_name" : "omadisonb",
       "indices" : [ 17, 27 ],
       "id_str" : "398446541",
@@ -5676,14 +5417,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "269668473020497920",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269696918609858560",
   "in_reply_to_user_id" : 84614702,
   "text" : "@chrisboyddotnet @omadisonb Hello there. Nice to meet you.",
   "id" : 269696918609858560,
   "in_reply_to_status_id" : 269668473020497920,
-  "created_at" : "Sat Nov 17 07:02:10 +0000 2012",
+  "created_at" : "2012-11-17 07:02:10 +0000",
   "in_reply_to_screen_name" : "chrisboyddotnet",
   "in_reply_to_user_id_str" : "84614702",
   "user" : {
@@ -5691,12 +5431,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cody Mack",
@@ -5710,14 +5450,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "269478963015995392",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269479065520578561",
   "in_reply_to_user_id" : 19876380,
   "text" : "@codymack: Any spillage?",
   "id" : 269479065520578561,
   "in_reply_to_status_id" : 269478963015995392,
-  "created_at" : "Fri Nov 16 16:36:30 +0000 2012",
+  "created_at" : "2012-11-16 16:36:30 +0000",
   "in_reply_to_screen_name" : "codymack",
   "in_reply_to_user_id_str" : "19876380",
   "user" : {
@@ -5725,81 +5464,78 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269478477030363136",
   "text" : "Another oil rig in Gulf is on fire. Hope this doesn\u2019t turn out as badly as it did last time.",
   "id" : 269478477030363136,
-  "created_at" : "Fri Nov 16 16:34:10 +0000 2012",
+  "created_at" : "2012-11-16 16:34:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269477959969169408",
   "text" : "Guy on reddit gets a free Xbox for 10 year Xbox Live celebration. All I get is a lame avatar item. It\u2019s really lame.",
   "id" : 269477959969169408,
-  "created_at" : "Fri Nov 16 16:32:06 +0000 2012",
+  "created_at" : "2012-11-16 16:32:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269470423773745152",
   "text" : "Only $200, but last night was the first time I walked away from the casino positive. Felt awesome. Craps is a lot of fun when it hits.",
   "id" : 269470423773745152,
-  "created_at" : "Fri Nov 16 16:02:10 +0000 2012",
+  "created_at" : "2012-11-16 16:02:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Lucash",
@@ -5812,23 +5548,22 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269202683557183489",
   "text" : "Kickass talk by @jasonlucash to the @lsusei fellows just now about his experience on Shark Tank. Thanks for coming dude!",
   "id" : 269202683557183489,
-  "created_at" : "Thu Nov 15 22:18:15 +0000 2012",
+  "created_at" : "2012-11-15 22:18:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lance Walley",
@@ -5842,14 +5577,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268719309675712512",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269181229218283520",
   "in_reply_to_user_id" : 14715542,
   "text" : "@lancewalley: I\u2019ll be there right before Christmas. I\u2019ll just hit you up when I\u2019m around to see if you\u2019re there.",
   "id" : 269181229218283520,
   "in_reply_to_status_id" : 268719309675712512,
-  "created_at" : "Thu Nov 15 20:53:00 +0000 2012",
+  "created_at" : "2012-11-15 20:53:00 +0000",
   "in_reply_to_screen_name" : "lancewalley",
   "in_reply_to_user_id_str" : "14715542",
   "user" : {
@@ -5857,35 +5591,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "269181102709673984",
   "text" : "I can\u2019t be the only one who thinks that McNuggets are better than Selects. Also, I had McNuggets today. They were delicious.",
   "id" : 269181102709673984,
-  "created_at" : "Thu Nov 15 20:52:30 +0000 2012",
+  "created_at" : "2012-11-15 20:52:30 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lance Walley",
@@ -5898,13 +5631,12 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268622207314432000",
   "in_reply_to_user_id" : 14715542,
-  "text" : "@lancewalley: Going to be in Austin later in December. Would love to grab a drink/cigar if you\u2019ll be around.",
+  "text" : "@lancewalley: Going to be in Austin later in December. Would love to grab a drink\/cigar if you\u2019ll be around.",
   "id" : 268622207314432000,
-  "created_at" : "Wed Nov 14 07:51:39 +0000 2012",
+  "created_at" : "2012-11-14 07:51:39 +0000",
   "in_reply_to_screen_name" : "lancewalley",
   "in_reply_to_user_id_str" : "14715542",
   "user" : {
@@ -5912,12 +5644,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "kottke.org",
@@ -5930,168 +5662,162 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 89, 109 ],
-      "url" : "http://t.co/ntnRihnl",
-      "expanded_url" : "http://kottke.org/12/11/why-doesnt-mtv-play-music-videos-anymore",
-      "display_url" : "kottke.org/12/11/why-does\u2026"
+      "url" : "http:\/\/t.co\/ntnRihnl",
+      "expanded_url" : "http:\/\/kottke.org\/12\/11\/why-doesnt-mtv-play-music-videos-anymore",
+      "display_url" : "kottke.org\/12\/11\/why-does\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268587423812972544",
-  "text" : "Why doesn't MTV play music videos anymore? via @kottke. Basically, our generation sucks. http://t.co/ntnRihnl",
+  "text" : "Why doesn't MTV play music videos anymore? via @kottke. Basically, our generation sucks. http:\/\/t.co\/ntnRihnl",
   "id" : 268587423812972544,
-  "created_at" : "Wed Nov 14 05:33:26 +0000 2012",
+  "created_at" : "2012-11-14 05:33:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268539210728886272",
   "text" : "I think I know why I like Manziel where I hated Tebow: because Johnny Football isn\u2019t a self-righteous douchebag.",
   "id" : 268539210728886272,
-  "created_at" : "Wed Nov 14 02:21:51 +0000 2012",
+  "created_at" : "2012-11-14 02:21:51 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268514692161478657",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268527239019233280",
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: Right? Because fuck the Falcons.",
   "id" : 268527239019233280,
   "in_reply_to_status_id" : 268514692161478657,
-  "created_at" : "Wed Nov 14 01:34:17 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-14 01:34:17 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 51, 71 ],
-      "url" : "http://t.co/XQBsXJLm",
-      "expanded_url" : "http://www.reddit.com/r/nfl/comments/x580l/can_we_have_a_wager_thread_ill_start/c70ung7",
-      "display_url" : "reddit.com/r/nfl/comments\u2026"
+      "url" : "http:\/\/t.co\/XQBsXJLm",
+      "expanded_url" : "http:\/\/www.reddit.com\/r\/nfl\/comments\/x580l\/can_we_have_a_wager_thread_ill_start\/c70ung7",
+      "display_url" : "reddit.com\/r\/nfl\/comments\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268513206820036611",
   "in_reply_to_user_id" : 200678353,
-  "text" : "@Charlie_Lang: Did you see this? LOL, Falcons fan. http://t.co/XQBsXJLm",
+  "text" : "@Charlie_Lang: Did you see this? LOL, Falcons fan. http:\/\/t.co\/XQBsXJLm",
   "id" : 268513206820036611,
-  "created_at" : "Wed Nov 14 00:38:31 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-14 00:38:31 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268109752935018496",
   "text" : "This will go down as one of my hardest semesters ever. Also probably our biggest quarter of fiscal growth.",
   "id" : 268109752935018496,
-  "created_at" : "Mon Nov 12 21:55:20 +0000 2012",
+  "created_at" : "2012-11-12 21:55:20 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268106516610023425",
   "text" : "Anyone else hitting up the SEI BREW kickoff event tonight?",
   "id" : 268106516610023425,
-  "created_at" : "Mon Nov 12 21:42:29 +0000 2012",
+  "created_at" : "2012-11-12 21:42:29 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "isral Duke",
@@ -6105,14 +5831,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268094954788765696",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268095825660493824",
   "in_reply_to_user_id" : 1748271,
   "text" : "@isralduke: Oh, well aren\u2019t you fancy.",
   "id" : 268095825660493824,
   "in_reply_to_status_id" : 268094954788765696,
-  "created_at" : "Mon Nov 12 21:00:00 +0000 2012",
+  "created_at" : "2012-11-12 21:00:00 +0000",
   "in_reply_to_screen_name" : "isralduke",
   "in_reply_to_user_id_str" : "1748271",
   "user" : {
@@ -6120,12 +5845,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6139,14 +5864,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268092525615652864",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268092890004205568",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: Less than three right back at you, bro. :)",
   "id" : 268092890004205568,
   "in_reply_to_status_id" : 268092525615652864,
-  "created_at" : "Mon Nov 12 20:48:20 +0000 2012",
+  "created_at" : "2012-11-12 20:48:20 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6154,12 +5878,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6173,14 +5897,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268091162450071552",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268092329364176896",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: Of course, if you come visit, I\u2019ll cook you whatever you like.",
   "id" : 268092329364176896,
   "in_reply_to_status_id" : 268091162450071552,
-  "created_at" : "Mon Nov 12 20:46:06 +0000 2012",
+  "created_at" : "2012-11-12 20:46:06 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6188,12 +5911,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6207,14 +5930,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268091162450071552",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268091934814388226",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: I can give you pointers on how to modify it to what you have in your kitchen, I just don\u2019t know what\u2019s \u201Cregular\u201D, haha.",
   "id" : 268091934814388226,
   "in_reply_to_status_id" : 268091162450071552,
-  "created_at" : "Mon Nov 12 20:44:32 +0000 2012",
+  "created_at" : "2012-11-12 20:44:32 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6222,12 +5944,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6240,20 +5962,19 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 106, 127 ],
-      "url" : "https://t.co/ItQ3Bh00",
-      "expanded_url" : "https://itunes.apple.com/app/id563417614",
-      "display_url" : "itunes.apple.com/app/id563417614"
+      "url" : "https:\/\/t.co\/ItQ3Bh00",
+      "expanded_url" : "https:\/\/itunes.apple.com\/app\/id563417614",
+      "display_url" : "itunes.apple.com\/app\/id563417614"
     } ]
   },
   "in_reply_to_status_id_str" : "268091162450071552",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268091820276326401",
   "in_reply_to_user_id" : 11752,
-  "text" : "@markbao: Here\u2019s a client app we just launched that has a bunch of recipes (including some from my mom!): https://t.co/ItQ3Bh00",
+  "text" : "@markbao: Here\u2019s a client app we just launched that has a bunch of recipes (including some from my mom!): https:\/\/t.co\/ItQ3Bh00",
   "id" : 268091820276326401,
   "in_reply_to_status_id" : 268091162450071552,
-  "created_at" : "Mon Nov 12 20:44:05 +0000 2012",
+  "created_at" : "2012-11-12 20:44:05 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6261,12 +5982,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6280,14 +6001,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268091162450071552",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268091742933364738",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: Ha, I don\u2019t even know what regular ingredients are since I\u2019ve always had a Cajun-stocked kitchen.",
   "id" : 268091742933364738,
   "in_reply_to_status_id" : 268091162450071552,
-  "created_at" : "Mon Nov 12 20:43:47 +0000 2012",
+  "created_at" : "2012-11-12 20:43:47 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6295,12 +6015,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -6320,14 +6040,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268067340330090496",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268091046741827584",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas @jgradim Yay! What a win for our economy. Welcome to the States, Joao.",
   "id" : 268091046741827584,
   "in_reply_to_status_id" : 268067340330090496,
-  "created_at" : "Mon Nov 12 20:41:01 +0000 2012",
+  "created_at" : "2012-11-12 20:41:01 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -6335,12 +6054,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6354,14 +6073,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268090001298956288",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268090162632851457",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: I heard it was because they couldn\u2019t go to market so had to keep ingredients a long time. Pfft, legends. But yes, it is delicious.",
   "id" : 268090162632851457,
   "in_reply_to_status_id" : 268090001298956288,
-  "created_at" : "Mon Nov 12 20:37:30 +0000 2012",
+  "created_at" : "2012-11-12 20:37:30 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6369,12 +6087,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Bao",
@@ -6388,14 +6106,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "268086037404856321",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268089797090869248",
   "in_reply_to_user_id" : 11752,
   "text" : "@markbao: If I remember correctly, doesn\u2019t that mean \u201Cwhore\u2019s pasta\u201D?",
   "id" : 268089797090869248,
   "in_reply_to_status_id" : 268086037404856321,
-  "created_at" : "Mon Nov 12 20:36:03 +0000 2012",
+  "created_at" : "2012-11-12 20:36:03 +0000",
   "in_reply_to_screen_name" : "markbao",
   "in_reply_to_user_id_str" : "11752",
   "user" : {
@@ -6403,58 +6120,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268089301584203776",
   "text" : "Looking for some help with reverse SEO services. If you can help or know someone who can, let me know.",
   "id" : 268089301584203776,
-  "created_at" : "Mon Nov 12 20:34:05 +0000 2012",
+  "created_at" : "2012-11-12 20:34:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268049974347038720",
   "text" : "Holy shit, who thought putting a captcha on a login was a good idea?",
   "id" : 268049974347038720,
-  "created_at" : "Mon Nov 12 17:57:48 +0000 2012",
+  "created_at" : "2012-11-12 17:57:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Hooper",
@@ -6468,14 +6183,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267927817927397376",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "268033277145788416",
   "in_reply_to_user_id" : 252777660,
   "text" : "@Jonathan_Hooper: Lol. Chaotic much?",
   "id" : 268033277145788416,
   "in_reply_to_status_id" : 267927817927397376,
-  "created_at" : "Mon Nov 12 16:51:27 +0000 2012",
+  "created_at" : "2012-11-12 16:51:27 +0000",
   "in_reply_to_screen_name" : "Jonathan_Hooper",
   "in_reply_to_user_id_str" : "252777660",
   "user" : {
@@ -6483,35 +6197,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267917975972102145",
   "text" : "Where do you keep your dock? After moving from 13\u201D to 15\u201D, I\u2019m experimenting. Used to be hidden on bottom, now persistent on left.",
   "id" : 267917975972102145,
-  "created_at" : "Mon Nov 12 09:13:17 +0000 2012",
+  "created_at" : "2012-11-12 09:13:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -6524,13 +6237,12 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267917398668099586",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas: Been a long time coming (sorry about that!), but you have an email awaiting you. Looking forward to your thoughts.",
   "id" : 267917398668099586,
-  "created_at" : "Mon Nov 12 09:11:00 +0000 2012",
+  "created_at" : "2012-11-12 09:11:00 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -6538,53 +6250,48 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267914609032306689",
-  "text" : "SEC teams ranked 4-9. Playoff system was a good idea because it\u2019ll help balance SEC/other conferences, right guys?",
+  "text" : "SEC teams ranked 4-9. Playoff system was a good idea because it\u2019ll help balance SEC\/other conferences, right guys?",
   "id" : 267914609032306689,
-  "created_at" : "Mon Nov 12 08:59:55 +0000 2012",
+  "created_at" : "2012-11-12 08:59:55 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
-      "indices" : [ 3, 17 ],
-      "id_str" : "73194806",
-      "id" : 73194806
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "SEC",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267914416450854912",
   "text" : "RT @LSUBillMartin: Wins over current BCS Top 10 ranked teams: Kansas State 0, Oregon 0, Notre Dame 0, Alabama 1, Georgia 1, Florida 3, L ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6594,115 +6301,100 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267842120860180481",
     "text" : "Wins over current BCS Top 10 ranked teams: Kansas State 0, Oregon 0, Notre Dame 0, Alabama 1, Georgia 1, Florida 3, LSU 2, Texas A&amp;M 1 #SEC",
     "id" : 267842120860180481,
-    "created_at" : "Mon Nov 12 04:11:52 +0000 2012",
+    "created_at" : "2012-11-12 04:11:52 +0000",
     "user" : {
       "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
+      "screen_name" : "MSUBillMartin",
       "protected" : false,
       "id_str" : "73194806",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2326294370/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2326294370\/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
       "id" : 73194806,
       "verified" : false
     }
   },
   "id" : 267914416450854912,
-  "created_at" : "Mon Nov 12 08:59:09 +0000 2012",
+  "created_at" : "2012-11-12 08:59:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267913110331998208",
   "text" : "Seems like they went out of their way to try and make the game as even as possible. There\u2019s no tactical advantage anywhere anymore.",
   "id" : 267913110331998208,
-  "created_at" : "Mon Nov 12 08:53:57 +0000 2012",
+  "created_at" : "2012-11-12 08:53:57 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267913006606852097",
   "text" : "After playing a night of Halo 4 multiplayer: Fuck. This. Maybe it\u2019ll grow on me, but wow did 343 fuck up a good thing. So broken.",
   "id" : 267913006606852097,
-  "created_at" : "Mon Nov 12 08:53:33 +0000 2012",
+  "created_at" : "2012-11-12 08:53:33 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "267826609615147008",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267826852515684352",
-  "in_reply_to_user_id" : 269028559,
   "text" : "@LSUrockhound: I got tagged on an email chain asking people to sign it. So pissed. Makes us look bad.",
   "id" : 267826852515684352,
-  "in_reply_to_status_id" : 267826609615147008,
-  "created_at" : "Mon Nov 12 03:11:12 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
+  "created_at" : "2012-11-12 03:11:12 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Moscona",
@@ -6721,8 +6413,7 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267826464953622530",
   "text" : "RT @MattMoscona: Haha #SEC has 6 of Top 9 in #BCS standings. Is the rest of the country REALLY sure they want a playoff?",
   "retweeted_status" : {
@@ -6739,58 +6430,56 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267813767277060096",
     "text" : "Haha #SEC has 6 of Top 9 in #BCS standings. Is the rest of the country REALLY sure they want a playoff?",
     "id" : 267813767277060096,
-    "created_at" : "Mon Nov 12 02:19:12 +0000 2012",
+    "created_at" : "2012-11-12 02:19:12 +0000",
     "user" : {
       "name" : "Matt Moscona",
       "screen_name" : "MattMoscona",
       "protected" : false,
       "id_str" : "486702899",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1813181897/matt_heisman_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1813181897\/matt_heisman_normal.jpg",
       "id" : 486702899,
       "verified" : false
     }
   },
   "id" : 267826464953622530,
-  "created_at" : "Mon Nov 12 03:09:39 +0000 2012",
+  "created_at" : "2012-11-12 03:09:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267825890145218561",
   "text" : "To the assholes who made the petition for LA to secede on the WH website: fuck you.",
   "id" : 267825890145218561,
-  "created_at" : "Mon Nov 12 03:07:22 +0000 2012",
+  "created_at" : "2012-11-12 03:07:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Bunner",
@@ -6804,14 +6493,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267808516310454272",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267812253028450304",
   "in_reply_to_user_id" : 14804784,
   "text" : "@jeremybnnr: Badass! Makes it so much better.",
   "id" : 267812253028450304,
   "in_reply_to_status_id" : 267808516310454272,
-  "created_at" : "Mon Nov 12 02:13:11 +0000 2012",
+  "created_at" : "2012-11-12 02:13:11 +0000",
   "in_reply_to_screen_name" : "jeremybnnr",
   "in_reply_to_user_id_str" : "14804784",
   "user" : {
@@ -6819,58 +6507,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267812178587947009",
   "text" : "So does Skyfall put to rest the whole \u201Cmany 007 agents all named James Bond\u201D theory to rest? BTW, badass movie.",
   "id" : 267812178587947009,
-  "created_at" : "Mon Nov 12 02:12:53 +0000 2012",
+  "created_at" : "2012-11-12 02:12:53 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267752180319129600",
   "text" : "First Bama loses and now the Falcons? What a great football week! Who dat!",
   "id" : 267752180319129600,
-  "created_at" : "Sun Nov 11 22:14:29 +0000 2012",
+  "created_at" : "2012-11-11 22:14:29 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -6884,14 +6570,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267690907908853760",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267691350420492288",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Just Ole Miss and Arkansas.",
   "id" : 267691350420492288,
   "in_reply_to_status_id" : 267690907908853760,
-  "created_at" : "Sun Nov 11 18:12:46 +0000 2012",
+  "created_at" : "2012-11-11 18:12:46 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -6899,12 +6584,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Randy Rosetta",
@@ -6920,20 +6605,19 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ {
       "indices" : [ 18, 38 ],
-      "url" : "http://t.co/NXErzdar",
-      "expanded_url" : "http://CBSsports.com",
+      "url" : "http:\/\/t.co\/NXErzdar",
+      "expanded_url" : "http:\/\/CBSsports.com",
       "display_url" : "CBSsports.com"
     }, {
       "indices" : [ 94, 114 ],
-      "url" : "http://t.co/n22v6lux",
-      "expanded_url" : "http://www.cbssports.com/collegefootball/bowls/predictions",
-      "display_url" : "cbssports.com/collegefootbal\u2026"
+      "url" : "http:\/\/t.co\/n22v6lux",
+      "expanded_url" : "http:\/\/www.cbssports.com\/collegefootball\/bowls\/predictions",
+      "display_url" : "cbssports.com\/collegefootbal\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267684479001321472",
-  "text" : "RT @RandyRosetta: http://t.co/NXErzdar has #LSU projected to the FIesta Bowl facing Oklahoma: http://t.co/n22v6lux",
+  "text" : "RT @RandyRosetta: http:\/\/t.co\/NXErzdar has #LSU projected to the FIesta Bowl facing Oklahoma: http:\/\/t.co\/n22v6lux",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -6945,45 +6629,44 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ {
         "indices" : [ 0, 20 ],
-        "url" : "http://t.co/NXErzdar",
-        "expanded_url" : "http://CBSsports.com",
+        "url" : "http:\/\/t.co\/NXErzdar",
+        "expanded_url" : "http:\/\/CBSsports.com",
         "display_url" : "CBSsports.com"
       }, {
         "indices" : [ 76, 96 ],
-        "url" : "http://t.co/n22v6lux",
-        "expanded_url" : "http://www.cbssports.com/collegefootball/bowls/predictions",
-        "display_url" : "cbssports.com/collegefootbal\u2026"
+        "url" : "http:\/\/t.co\/n22v6lux",
+        "expanded_url" : "http:\/\/www.cbssports.com\/collegefootball\/bowls\/predictions",
+        "display_url" : "cbssports.com\/collegefootbal\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267676064413794304",
-    "text" : "http://t.co/NXErzdar has #LSU projected to the FIesta Bowl facing Oklahoma: http://t.co/n22v6lux",
+    "text" : "http:\/\/t.co\/NXErzdar has #LSU projected to the FIesta Bowl facing Oklahoma: http:\/\/t.co\/n22v6lux",
     "id" : 267676064413794304,
-    "created_at" : "Sun Nov 11 17:12:01 +0000 2012",
+    "created_at" : "2012-11-11 17:12:01 +0000",
     "user" : {
       "name" : "Randy Rosetta",
       "screen_name" : "RandyRosetta",
       "protected" : false,
       "id_str" : "64522133",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3613417624/aae5737da2658a112f85f23ab8daffb7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3613417624\/aae5737da2658a112f85f23ab8daffb7_normal.jpeg",
       "id" : 64522133,
       "verified" : false
     }
   },
   "id" : 267684479001321472,
-  "created_at" : "Sun Nov 11 17:45:27 +0000 2012",
+  "created_at" : "2012-11-11 17:45:27 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6997,18 +6680,18 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "267683726673207300",
   "text" : "Remember. Thank you for your sacrifice, veterans.",
   "id" : 267683726673207300,
-  "created_at" : "Sun Nov 11 17:42:28 +0000 2012",
+  "created_at" : "2012-11-11 17:42:28 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Bunner",
@@ -7022,14 +6705,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267621356907139074",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267675197740568576",
   "in_reply_to_user_id" : 14804784,
   "text" : "@jeremybnnr: Seriously. It\u2019s so hard to read it without flair.",
   "id" : 267675197740568576,
   "in_reply_to_status_id" : 267621356907139074,
-  "created_at" : "Sun Nov 11 17:08:34 +0000 2012",
+  "created_at" : "2012-11-11 17:08:34 +0000",
   "in_reply_to_screen_name" : "jeremybnnr",
   "in_reply_to_user_id_str" : "14804784",
   "user" : {
@@ -7037,150 +6719,144 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267536384569536512",
   "text" : "Also, Johnny Manziel, regardless of being a freshman, should be a very serious Heisman candidate. He\u2019d probably get my vote.",
   "id" : 267536384569536512,
-  "created_at" : "Sun Nov 11 07:56:59 +0000 2012",
+  "created_at" : "2012-11-11 07:56:59 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267536242160312320",
-  "text" : "Just finished reading all the /r/cfb action from today. Probably my favorite reddit. So much hilarity at the expense of the hated.",
+  "text" : "Just finished reading all the \/r\/cfb action from today. Probably my favorite reddit. So much hilarity at the expense of the hated.",
   "id" : 267536242160312320,
-  "created_at" : "Sun Nov 11 07:56:25 +0000 2012",
+  "created_at" : "2012-11-11 07:56:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267533096910479360",
   "text" : "Still think LSU is #7 in BCS tomorrow. Still hoping for a Sugar Bowl bid.",
   "id" : 267533096910479360,
-  "created_at" : "Sun Nov 11 07:43:55 +0000 2012",
+  "created_at" : "2012-11-11 07:43:55 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267532801199439872",
   "text" : "A&amp;M did us all a favor. I think Manziel breaking the SEC\u2019s NCG streak is better than back-to-back Bama titles. Because fuck Bama.",
   "id" : 267532801199439872,
-  "created_at" : "Sun Nov 11 07:42:44 +0000 2012",
+  "created_at" : "2012-11-11 07:42:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267532619116326912",
   "text" : "So many great references to Star Wars tonight with the Bama loss. Because Saban is basically the Emperor and Bama the Empire. Pure evil.",
   "id" : 267532619116326912,
-  "created_at" : "Sun Nov 11 07:42:01 +0000 2012",
+  "created_at" : "2012-11-11 07:42:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267493541633220608",
   "text" : "I knew Auburn would crash and burn after Newton left. But holy shit. Get your act together, eagles.",
   "id" : 267493541633220608,
-  "created_at" : "Sun Nov 11 05:06:44 +0000 2012",
+  "created_at" : "2012-11-11 05:06:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Colin Cowherd",
@@ -7193,8 +6869,7 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267493240381509633",
   "text" : "RT @ESPN_Colin: I'm confused. Does this mean Texas A and M can beat NFL teams too?",
   "retweeted_status" : {
@@ -7205,71 +6880,88 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267380041359454208",
     "text" : "I'm confused. Does this mean Texas A and M can beat NFL teams too?",
     "id" : 267380041359454208,
-    "created_at" : "Sat Nov 10 21:35:44 +0000 2012",
+    "created_at" : "2012-11-10 21:35:44 +0000",
     "user" : {
       "name" : "Colin Cowherd",
       "screen_name" : "ESPN_Colin",
       "protected" : false,
       "id_str" : "52529896",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2218398943/photo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000547374754\/d0123ac6a2bdf7b0839a8b7c457ecf1a_normal.jpeg",
       "id" : 52529896,
       "verified" : true
     }
   },
   "id" : 267493240381509633,
-  "created_at" : "Sun Nov 11 05:05:32 +0000 2012",
+  "created_at" : "2012-11-11 05:05:32 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
-      "indices" : [ 3, 17 ],
-      "id_str" : "73194806",
-      "id" : 73194806
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/MSUBillMartin\/status\/267490853919019009\/photo\/1",
+      "indices" : [ 114, 134 ],
+      "url" : "http:\/\/t.co\/qattDV4y",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7ZRg7ECUAAvb72.jpg",
+      "id_str" : "267490853927407616",
+      "id" : 267490853927407616,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7ZRg7ECUAAvb72.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 338,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/qattDV4y"
     } ],
-    "media" : [ ],
     "hashtags" : [ {
       "text" : "LSUROAR",
       "indices" : [ 105, 113 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 114, 134 ],
-      "url" : "http://t.co/qattDV4y",
-      "expanded_url" : "http://twitter.com/LSUBillMartin/status/267490853919019009/photo/1",
-      "display_url" : "pic.twitter.com/qattDV4y"
-    } ]
+    "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267493140364152833",
-  "text" : "RT @LSUBillMartin: Photo from our LSU SID student Chris Parent of the ridiculous catch by Spencer Ware.  #LSUROAR http://t.co/qattDV4y",
+  "text" : "RT @LSUBillMartin: Photo from our LSU SID student Chris Parent of the ridiculous catch by Spencer Ware.  #LSUROAR http:\/\/t.co\/qattDV4y",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/LSUBillMartin/status/267490853919019009/photo/1",
+        "expanded_url" : "http:\/\/twitter.com\/MSUBillMartin\/status\/267490853919019009\/photo\/1",
         "indices" : [ 95, 115 ],
-        "url" : "http://t.co/qattDV4y",
-        "media_url" : "http://pbs.twimg.com/media/A7ZRg7ECUAAvb72.jpg",
+        "url" : "http:\/\/t.co\/qattDV4y",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/A7ZRg7ECUAAvb72.jpg",
         "id_str" : "267490853927407616",
         "id" : 267490853927407616,
-        "media_url_https" : "https://pbs.twimg.com/media/A7ZRg7ECUAAvb72.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7ZRg7ECUAAvb72.jpg",
         "sizes" : [ {
           "h" : 450,
           "resize" : "fit",
@@ -7291,7 +6983,7 @@ Grailbird.data.tweets_2012_11 =
           "resize" : "crop",
           "w" : 150
         } ],
-        "display_url" : "pic.twitter.com/qattDV4y"
+        "display_url" : "pic.twitter.com\/qattDV4y"
       } ],
       "hashtags" : [ {
         "text" : "LSUROAR",
@@ -7299,35 +6991,34 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267490853919019009",
-    "text" : "Photo from our LSU SID student Chris Parent of the ridiculous catch by Spencer Ware.  #LSUROAR http://t.co/qattDV4y",
+    "text" : "Photo from our LSU SID student Chris Parent of the ridiculous catch by Spencer Ware.  #LSUROAR http:\/\/t.co\/qattDV4y",
     "id" : 267490853919019009,
-    "created_at" : "Sun Nov 11 04:56:04 +0000 2012",
+    "created_at" : "2012-11-11 04:56:04 +0000",
     "user" : {
       "name" : "Bill Martin ",
-      "screen_name" : "LSUBillMartin",
+      "screen_name" : "MSUBillMartin",
       "protected" : false,
       "id_str" : "73194806",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2326294370/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2326294370\/t4v6p9yuwp6kp6d7vvmr_normal.jpeg",
       "id" : 73194806,
       "verified" : false
     }
   },
   "id" : 267493140364152833,
-  "created_at" : "Sun Nov 11 05:05:09 +0000 2012",
+  "created_at" : "2012-11-11 05:05:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7335,14 +7026,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267478864526184448",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267492924214882304",
   "in_reply_to_user_id" : 460227130,
   "text" : "@HelmanESPN: I would think that\u2019d close the door even more.",
   "id" : 267492924214882304,
   "in_reply_to_status_id" : 267478864526184448,
-  "created_at" : "Sun Nov 11 05:04:17 +0000 2012",
+  "created_at" : "2012-11-11 05:04:17 +0000",
   "in_reply_to_screen_name" : "aquahelmini",
   "in_reply_to_user_id_str" : "460227130",
   "user" : {
@@ -7350,12 +7040,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7369,87 +7059,84 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "267448582192365568",
   "text" : "Everything about that play was perfect. God dammit.",
   "id" : 267448582192365568,
-  "created_at" : "Sun Nov 11 02:08:05 +0000 2012",
+  "created_at" : "2012-11-11 02:08:05 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267447288446730240",
   "text" : "Guess Hilliard is back from the graveyard. Good to see.",
   "id" : 267447288446730240,
-  "created_at" : "Sun Nov 11 02:02:57 +0000 2012",
+  "created_at" : "2012-11-11 02:02:57 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267446382208634880",
   "text" : "That PI was fucking bullshit. Come on, refs.",
   "id" : 267446382208634880,
-  "created_at" : "Sun Nov 11 01:59:21 +0000 2012",
+  "created_at" : "2012-11-11 01:59:21 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267438007882231809",
   "text" : "Check out Ware! What a badass.",
   "id" : 267438007882231809,
-  "created_at" : "Sun Nov 11 01:26:04 +0000 2012",
+  "created_at" : "2012-11-11 01:26:04 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7466,18 +7153,18 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "267437950026010624",
   "text" : "Johnny Manziel for Heisman. #tamu",
   "id" : 267437950026010624,
-  "created_at" : "Sun Nov 11 01:25:50 +0000 2012",
+  "created_at" : "2012-11-11 01:25:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Dixon",
@@ -7490,8 +7177,7 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267437926282059776",
   "text" : "RT @Sheadixon: How many RBs can pound the rock like Spencer Ware, then also come up with diving TD catches and gimmick TD throws? And he ...",
   "retweeted_status" : {
@@ -7502,35 +7188,34 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "267437741409697792",
     "text" : "How many RBs can pound the rock like Spencer Ware, then also come up with diving TD catches and gimmick TD throws? And he pass blocks..",
     "id" : 267437741409697792,
-    "created_at" : "Sun Nov 11 01:25:00 +0000 2012",
+    "created_at" : "2012-11-11 01:25:00 +0000",
     "user" : {
       "name" : "Shea Dixon",
       "screen_name" : "Sheadixon",
       "protected" : false,
       "id_str" : "23910455",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1266426928/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1266426928\/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
       "id" : 23910455,
       "verified" : false
     }
   },
   "id" : 267437926282059776,
-  "created_at" : "Sun Nov 11 01:25:45 +0000 2012",
+  "created_at" : "2012-11-11 01:25:45 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7544,41 +7229,40 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "267427459778113537",
   "text" : "I can\u2019t believe I just tweeted that. My hate for Bama transcends everything else.",
   "id" : 267427459778113537,
-  "created_at" : "Sun Nov 11 00:44:09 +0000 2012",
+  "created_at" : "2012-11-11 00:44:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267350608191836161",
   "text" : "How sweet would it be for our fellow Louisianians to give LSU some help? Go Cajuns!",
   "id" : 267350608191836161,
-  "created_at" : "Sat Nov 10 19:38:46 +0000 2012",
+  "created_at" : "2012-11-10 19:38:46 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Fowler",
@@ -7592,14 +7276,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "267346645736357888",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267348921502793728",
   "in_reply_to_user_id" : 19212622,
   "text" : "@cbfowler: Good try. I know the Cajun throws people off. It\u2019s \u201CBo-zher\u201D. Had a great time at Game Day last week. Always love having y\u2019all.",
   "id" : 267348921502793728,
   "in_reply_to_status_id" : 267346645736357888,
-  "created_at" : "Sat Nov 10 19:32:04 +0000 2012",
+  "created_at" : "2012-11-10 19:32:04 +0000",
   "in_reply_to_screen_name" : "cbfowler",
   "in_reply_to_user_id_str" : "19212622",
   "user" : {
@@ -7607,58 +7290,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267307998207164417",
   "text" : "Corso with the upset pick in Alabama-A&amp;M.",
   "id" : 267307998207164417,
-  "created_at" : "Sat Nov 10 16:49:27 +0000 2012",
+  "created_at" : "2012-11-10 16:49:27 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267304215838326784",
   "text" : "I love the random LSU fan on Gameday. Our fans are the best, period.",
   "id" : 267304215838326784,
-  "created_at" : "Sat Nov 10 16:34:25 +0000 2012",
+  "created_at" : "2012-11-10 16:34:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Fowler",
@@ -7671,92 +7352,88 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "267303359432757248",
   "text" : "Best pronunciation of Bossier City goes to @cbfowler. \u201CBoss-e-ay\u201D. Haha. A lot of our cities are hard to pronounce, but not Bossier.",
   "id" : 267303359432757248,
-  "created_at" : "Sat Nov 10 16:31:01 +0000 2012",
+  "created_at" : "2012-11-10 16:31:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266675788001181696",
   "text" : "Why the fuck doesn\u2019t your site work with Safari? Ridiculous.",
   "id" : 266675788001181696,
-  "created_at" : "Thu Nov 08 22:57:17 +0000 2012",
+  "created_at" : "2012-11-08 22:57:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266604204905332737",
   "text" : "Wow. Talk about a lot of acronyms in that last tweet, jeez.",
   "id" : 266604204905332737,
-  "created_at" : "Thu Nov 08 18:12:50 +0000 2012",
+  "created_at" : "2012-11-08 18:12:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266604091642363904",
   "text" : "I would pay so much money for a release of classic RCT or AOE on the MAS.",
   "id" : 266604091642363904,
-  "created_at" : "Thu Nov 08 18:12:23 +0000 2012",
+  "created_at" : "2012-11-08 18:12:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "William ",
@@ -7770,14 +7447,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266187070798696448",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266471383981248512",
   "in_reply_to_user_id" : 201332079,
   "text" : "@williewei: Popular vote gap got bigger, but at one point it was within 50k. Just surprising to me this election was that close.",
   "id" : 266471383981248512,
   "in_reply_to_status_id" : 266187070798696448,
-  "created_at" : "Thu Nov 08 09:25:03 +0000 2012",
+  "created_at" : "2012-11-08 09:25:03 +0000",
   "in_reply_to_screen_name" : "williewei",
   "in_reply_to_user_id_str" : "201332079",
   "user" : {
@@ -7785,92 +7461,78 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266471073330118656",
   "text" : "Just finished the Halo 4 campaign. Well done. Very emotional. Interested to see how 343 develops it. Now to try multiplayer!",
   "id" : 266471073330118656,
-  "created_at" : "Thu Nov 08 09:23:49 +0000 2012",
+  "created_at" : "2012-11-08 09:23:49 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266074653041242113",
   "text" : "I believe that is enough twitter for tonight. Stay classy, America.",
   "id" : 266074653041242113,
-  "created_at" : "Wed Nov 07 07:08:35 +0000 2012",
+  "created_at" : "2012-11-07 07:08:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "266073598123450368",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266073795675181056",
-  "in_reply_to_user_id" : 269028559,
   "text" : "@LSUrockhound: I was thoroughly impressed.",
   "id" : 266073795675181056,
-  "in_reply_to_status_id" : 266073598123450368,
-  "created_at" : "Wed Nov 07 07:05:10 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
+  "created_at" : "2012-11-07 07:05:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -7884,14 +7546,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266073459409428480",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266073729946247169",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: That was mostly tongue-in-cheek.",
   "id" : 266073729946247169,
   "in_reply_to_status_id" : 266073459409428480,
-  "created_at" : "Wed Nov 07 07:04:55 +0000 2012",
+  "created_at" : "2012-11-07 07:04:55 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -7899,58 +7560,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266072953190502400",
   "text" : "Based on Obama\u2019s music selection tonight, I probably wouldn\u2019t have voted for him. Too old school for me.",
   "id" : 266072953190502400,
-  "created_at" : "Wed Nov 07 07:01:50 +0000 2012",
+  "created_at" : "2012-11-07 07:01:50 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266068442942173184",
-  "text" : "Nate Silver, 50/50. Pretty incredible, you gotta admit.",
+  "text" : "Nate Silver, 50\/50. Pretty incredible, you gotta admit.",
   "id" : 266068442942173184,
-  "created_at" : "Wed Nov 07 06:43:54 +0000 2012",
+  "created_at" : "2012-11-07 06:43:54 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Snow",
@@ -7964,14 +7623,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266059362995421185",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266059922435866624",
   "in_reply_to_user_id" : 34925686,
   "text" : "@jsnow9: Thank you.",
   "id" : 266059922435866624,
   "in_reply_to_status_id" : 266059362995421185,
-  "created_at" : "Wed Nov 07 06:10:03 +0000 2012",
+  "created_at" : "2012-11-07 06:10:03 +0000",
   "in_reply_to_screen_name" : "jsnow9",
   "in_reply_to_user_id_str" : "34925686",
   "user" : {
@@ -7979,58 +7637,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266056835893719040",
   "text" : "More Newsroom quotes for y\u2019all tonight. Very applicable tonight.",
   "id" : 266056835893719040,
-  "created_at" : "Wed Nov 07 05:57:47 +0000 2012",
+  "created_at" : "2012-11-07 05:57:47 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266056782064001024",
   "text" : "I'm a registered Republican, I only seem liberal because I believe that hurricanes are caused by high barometric pressure &amp; not gay marriage",
   "id" : 266056782064001024,
-  "created_at" : "Wed Nov 07 05:57:34 +0000 2012",
+  "created_at" : "2012-11-07 05:57:34 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cody Mack",
@@ -8044,14 +7700,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266054288843894784",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266054620328124417",
   "in_reply_to_user_id" : 19876380,
   "text" : "@codymack: Pretty cool, right? Still a long way to go, but amazing progress in 4 years.",
   "id" : 266054620328124417,
   "in_reply_to_status_id" : 266054288843894784,
-  "created_at" : "Wed Nov 07 05:48:59 +0000 2012",
+  "created_at" : "2012-11-07 05:48:59 +0000",
   "in_reply_to_screen_name" : "codymack",
   "in_reply_to_user_id_str" : "19876380",
   "user" : {
@@ -8059,12 +7714,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -8078,14 +7733,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266053954134224896",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266054480846520320",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: My position is science.",
   "id" : 266054480846520320,
   "in_reply_to_status_id" : 266053954134224896,
-  "created_at" : "Wed Nov 07 05:48:25 +0000 2012",
+  "created_at" : "2012-11-07 05:48:25 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -8093,12 +7747,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lynsey Jordan Gwin",
@@ -8112,14 +7766,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266053711393067009",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266053865072365569",
   "in_reply_to_user_id" : 13114472,
   "text" : "@lynseydesign: Considering the Arkansas results (and knowing our state), I\u2019d likely agree.",
   "id" : 266053865072365569,
   "in_reply_to_status_id" : 266053711393067009,
-  "created_at" : "Wed Nov 07 05:45:59 +0000 2012",
+  "created_at" : "2012-11-07 05:45:59 +0000",
   "in_reply_to_screen_name" : "lynseydesign",
   "in_reply_to_user_id_str" : "13114472",
   "user" : {
@@ -8127,38 +7780,37 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266053414830608384",
   "text" : "Wow, Arkansas rejected the marijuana amendment by just 4%. A lot closer than I expected.",
   "id" : 266053414830608384,
-  "created_at" : "Wed Nov 07 05:44:11 +0000 2012",
+  "created_at" : "2012-11-07 05:44:11 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " Heidi R. Kling",
+      "name" : " Heidi R. Kling ",
       "screen_name" : "HeidiRKling",
       "indices" : [ 0, 12 ],
       "id_str" : "15900960",
@@ -8169,14 +7821,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266051527242817538",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266051736043675648",
   "in_reply_to_user_id" : 15900960,
   "text" : "@HeidiRKling: You are welcome. Everyone is equal. Simple, basic human idea.",
   "id" : 266051736043675648,
   "in_reply_to_status_id" : 266051527242817538,
-  "created_at" : "Wed Nov 07 05:37:31 +0000 2012",
+  "created_at" : "2012-11-07 05:37:31 +0000",
   "in_reply_to_screen_name" : "HeidiRKling",
   "in_reply_to_user_id_str" : "15900960",
   "user" : {
@@ -8184,196 +7835,188 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266051489452158976",
-  "text" : "Over/under on when LA gets marijuana legalization or marriage equality votes? This decade?",
+  "text" : "Over\/under on when LA gets marijuana legalization or marriage equality votes? This decade?",
   "id" : 266051489452158976,
-  "created_at" : "Wed Nov 07 05:36:32 +0000 2012",
+  "created_at" : "2012-11-07 05:36:32 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266051053420683265",
   "text" : "The popular vote is within 50,000. Amazing. Probably will widen, but that\u2019s a narrow number. Has our country ever been more divided?",
   "id" : 266051053420683265,
-  "created_at" : "Wed Nov 07 05:34:48 +0000 2012",
+  "created_at" : "2012-11-07 05:34:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266050676017225728",
   "text" : "In other news, a woman from Wisconson was elected as the first openly gay senator. How cool is that? In the future, we\u2019re all equal.",
   "id" : 266050676017225728,
-  "created_at" : "Wed Nov 07 05:33:18 +0000 2012",
+  "created_at" : "2012-11-07 05:33:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049936179728384",
   "text" : "Again, basic human ideas here. Don\u2019t be an asshole. It\u2019s simple.",
   "id" : 266049936179728384,
-  "created_at" : "Wed Nov 07 05:30:22 +0000 2012",
+  "created_at" : "2012-11-07 05:30:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049876381536258",
   "text" : "To be clear: Delgado is the clear and completely obvious choice there.",
   "id" : 266049876381536258,
-  "created_at" : "Wed Nov 07 05:30:08 +0000 2012",
+  "created_at" : "2012-11-07 05:30:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049703475572737",
   "text" : "District 12: you suck balls. How the fuck is there a run off between Smokie and Delgado? EXPLAIN YOURSELF.",
   "id" : 266049703475572737,
-  "created_at" : "Wed Nov 07 05:29:26 +0000 2012",
+  "created_at" : "2012-11-07 05:29:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049409500987392",
   "text" : "Also, thank you Colorado. Pot should be legal. (Disclaimer: never smoked it myself.)",
   "id" : 266049409500987392,
-  "created_at" : "Wed Nov 07 05:28:16 +0000 2012",
+  "created_at" : "2012-11-07 05:28:16 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049331239469056",
   "text" : "I\u2019m being very political tonight. HOPE YOU LIKE IT.",
   "id" : 266049331239469056,
-  "created_at" : "Wed Nov 07 05:27:58 +0000 2012",
+  "created_at" : "2012-11-07 05:27:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brett Lemoine",
@@ -8387,14 +8030,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266048947989127168",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266049126788128768",
   "in_reply_to_user_id" : 15461921,
   "text" : "@bremic9188: EVERY GOD DAMN DAY YOU ARE WELCOME. I\u2019ll fight for those rights until we don\u2019t need to anymore. I\u2019m looking forward to that day",
   "id" : 266049126788128768,
   "in_reply_to_status_id" : 266048947989127168,
-  "created_at" : "Wed Nov 07 05:27:09 +0000 2012",
+  "created_at" : "2012-11-07 05:27:09 +0000",
   "in_reply_to_screen_name" : "bremic9188",
   "in_reply_to_user_id_str" : "15461921",
   "user" : {
@@ -8402,35 +8044,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266048943585107968",
   "text" : "I\u2019m honestly shocked the popular vote was as close as it was. And saddened.",
   "id" : 266048943585107968,
-  "created_at" : "Wed Nov 07 05:26:25 +0000 2012",
+  "created_at" : "2012-11-07 05:26:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cameron Roberson",
@@ -8444,14 +8085,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266048771023048704",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266048887364648962",
   "in_reply_to_user_id" : 19027992,
   "text" : "@cameronroberson: No, because they\u2019ve completely alienated all the younger generations.",
   "id" : 266048887364648962,
   "in_reply_to_status_id" : 266048771023048704,
-  "created_at" : "Wed Nov 07 05:26:12 +0000 2012",
+  "created_at" : "2012-11-07 05:26:12 +0000",
   "in_reply_to_screen_name" : "cameronroberson",
   "in_reply_to_user_id_str" : "19027992",
   "user" : {
@@ -8459,12 +8099,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cameron Roberson",
@@ -8478,14 +8118,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266048483872632832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266048743231610880",
   "in_reply_to_user_id" : 19027992,
   "text" : "@cameronroberson: We might not ever see it change. And that\u2019s why I\u2019ll keep voting libertarian.",
   "id" : 266048743231610880,
   "in_reply_to_status_id" : 266048483872632832,
-  "created_at" : "Wed Nov 07 05:25:37 +0000 2012",
+  "created_at" : "2012-11-07 05:25:37 +0000",
   "in_reply_to_screen_name" : "cameronroberson",
   "in_reply_to_user_id_str" : "19027992",
   "user" : {
@@ -8493,12 +8132,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -8512,14 +8151,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266048464952123392",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266048580232544256",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Yes, but most people would prefer liberal extreme than the nut bags in the GOP.",
   "id" : 266048580232544256,
   "in_reply_to_status_id" : 266048464952123392,
-  "created_at" : "Wed Nov 07 05:24:59 +0000 2012",
+  "created_at" : "2012-11-07 05:24:59 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -8527,12 +8165,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cameron Roberson",
@@ -8546,14 +8184,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "266048166296711169",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266048354209914881",
   "in_reply_to_user_id" : 19027992,
   "text" : "@cameronroberson: It\u2019s horrific to me. When will they wake up and see what\u2019s happening?",
   "id" : 266048354209914881,
   "in_reply_to_status_id" : 266048166296711169,
-  "created_at" : "Wed Nov 07 05:24:05 +0000 2012",
+  "created_at" : "2012-11-07 05:24:05 +0000",
   "in_reply_to_screen_name" : "cameronroberson",
   "in_reply_to_user_id_str" : "19027992",
   "user" : {
@@ -8561,299 +8198,276 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266047984024821760",
   "text" : "We overthrew our government tonight and I\u2019m damned proud to be American. Don\u2019t misunderstand.",
   "id" : 266047984024821760,
-  "created_at" : "Wed Nov 07 05:22:36 +0000 2012",
+  "created_at" : "2012-11-07 05:22:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266047895160107008",
   "text" : "Will McAvoy: \"Every two years we drive to the fire station and overthrow the government, and there\u2019s not a policeman in the street.\"",
   "id" : 266047895160107008,
-  "created_at" : "Wed Nov 07 05:22:15 +0000 2012",
+  "created_at" : "2012-11-07 05:22:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "266047408469835777",
-  "geo" : {
-  },
-  "id_str" : "266047719699779584",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: Yes. I\u2019m editing from a larger rant into 140. My bad. But the point stands.",
-  "id" : 266047719699779584,
-  "in_reply_to_status_id" : 266047408469835777,
-  "created_at" : "Wed Nov 07 05:21:33 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "266047719699779584",
+  "text" : "@LSUrockhound: Yes. I\u2019m editing from a larger rant into 140. My bad. But the point stands.",
+  "id" : 266047719699779584,
+  "created_at" : "2012-11-07 05:21:33 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
   "id_str" : "266047576296534016",
   "text" : "And in that scenario, I\u2019ll take a bit more Obama over a guy who believes in aliens and creationism and think that gays caused a hurricane.",
   "id" : 266047576296534016,
-  "created_at" : "Wed Nov 07 05:20:59 +0000 2012",
+  "created_at" : "2012-11-07 05:20:59 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266047288286261249",
   "text" : "\u2026 and a guy who more closely aligns with my theory of governmental spending. This is what\u2019s wrong with our system.",
   "id" : 266047288286261249,
-  "created_at" : "Wed Nov 07 05:19:51 +0000 2012",
+  "created_at" : "2012-11-07 05:19:51 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266047169851707392",
   "text" : "It\u2019s sad, but our choice is between a man who won\u2019t deny basic human rights to my fellow Americans and won\u2019t spread hateful rhetoric \u2026",
   "id" : 266047169851707392,
-  "created_at" : "Wed Nov 07 05:19:22 +0000 2012",
+  "created_at" : "2012-11-07 05:19:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266047050557296640",
   "text" : "I voted for Gray Johnson tonight, but Obama would have been my second choice.",
   "id" : 266047050557296640,
-  "created_at" : "Wed Nov 07 05:18:54 +0000 2012",
+  "created_at" : "2012-11-07 05:18:54 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266046476499689472",
   "text" : "COME ON. My generation believes in equality, for women\u2019s rights and gun control. Get with the program.",
   "id" : 266046476499689472,
-  "created_at" : "Wed Nov 07 05:16:37 +0000 2012",
+  "created_at" : "2012-11-07 05:16:37 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266046347952664578",
   "text" : "The GOP candidates suck. It\u2019s a choice between a guy who believes in evolution, or thinks rape is legitimate, or hates gays.",
   "id" : 266046347952664578,
-  "created_at" : "Wed Nov 07 05:16:06 +0000 2012",
+  "created_at" : "2012-11-07 05:16:06 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266046244223348736",
   "text" : "I think a lot of people in my generation are actually fiscally conservative, but the GOP\u2019s social policy is alienating.",
   "id" : 266046244223348736,
-  "created_at" : "Wed Nov 07 05:15:42 +0000 2012",
+  "created_at" : "2012-11-07 05:15:42 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266046082314813440",
   "text" : "Look, I\u2019m registered Republican, but fuck my party. It\u2019s filled with hate. Don\u2019t be an asshole. Give everyone the same liberties.",
   "id" : 266046082314813440,
-  "created_at" : "Wed Nov 07 05:15:03 +0000 2012",
+  "created_at" : "2012-11-07 05:15:03 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "266045953939750913",
   "text" : "Everyone\u2019s saying the Republican party needs to be fixed and how they need to figure that out. I\u2019ll tell you how. Get rid of the assholes.",
   "id" : 266045953939750913,
-  "created_at" : "Wed Nov 07 05:14:32 +0000 2012",
+  "created_at" : "2012-11-07 05:14:32 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Link",
@@ -8867,14 +8481,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "265955545855442945",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265956402101620737",
   "in_reply_to_user_id" : 16419232,
   "text" : "@davidlink: yep. Also got to time it right. Went right before work rush. It was empty, no lines.",
   "id" : 265956402101620737,
   "in_reply_to_status_id" : 265955545855442945,
-  "created_at" : "Tue Nov 06 23:18:42 +0000 2012",
+  "created_at" : "2012-11-06 23:18:42 +0000",
   "in_reply_to_screen_name" : "davidlink",
   "in_reply_to_user_id_str" : "16419232",
   "user" : {
@@ -8882,35 +8495,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265954754289618946",
   "text" : "Just voted. Feels good to exercise my civil rights. Took me all of 5 minutes.",
   "id" : 265954754289618946,
-  "created_at" : "Tue Nov 06 23:12:09 +0000 2012",
+  "created_at" : "2012-11-06 23:12:09 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8920,26 +8532,25 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265873869171204096",
   "text" : "Today I\u2019m voting for Master Chief. #halo4 (Not, but really, I\u2019m actually voting. But also gaming later.)",
   "id" : 265873869171204096,
-  "created_at" : "Tue Nov 06 17:50:44 +0000 2012",
+  "created_at" : "2012-11-06 17:50:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Hyde",
+      "name" : "andrew hyde",
       "screen_name" : "andrewhyde",
       "indices" : [ 0, 11 ],
       "id_str" : "841791",
@@ -8950,14 +8561,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "265873008059641857",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265873469789589505",
   "in_reply_to_user_id" : 841791,
   "text" : "@andrewhyde: Sounds about right.",
   "id" : 265873469789589505,
   "in_reply_to_status_id" : 265873008059641857,
-  "created_at" : "Tue Nov 06 17:49:09 +0000 2012",
+  "created_at" : "2012-11-06 17:49:09 +0000",
   "in_reply_to_screen_name" : "andrewhyde",
   "in_reply_to_user_id_str" : "841791",
   "user" : {
@@ -8965,196 +8575,188 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265873342345654272",
   "text" : "I won\u2019t tell you who to vote for, but please, don\u2019t vote for an asshole. That\u2019s all I ask.",
   "id" : 265873342345654272,
-  "created_at" : "Tue Nov 06 17:48:39 +0000 2012",
+  "created_at" : "2012-11-06 17:48:39 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265873225089695745",
   "text" : "Remember today as you\u2019re voting that it\u2019s not a choice between 2. You\u2019re never throwing your vote away when you caste it for your values.",
   "id" : 265873225089695745,
-  "created_at" : "Tue Nov 06 17:48:11 +0000 2012",
+  "created_at" : "2012-11-06 17:48:11 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265871713705795585",
   "text" : "Since when did being a strong conservative start meaning \u201CI\u2019m an asshole\u201D?",
   "id" : 265871713705795585,
-  "created_at" : "Tue Nov 06 17:42:10 +0000 2012",
+  "created_at" : "2012-11-06 17:42:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265723746806030336",
   "text" : "The daylight savings extra hour of sleep means so little to me anymore.",
   "id" : 265723746806030336,
-  "created_at" : "Tue Nov 06 07:54:12 +0000 2012",
+  "created_at" : "2012-11-06 07:54:12 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265674651743694848",
   "text" : "Gruden, that analogy doesn\u2019t make any sense.",
   "id" : 265674651743694848,
-  "created_at" : "Tue Nov 06 04:39:07 +0000 2012",
+  "created_at" : "2012-11-06 04:39:07 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265670248865349632",
   "text" : "Don\u2019t get me wrong, fuck Bama, but I\u2019m really glad to see Ingram finally contributing to our offense.",
   "id" : 265670248865349632,
-  "created_at" : "Tue Nov 06 04:21:37 +0000 2012",
+  "created_at" : "2012-11-06 04:21:37 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265666349244764160",
   "text" : "Holy crap, the Eagles o-line is atrocious. Vick is getting demolished.",
   "id" : 265666349244764160,
-  "created_at" : "Tue Nov 06 04:06:08 +0000 2012",
+  "created_at" : "2012-11-06 04:06:08 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265658776504397824",
   "text" : "Holy shit, that Stanton\u2019s commercial was so creepy.",
   "id" : 265658776504397824,
-  "created_at" : "Tue Nov 06 03:36:02 +0000 2012",
+  "created_at" : "2012-11-06 03:36:02 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "isral Duke",
@@ -9168,14 +8770,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "265589689153638400",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265606610032926720",
   "in_reply_to_user_id" : 1748271,
   "text" : "@isralduke: I don\u2019t even like my 24\u201D external anymore. I want a retina external. I love this computer.",
   "id" : 265606610032926720,
   "in_reply_to_status_id" : 265589689153638400,
-  "created_at" : "Tue Nov 06 00:08:45 +0000 2012",
+  "created_at" : "2012-11-06 00:08:45 +0000",
   "in_reply_to_screen_name" : "isralduke",
   "in_reply_to_user_id_str" : "1748271",
   "user" : {
@@ -9183,12 +8784,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott Van Pelt",
@@ -9201,28 +8802,27 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 110, 130 ],
-      "url" : "http://t.co/b3oaENEx",
-      "expanded_url" : "http://espn.go.com/espnradio/play?id=8597496",
-      "display_url" : "espn.go.com/espnradio/play\u2026"
+      "url" : "http:\/\/t.co\/b3oaENEx",
+      "expanded_url" : "http:\/\/espn.go.com\/espnradio\/play?id=8597496",
+      "display_url" : "espn.go.com\/espnradio\/play\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265606510288191488",
-  "text" : "Great clip from @notthefakeSVP about how great Death Valley/BTR is. We love you, too, SVP. Come back anytime. http://t.co/b3oaENEx",
+  "text" : "Great clip from @notthefakeSVP about how great Death Valley\/BTR is. We love you, too, SVP. Come back anytime. http:\/\/t.co\/b3oaENEx",
   "id" : 265606510288191488,
-  "created_at" : "Tue Nov 06 00:08:21 +0000 2012",
+  "created_at" : "2012-11-06 00:08:21 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9232,28 +8832,27 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ {
       "indices" : [ 76, 96 ],
-      "url" : "http://t.co/OrYRPPJ3",
-      "expanded_url" : "http://espn.go.com/espn/photos/gallery/_/id/8583691/alabama-vs-lsu-one-day-one-game",
-      "display_url" : "espn.go.com/espn/photos/ga\u2026"
+      "url" : "http:\/\/t.co\/OrYRPPJ3",
+      "expanded_url" : "http:\/\/espn.go.com\/espn\/photos\/gallery\/_\/id\/8583691\/alabama-vs-lsu-one-day-one-game",
+      "display_url" : "espn.go.com\/espn\/photos\/ga\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265603447892631553",
-  "text" : "This ESPN gallery from the LSU-Bama game this weekend is utterly fantastic. http://t.co/OrYRPPJ3 #1day1game",
+  "text" : "This ESPN gallery from the LSU-Bama game this weekend is utterly fantastic. http:\/\/t.co\/OrYRPPJ3 #1day1game",
   "id" : 265603447892631553,
-  "created_at" : "Mon Nov 05 23:56:11 +0000 2012",
+  "created_at" : "2012-11-05 23:56:11 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gregory Schultz",
@@ -9267,14 +8866,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "265534094866280450",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265547329292075008",
   "in_reply_to_user_id" : 1471331,
   "text" : "@gregwschultz: Nice sound. Louder, deeper. Sounds like true stereo. Definitely a big improvement.",
   "id" : 265547329292075008,
   "in_reply_to_status_id" : 265534094866280450,
-  "created_at" : "Mon Nov 05 20:13:11 +0000 2012",
+  "created_at" : "2012-11-05 20:13:11 +0000",
   "in_reply_to_screen_name" : "gregwschultz",
   "in_reply_to_user_id_str" : "1471331",
   "user" : {
@@ -9282,35 +8880,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265529871193751552",
   "text" : "One of the things I notice most about the switch from my old 13\u201D MBP to this 15\u201D rMBP is how much better the speakers are. It\u2019s ridiculous.",
   "id" : 265529871193751552,
-  "created_at" : "Mon Nov 05 19:03:49 +0000 2012",
+  "created_at" : "2012-11-05 19:03:49 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marquette LaForest",
@@ -9323,157 +8920,144 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 92, 112 ],
-      "url" : "http://t.co/UbLSA7gD",
-      "expanded_url" : "http://devour.com/video/imdb-top-250/",
-      "display_url" : "devour.com/video/imdb-top\u2026"
+      "url" : "http:\/\/t.co\/UbLSA7gD",
+      "expanded_url" : "http:\/\/devour.com\/video\/imdb-top-250\/",
+      "display_url" : "devour.com\/video\/imdb-top\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265527503672721410",
-  "text" : "IMDB Top 250 in 2.5 minutes. Pretty awesome video. Feel like @MarquetteLa would enjoy this. http://t.co/UbLSA7gD",
+  "text" : "IMDB Top 250 in 2.5 minutes. Pretty awesome video. Feel like @MarquetteLa would enjoy this. http:\/\/t.co\/UbLSA7gD",
   "id" : 265527503672721410,
-  "created_at" : "Mon Nov 05 18:54:24 +0000 2012",
+  "created_at" : "2012-11-05 18:54:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265330676377714689",
   "text" : "I\u2019m really just hoping that Mett\u2019s matured and that this bodes well for our offense. I\u2019m really ready to see a good LSU offense.",
   "id" : 265330676377714689,
-  "created_at" : "Mon Nov 05 05:52:17 +0000 2012",
+  "created_at" : "2012-11-05 05:52:17 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265330560497512449",
   "text" : "I\u2019m now holding out for a Sugar Bowl bid, though I don\u2019t think that\u2019s very likely.",
   "id" : 265330560497512449,
-  "created_at" : "Mon Nov 05 05:51:49 +0000 2012",
+  "created_at" : "2012-11-05 05:51:49 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265330446118834177",
   "text" : "Regardless of the scoreboard, I think LSU was the better team last night. Once again, we got out-coached. Questionable play calling lost it.",
   "id" : 265330446118834177,
-  "created_at" : "Mon Nov 05 05:51:22 +0000 2012",
+  "created_at" : "2012-11-05 05:51:22 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265330288756944896",
   "text" : "I\u2019m still a bit sad from last night, but what an exciting game. In the end, everyone on the field did their job. We dominated that team.",
   "id" : 265330288756944896,
-  "created_at" : "Mon Nov 05 05:50:45 +0000 2012",
+  "created_at" : "2012-11-05 05:50:45 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "265295125549293569",
   "text" : "T-DOG NOOOOOO.",
   "id" : 265295125549293569,
-  "created_at" : "Mon Nov 05 03:31:01 +0000 2012",
+  "created_at" : "2012-11-05 03:31:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
-      "indices" : [ 3, 14 ],
-      "id_str" : "104203557",
-      "id" : 104203557
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264927752904384512",
   "text" : "RT @AbshireTDR: So Zach Mettenberger figured out how to play this QB thing. Against Alabama.",
   "retweeted_status" : {
@@ -9484,35 +9068,34 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264925658868748288",
     "text" : "So Zach Mettenberger figured out how to play this QB thing. Against Alabama.",
     "id" : 264925658868748288,
-    "created_at" : "Sun Nov 04 03:02:53 +0000 2012",
+    "created_at" : "2012-11-04 03:02:53 +0000",
     "user" : {
       "name" : "Chris Abshire",
-      "screen_name" : "AbshireTDR",
+      "screen_name" : "Abshire_Chris",
       "protected" : false,
       "id_str" : "104203557",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1620187295/EZIMYAGDFTXGWNU.20111013193938_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1620187295\/EZIMYAGDFTXGWNU.20111013193938_normal.jpg",
       "id" : 104203557,
       "verified" : false
     }
   },
   "id" : 264927752904384512,
-  "created_at" : "Sun Nov 04 03:11:13 +0000 2012",
+  "created_at" : "2012-11-04 03:11:13 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Dixon",
@@ -9525,8 +9108,7 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264927251332734977",
   "text" : "RT @Sheadixon: Things that make Tiger Stadium loud: When Sam Montgomery comes crawling out of a pile with the football.",
   "retweeted_status" : {
@@ -9537,35 +9119,34 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264923328798670849",
     "text" : "Things that make Tiger Stadium loud: When Sam Montgomery comes crawling out of a pile with the football.",
     "id" : 264923328798670849,
-    "created_at" : "Sun Nov 04 02:53:38 +0000 2012",
+    "created_at" : "2012-11-04 02:53:38 +0000",
     "user" : {
       "name" : "Shea Dixon",
       "screen_name" : "Sheadixon",
       "protected" : false,
       "id_str" : "23910455",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1266426928/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1266426928\/199650_1721431130100_1667970004_1548492_7674926_n-1_normal.jpg",
       "id" : 23910455,
       "verified" : false
     }
   },
   "id" : 264927251332734977,
-  "created_at" : "Sun Nov 04 03:09:13 +0000 2012",
+  "created_at" : "2012-11-04 03:09:13 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott Van Pelt",
@@ -9574,31 +9155,55 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "234521957",
       "id" : 234521957
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/notthefakeSVP\/status\/264742394082242560\/photo\/1",
       "indices" : [ 37, 57 ],
-      "url" : "http://t.co/S0kpYOQK",
-      "expanded_url" : "http://twitter.com/notthefakeSVP/status/264742394082242560/photo/1",
-      "display_url" : "pic.twitter.com/S0kpYOQK"
-    } ]
+      "url" : "http:\/\/t.co\/S0kpYOQK",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A6yNzgSCMAEXXXd.jpg",
+      "id_str" : "264742394086436865",
+      "id" : 264742394086436865,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6yNzgSCMAEXXXd.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 716
+      }, {
+        "h" : 804,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 716
+      }, {
+        "h" : 456,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/S0kpYOQK"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264769453571596289",
-  "text" : "RT @notthefakeSVP: This place...man. http://t.co/S0kpYOQK",
+  "text" : "RT @notthefakeSVP: This place...man. http:\/\/t.co\/S0kpYOQK",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">Camera on iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003ECamera on iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/notthefakeSVP/status/264742394082242560/photo/1",
+        "expanded_url" : "http:\/\/twitter.com\/notthefakeSVP\/status\/264742394082242560\/photo\/1",
         "indices" : [ 18, 38 ],
-        "url" : "http://t.co/S0kpYOQK",
-        "media_url" : "http://pbs.twimg.com/media/A6yNzgSCMAEXXXd.jpg",
+        "url" : "http:\/\/t.co\/S0kpYOQK",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/A6yNzgSCMAEXXXd.jpg",
         "id_str" : "264742394086436865",
         "id" : 264742394086436865,
-        "media_url_https" : "https://pbs.twimg.com/media/A6yNzgSCMAEXXXd.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6yNzgSCMAEXXXd.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -9620,96 +9225,93 @@ Grailbird.data.tweets_2012_11 =
           "resize" : "fit",
           "w" : 340
         } ],
-        "display_url" : "pic.twitter.com/S0kpYOQK"
+        "display_url" : "pic.twitter.com\/S0kpYOQK"
       } ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264742394082242560",
-    "text" : "This place...man. http://t.co/S0kpYOQK",
+    "text" : "This place...man. http:\/\/t.co\/S0kpYOQK",
     "id" : 264742394082242560,
-    "created_at" : "Sat Nov 03 14:54:40 +0000 2012",
+    "created_at" : "2012-11-03 14:54:40 +0000",
     "user" : {
       "name" : "Scott Van Pelt",
       "screen_name" : "notthefakeSVP",
       "protected" : false,
       "id_str" : "234521957",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3589652394/f07faaf80ddfeb31533da74bb96453ea_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000710976410\/f101b13766920740b296c0ce54ad028e_normal.jpeg",
       "id" : 234521957,
       "verified" : true
     }
   },
   "id" : 264769453571596289,
-  "created_at" : "Sat Nov 03 16:42:11 +0000 2012",
+  "created_at" : "2012-11-03 16:42:11 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264769314010324992",
   "text" : "Saw the Tumbler + past five Batmobiles has to be the coolest thing I\u2019ve ever seen on campus. So badass.",
   "id" : 264769314010324992,
-  "created_at" : "Sat Nov 03 16:41:38 +0000 2012",
+  "created_at" : "2012-11-03 16:41:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264746903453986818",
   "text" : "Winner of best t-shirt today: \u201CI\u2019d rather take a shower at Penn State than support Alabama!\u201D Too soon?",
   "id" : 264746903453986818,
-  "created_at" : "Sat Nov 03 15:12:35 +0000 2012",
+  "created_at" : "2012-11-03 15:12:35 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/264746055135027202/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/264746055135027202\/photo\/1",
       "indices" : [ 10, 30 ],
-      "url" : "http://t.co/owQBdGO0",
-      "media_url" : "http://pbs.twimg.com/media/A6yRImxCYAALIWt.jpg",
+      "url" : "http:\/\/t.co\/owQBdGO0",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A6yRImxCYAALIWt.jpg",
       "id_str" : "264746055139221504",
       "id" : 264746055139221504,
-      "media_url_https" : "https://pbs.twimg.com/media/A6yRImxCYAALIWt.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6yRImxCYAALIWt.jpg",
       "sizes" : [ {
         "h" : 450,
         "resize" : "fit",
@@ -9731,54 +9333,52 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       } ],
-      "display_url" : "pic.twitter.com/owQBdGO0"
+      "display_url" : "pic.twitter.com\/owQBdGO0"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264746055135027202",
-  "text" : "Game Day! http://t.co/owQBdGO0",
+  "text" : "Game Day! http:\/\/t.co\/owQBdGO0",
   "id" : 264746055135027202,
-  "created_at" : "Sat Nov 03 15:09:13 +0000 2012",
+  "created_at" : "2012-11-03 15:09:13 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264583436868665345",
   "text" : "Now that I\u2019m all retina, I need a new editor, because there\u2019s no way I\u2019m staring at grainy TextMate 1 for much longer.",
   "id" : 264583436868665345,
-  "created_at" : "Sat Nov 03 04:23:01 +0000 2012",
+  "created_at" : "2012-11-03 04:23:01 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ky",
+      "name" : "Kyle",
       "screen_name" : "explodedsoda",
       "indices" : [ 0, 13 ],
       "id_str" : "12802942",
@@ -9789,14 +9389,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264548411590713344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264549324413890561",
   "in_reply_to_user_id" : 12802942,
   "text" : "@explodedsoda: Saw it last night. Great movie. Great references. You can tell they were gaming nerds.",
   "id" : 264549324413890561,
   "in_reply_to_status_id" : 264548411590713344,
-  "created_at" : "Sat Nov 03 02:07:28 +0000 2012",
+  "created_at" : "2012-11-03 02:07:28 +0000",
   "in_reply_to_screen_name" : "explodedsoda",
   "in_reply_to_user_id_str" : "12802942",
   "user" : {
@@ -9804,12 +9403,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jarett Rodriguez",
@@ -9823,14 +9422,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264545480556568576",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264546839557201920",
   "in_reply_to_user_id" : 25733272,
   "text" : "@jarettr: Brilliant.",
   "id" : 264546839557201920,
   "in_reply_to_status_id" : 264545480556568576,
-  "created_at" : "Sat Nov 03 01:57:36 +0000 2012",
+  "created_at" : "2012-11-03 01:57:36 +0000",
   "in_reply_to_screen_name" : "jarettr",
   "in_reply_to_user_id_str" : "25733272",
   "user" : {
@@ -9838,12 +9436,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michael Bonnette",
@@ -9862,12 +9460,11 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264546523398946816",
   "text" : "RT @LSUBonnette: 34 players on @LSUfball roster who have started at least 1 game in LSU career have never lost a game in which they play ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "LSU Football",
@@ -9880,104 +9477,100 @@ Grailbird.data.tweets_2012_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264528453515227137",
     "text" : "34 players on @LSUfball roster who have started at least 1 game in LSU career have never lost a game in which they played in Tiger Stadium.",
     "id" : 264528453515227137,
-    "created_at" : "Sat Nov 03 00:44:32 +0000 2012",
+    "created_at" : "2012-11-03 00:44:32 +0000",
     "user" : {
       "name" : "Michael Bonnette",
       "screen_name" : "LSUBonnette",
       "protected" : false,
       "id_str" : "19345639",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2415376531/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2415376531\/image_normal.jpg",
       "id" : 19345639,
       "verified" : false
     }
   },
   "id" : 264546523398946816,
-  "created_at" : "Sat Nov 03 01:56:20 +0000 2012",
+  "created_at" : "2012-11-03 01:56:20 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264520197610807297",
   "text" : "Traffic is already insane.",
   "id" : 264520197610807297,
-  "created_at" : "Sat Nov 03 00:11:44 +0000 2012",
+  "created_at" : "2012-11-03 00:11:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264488492736847872",
   "text" : "This retina screen is even more impressive at 15\u201D than it was at 3.5\u201D or 4\u201D.",
   "id" : 264488492736847872,
-  "created_at" : "Fri Nov 02 22:05:45 +0000 2012",
+  "created_at" : "2012-11-02 22:05:45 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264459962133135360",
   "text" : "Looking forward to graduating just so I can stop receiving all of these god damn emails from LSU.",
   "id" : 264459962133135360,
-  "created_at" : "Fri Nov 02 20:12:23 +0000 2012",
+  "created_at" : "2012-11-02 20:12:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ty Miller",
@@ -9991,14 +9584,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264459260342190080",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264459734898323456",
   "in_reply_to_user_id" : 191933111,
   "text" : "@TyLMiller: Yes, especially to the turtles.",
   "id" : 264459734898323456,
   "in_reply_to_status_id" : 264459260342190080,
-  "created_at" : "Fri Nov 02 20:11:28 +0000 2012",
+  "created_at" : "2012-11-02 20:11:28 +0000",
   "in_reply_to_screen_name" : "TyLMiller",
   "in_reply_to_user_id_str" : "191933111",
   "user" : {
@@ -10006,46 +9598,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "264451247384457217",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264459211235278848",
-  "in_reply_to_user_id" : 269028559,
   "text" : "@LSUrockhound: If it means Bama loses, bring on the apocalypse.",
   "id" : 264459211235278848,
-  "in_reply_to_status_id" : 264451247384457217,
-  "created_at" : "Fri Nov 02 20:09:24 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
+  "created_at" : "2012-11-02 20:09:24 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Fake ESPN",
@@ -10058,184 +9638,155 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264458506927751168",
   "text" : "RT @TheFakeESPN: Tiger replaced by McIlroy as Nike's highest paid golfer, marking the largest financial beating he's taken from a Europe ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264440375249367041",
     "text" : "Tiger replaced by McIlroy as Nike's highest paid golfer, marking the largest financial beating he's taken from a European since his divorce.",
     "id" : 264440375249367041,
-    "created_at" : "Fri Nov 02 18:54:33 +0000 2012",
+    "created_at" : "2012-11-02 18:54:33 +0000",
     "user" : {
       "name" : "The Fake ESPN",
       "screen_name" : "TheFakeESPN",
       "protected" : false,
       "id_str" : "307478701",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3636597876/9e92458d4102194073414c3fb44f447f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3636597876\/9e92458d4102194073414c3fb44f447f_normal.jpeg",
       "id" : 307478701,
       "verified" : false
     }
   },
   "id" : 264458506927751168,
-  "created_at" : "Fri Nov 02 20:06:36 +0000 2012",
+  "created_at" : "2012-11-02 20:06:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "264406621176885249",
-  "geo" : {
-  },
-  "id_str" : "264413965260562434",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: How is corn dog offensive? They\u2019re delicious and universally loved.",
-  "id" : 264413965260562434,
-  "in_reply_to_status_id" : 264406621176885249,
-  "created_at" : "Fri Nov 02 17:09:36 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Barber",
-      "screen_name" : "LSUrockhound",
-      "indices" : [ 0, 13 ],
-      "id_str" : "269028559",
-      "id" : 269028559
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "264403930748948481",
-  "geo" : {
-  },
-  "id_str" : "264413288803205120",
-  "in_reply_to_user_id" : 269028559,
-  "text" : "@LSUrockhound: If the choice is between beating Bama and ruining another SEC title, fuck Bama.",
-  "id" : 264413288803205120,
-  "in_reply_to_status_id" : 264403930748948481,
-  "created_at" : "Fri Nov 02 17:06:55 +0000 2012",
-  "in_reply_to_screen_name" : "LSUrockhound",
-  "in_reply_to_user_id_str" : "269028559",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
+  "geo" : { },
+  "id_str" : "264413965260562434",
+  "text" : "@LSUrockhound: How is corn dog offensive? They\u2019re delicious and universally loved.",
+  "id" : 264413965260562434,
+  "created_at" : "2012-11-02 17:09:36 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
+  "geo" : { },
+  "id_str" : "264413288803205120",
+  "text" : "@LSUrockhound: If the choice is between beating Bama and ruining another SEC title, fuck Bama.",
+  "id" : 264413288803205120,
+  "created_at" : "2012-11-02 17:06:55 +0000",
+  "user" : {
+    "name" : "Logan Leger",
+    "screen_name" : "lleger",
+    "protected" : false,
+    "id_str" : "3952921",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "id" : 3952921,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "264368863175639040",
   "text" : "Jilted. I think that perfectly describes LSU\u2019s feelings towards Saban.",
   "id" : 264368863175639040,
-  "created_at" : "Fri Nov 02 14:10:23 +0000 2012",
+  "created_at" : "2012-11-02 14:10:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264269582636818433",
   "text" : "I had Romo last year and Rivers this year. I\u2019m terrible at drafting QBs, apparently.",
   "id" : 264269582636818433,
-  "created_at" : "Fri Nov 02 07:35:53 +0000 2012",
+  "created_at" : "2012-11-02 07:35:53 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264269423114858496",
   "text" : "I had a nightmare that I unlocked my iPhone and it was all set in Comic Sans.",
   "id" : 264269423114858496,
-  "created_at" : "Fri Nov 02 07:35:15 +0000 2012",
+  "created_at" : "2012-11-02 07:35:15 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marco Arment",
@@ -10249,14 +9800,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264216713812385793",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264268166086148096",
   "in_reply_to_user_id" : 14231571,
   "text" : "@marcoarment: Having experienced multiple hurricanes on a stable underground grid, this happens more often than you\u2019d think.",
   "id" : 264268166086148096,
   "in_reply_to_status_id" : 264216713812385793,
-  "created_at" : "Fri Nov 02 07:30:15 +0000 2012",
+  "created_at" : "2012-11-02 07:30:15 +0000",
   "in_reply_to_screen_name" : "marcoarment",
   "in_reply_to_user_id_str" : "14231571",
   "user" : {
@@ -10264,131 +9814,127 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264267706981814272",
   "text" : "Wreck it Ralph was pretty good. Lots of awesome references.",
   "id" : 264267706981814272,
-  "created_at" : "Fri Nov 02 07:28:25 +0000 2012",
+  "created_at" : "2012-11-02 07:28:25 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 106, 126 ],
-      "url" : "http://t.co/llYJDUPr",
-      "expanded_url" : "http://www.marco.org/2012/10/26/an-alternate-universe",
-      "display_url" : "marco.org/2012/10/26/an-\u2026"
+      "url" : "http:\/\/t.co\/llYJDUPr",
+      "expanded_url" : "http:\/\/www.marco.org\/2012\/10\/26\/an-alternate-universe",
+      "display_url" : "marco.org\/2012\/10\/26\/an-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264209374791229440",
-  "text" : "I don't always agree with Marco (and I know I'm late on this), but I like his MS Surface/Store analysis.  http://t.co/llYJDUPr",
+  "text" : "I don't always agree with Marco (and I know I'm late on this), but I like his MS Surface\/Store analysis.  http:\/\/t.co\/llYJDUPr",
   "id" : 264209374791229440,
-  "created_at" : "Fri Nov 02 03:36:38 +0000 2012",
+  "created_at" : "2012-11-02 03:36:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264182483417972738",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264182780089491456",
   "in_reply_to_user_id" : 200678353,
   "text" : "@Charlie_Lang: Ha, I need to start reading that one too.",
   "id" : 264182780089491456,
   "in_reply_to_status_id" : 264182483417972738,
-  "created_at" : "Fri Nov 02 01:50:57 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-02 01:50:57 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Charlie Lang",
-      "screen_name" : "Charlie_Lang",
+      "name" : "Lang Charlie\r",
+      "screen_name" : "charlie_lang",
       "indices" : [ 0, 13 ],
-      "id_str" : "200678353",
-      "id" : 200678353
+      "id_str" : "702685905",
+      "id" : 702685905
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264170583682596865",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264181501892124673",
   "in_reply_to_user_id" : 200678353,
-  "text" : "@Charlie_Lang: Reddit\u2019s football comments are the best. /r/cfb is my favorite.",
+  "text" : "@Charlie_Lang: Reddit\u2019s football comments are the best. \/r\/cfb is my favorite.",
   "id" : 264181501892124673,
   "in_reply_to_status_id" : 264170583682596865,
-  "created_at" : "Fri Nov 02 01:45:52 +0000 2012",
-  "in_reply_to_screen_name" : "Charlie_Lang",
+  "created_at" : "2012-11-02 01:45:52 +0000",
+  "in_reply_to_screen_name" : "Charlie_Kart",
   "in_reply_to_user_id_str" : "200678353",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Langford",
@@ -10396,26 +9942,19 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 0, 8 ],
       "id_str" : "9028732",
       "id" : 9028732
-    }, {
-      "name" : "Kalena Grant",
-      "screen_name" : "kalenagrant",
-      "indices" : [ 9, 21 ],
-      "id_str" : "63664352",
-      "id" : 63664352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264160069497794562",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264160727953207296",
   "in_reply_to_user_id" : 9028732,
   "text" : "@Matt425 @kalenagrant Let\u2019s make a conundrum. If I can beat her, and you can beat me, ahh!",
   "id" : 264160727953207296,
   "in_reply_to_status_id" : 264160069497794562,
-  "created_at" : "Fri Nov 02 00:23:20 +0000 2012",
+  "created_at" : "2012-11-02 00:23:20 +0000",
   "in_reply_to_screen_name" : "Matt425",
   "in_reply_to_user_id_str" : "9028732",
   "user" : {
@@ -10423,12 +9962,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Langford",
@@ -10442,14 +9981,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264159114790318080",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264159569524162560",
   "in_reply_to_user_id" : 9028732,
   "text" : "@Matt425: You\u2019re the only one who can beat me, apparently. I demolish everyone else.",
   "id" : 264159569524162560,
   "in_reply_to_status_id" : 264159114790318080,
-  "created_at" : "Fri Nov 02 00:18:43 +0000 2012",
+  "created_at" : "2012-11-02 00:18:43 +0000",
   "in_reply_to_screen_name" : "Matt425",
   "in_reply_to_user_id_str" : "9028732",
   "user" : {
@@ -10457,12 +9995,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Langford",
@@ -10476,14 +10014,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264156767171256320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264158045473492992",
   "in_reply_to_user_id" : 9028732,
   "text" : "@Matt425: In that case\u2026 *starts new game*",
   "id" : 264158045473492992,
   "in_reply_to_status_id" : 264156767171256320,
-  "created_at" : "Fri Nov 02 00:12:40 +0000 2012",
+  "created_at" : "2012-11-02 00:12:40 +0000",
   "in_reply_to_screen_name" : "Matt425",
   "in_reply_to_user_id_str" : "9028732",
   "user" : {
@@ -10491,173 +10028,166 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264156157726314496",
   "text" : "The thing about word games, like Letterpress, is that they fade out quickly. Last week I had like six games going. Now? Just one.",
   "id" : 264156157726314496,
-  "created_at" : "Fri Nov 02 00:05:10 +0000 2012",
+  "created_at" : "2012-11-02 00:05:10 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264154463873429504",
   "text" : "Still, I have the same thoughts as I had with Circa: I don\u2019t want just a summary. That\u2019s useless to me.",
   "id" : 264154463873429504,
-  "created_at" : "Thu Nov 01 23:58:26 +0000 2012",
+  "created_at" : "2012-11-01 23:58:26 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264154320054919168",
   "text" : "I\u2019m just not sure the gestures or interface were thought through enough. Though the design is quite nice.",
   "id" : 264154320054919168,
-  "created_at" : "Thu Nov 01 23:57:52 +0000 2012",
+  "created_at" : "2012-11-01 23:57:52 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264154181840039936",
   "text" : "Great video and good design, though I question Summly\u2019s interface. I think this is an example of where gestures become cumbersome.",
   "id" : 264154181840039936,
-  "created_at" : "Thu Nov 01 23:57:19 +0000 2012",
+  "created_at" : "2012-11-01 23:57:19 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264154023488270336",
   "text" : "But both are basically similar to an idea I had a long time ago. That algorithm is now the pillar of one of our major products.",
   "id" : 264154023488270336,
-  "created_at" : "Thu Nov 01 23:56:41 +0000 2012",
+  "created_at" : "2012-11-01 23:56:41 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264153850678738944",
   "text" : "Summly and Circa seem like basically the same product, except one is done by a computer and the other a person.",
   "id" : 264153850678738944,
-  "created_at" : "Thu Nov 01 23:56:00 +0000 2012",
+  "created_at" : "2012-11-01 23:56:00 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264151832769732610",
   "text" : "I liked today. Today was a good day. Successful talk this morning at LSU, and then a successful product launch this afternoon.",
   "id" : 264151832769732610,
-  "created_at" : "Thu Nov 01 23:47:59 +0000 2012",
+  "created_at" : "2012-11-01 23:47:59 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lance Walley",
@@ -10671,14 +10201,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264149594156433408",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264151318862643200",
   "in_reply_to_user_id" : 14715542,
   "text" : "@lancewalley: I guess I just assume the rest of the country doesn\u2019t have this problem.",
   "id" : 264151318862643200,
   "in_reply_to_status_id" : 264149594156433408,
-  "created_at" : "Thu Nov 01 23:45:56 +0000 2012",
+  "created_at" : "2012-11-01 23:45:56 +0000",
   "in_reply_to_screen_name" : "lancewalley",
   "in_reply_to_user_id_str" : "14715542",
   "user" : {
@@ -10686,12 +10215,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lance Walley",
@@ -10705,14 +10234,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264147611211137024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264148366525595648",
   "in_reply_to_user_id" : 14715542,
   "text" : "@lancewalley: Really necessary where you live?",
   "id" : 264148366525595648,
   "in_reply_to_status_id" : 264147611211137024,
-  "created_at" : "Thu Nov 01 23:34:12 +0000 2012",
+  "created_at" : "2012-11-01 23:34:12 +0000",
   "in_reply_to_screen_name" : "lancewalley",
   "in_reply_to_user_id_str" : "14715542",
   "user" : {
@@ -10720,12 +10248,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DNSimple",
@@ -10738,13 +10266,12 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264118339314544640",
   "in_reply_to_user_id" : 148198686,
   "text" : "@dnsimple: One of my ALIAS records is failing. Is that on you or Heroku?",
   "id" : 264118339314544640,
-  "created_at" : "Thu Nov 01 21:34:53 +0000 2012",
+  "created_at" : "2012-11-01 21:34:53 +0000",
   "in_reply_to_screen_name" : "dnsimple",
   "in_reply_to_user_id_str" : "148198686",
   "user" : {
@@ -10752,12 +10279,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "heroku",
@@ -10770,18 +10297,17 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 12, 32 ],
-      "url" : "http://t.co/vD1l5kB9",
-      "expanded_url" : "http://herokussl.com",
+      "url" : "http:\/\/t.co\/vD1l5kB9",
+      "expanded_url" : "http:\/\/herokussl.com",
       "display_url" : "herokussl.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264117044805517312",
   "in_reply_to_user_id" : 10257182,
-  "text" : "@heroku: My http://t.co/vD1l5kB9 URL just stopped working. Any reason why? App is down because of this.",
+  "text" : "@heroku: My http:\/\/t.co\/vD1l5kB9 URL just stopped working. Any reason why? App is down because of this.",
   "id" : 264117044805517312,
-  "created_at" : "Thu Nov 01 21:29:45 +0000 2012",
+  "created_at" : "2012-11-01 21:29:45 +0000",
   "in_reply_to_screen_name" : "heroku",
   "in_reply_to_user_id_str" : "10257182",
   "user" : {
@@ -10789,12 +10315,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -10808,14 +10334,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264112524809605120",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264112846709862400",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas: Yeah. Forgot about that\u2026",
   "id" : 264112846709862400,
   "in_reply_to_status_id" : 264112524809605120,
-  "created_at" : "Thu Nov 01 21:13:04 +0000 2012",
+  "created_at" : "2012-11-01 21:13:04 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -10823,12 +10348,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -10841,20 +10366,19 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 77, 97 ],
-      "url" : "http://t.co/GRYmQHlc",
-      "expanded_url" : "http://itun.es/us/oirLH.i",
-      "display_url" : "itun.es/us/oirLH.i"
+      "url" : "http:\/\/t.co\/GRYmQHlc",
+      "expanded_url" : "http:\/\/itun.es\/us\/oirLH.i",
+      "display_url" : "itun.es\/us\/oirLH.i"
     } ]
   },
   "in_reply_to_status_id_str" : "264109986400071680",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264112358790664195",
   "in_reply_to_user_id" : 19028099,
-  "text" : "@MarshallHaas: Extreme Cajun Cooking. Y\u2019all northerners can eat like us now! http://t.co/GRYmQHlc",
+  "text" : "@MarshallHaas: Extreme Cajun Cooking. Y\u2019all northerners can eat like us now! http:\/\/t.co\/GRYmQHlc",
   "id" : 264112358790664195,
   "in_reply_to_status_id" : 264109986400071680,
-  "created_at" : "Thu Nov 01 21:11:07 +0000 2012",
+  "created_at" : "2012-11-01 21:11:07 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -10862,58 +10386,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264103245968986112",
   "text" : "Had our first app to break the top 10 in an App Store category. That\u2019s pretty exciting stuff!",
   "id" : 264103245968986112,
-  "created_at" : "Thu Nov 01 20:34:55 +0000 2012",
+  "created_at" : "2012-11-01 20:34:55 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264078988203397122",
   "text" : "Quick question: Do players like Saban, or just respect him? It seems Les has both. Just curious, because he does seem \u201Ccurmudgeonly\u201D to me.",
   "id" : 264078988203397122,
-  "created_at" : "Thu Nov 01 18:58:31 +0000 2012",
+  "created_at" : "2012-11-01 18:58:31 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matthew Albright",
@@ -10927,14 +10449,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264074400301727744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264078500133228544",
   "in_reply_to_user_id" : 65446064,
   "text" : "@DaMattAlbright: Either that or you have the most awesome assignment ever.",
   "id" : 264078500133228544,
   "in_reply_to_status_id" : 264074400301727744,
-  "created_at" : "Thu Nov 01 18:56:35 +0000 2012",
+  "created_at" : "2012-11-01 18:56:35 +0000",
   "in_reply_to_screen_name" : "DaMattAlbright",
   "in_reply_to_user_id_str" : "65446064",
   "user" : {
@@ -10942,12 +10463,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
@@ -10960,49 +10481,47 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264078070380650496",
   "text" : "Lolo is the guest picker for Game Day. Good choice. @SheaLeger will be excited.",
   "id" : 264078070380650496,
-  "created_at" : "Thu Nov 01 18:54:52 +0000 2012",
+  "created_at" : "2012-11-01 18:54:52 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264077843439423488",
   "text" : "Looks like LSU hoops got a big pick up today. I\u2019m so ready for basketball to be good again.",
   "id" : 264077843439423488,
-  "created_at" : "Thu Nov 01 18:53:58 +0000 2012",
+  "created_at" : "2012-11-01 18:53:58 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara Lampert",
+      "name" : "SEL",
       "screen_name" : "saralampert",
       "indices" : [ 0, 12 ],
       "id_str" : "36579843",
@@ -11013,14 +10532,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264055868063096832",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264076494609997824",
   "in_reply_to_user_id" : 36579843,
   "text" : "@saralampert: I still don\u2019t get how that\u2019s derogatory. Corndogs are universally loved, right?",
   "id" : 264076494609997824,
   "in_reply_to_status_id" : 264055868063096832,
-  "created_at" : "Thu Nov 01 18:48:37 +0000 2012",
+  "created_at" : "2012-11-01 18:48:37 +0000",
   "in_reply_to_screen_name" : "saralampert",
   "in_reply_to_user_id_str" : "36579843",
   "user" : {
@@ -11028,12 +10546,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -11047,14 +10565,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264047896331157504",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264048035502387201",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas: Lol. Even better.",
   "id" : 264048035502387201,
   "in_reply_to_status_id" : 264047896331157504,
-  "created_at" : "Thu Nov 01 16:55:32 +0000 2012",
+  "created_at" : "2012-11-01 16:55:32 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -11062,35 +10579,34 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264035773723078656",
-  "text" : "Corollary to Murphy\u2019s Law: as soon as you put your phone in your pocket, you\u2019ll get that text/email/notification you\u2019d been waiting for.",
+  "text" : "Corollary to Murphy\u2019s Law: as soon as you put your phone in your pocket, you\u2019ll get that text\/email\/notification you\u2019d been waiting for.",
   "id" : 264035773723078656,
-  "created_at" : "Thu Nov 01 16:06:48 +0000 2012",
+  "created_at" : "2012-11-01 16:06:48 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "LSU",
@@ -11099,31 +10615,55 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "44156044",
       "id" : 44156044
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/lsu\/status\/264031286665031681\/photo\/1",
       "indices" : [ 9, 29 ],
-      "url" : "http://t.co/8S0M8mue",
-      "expanded_url" : "http://twitter.com/lsu/status/264031286665031681/photo/1",
-      "display_url" : "pic.twitter.com/8S0M8mue"
-    } ]
+      "url" : "http:\/\/t.co\/8S0M8mue",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A6oHDmuCMAATm92.png",
+      "id_str" : "264031286669225984",
+      "id" : 264031286669225984,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6oHDmuCMAATm92.png",
+      "sizes" : [ {
+        "h" : 189,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 353,
+        "resize" : "fit",
+        "w" : 636
+      }, {
+        "h" : 353,
+        "resize" : "fit",
+        "w" : 636
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 333,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/8S0M8mue"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264033908641918977",
-  "text" : "RT @lsu: http://t.co/8S0M8mue",
+  "text" : "RT @lsu: http:\/\/t.co\/8S0M8mue",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/lsu/status/264031286665031681/photo/1",
+        "expanded_url" : "http:\/\/twitter.com\/lsu\/status\/264031286665031681\/photo\/1",
         "indices" : [ 0, 20 ],
-        "url" : "http://t.co/8S0M8mue",
-        "media_url" : "http://pbs.twimg.com/media/A6oHDmuCMAATm92.png",
+        "url" : "http:\/\/t.co\/8S0M8mue",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/A6oHDmuCMAATm92.png",
         "id_str" : "264031286669225984",
         "id" : 264031286669225984,
-        "media_url_https" : "https://pbs.twimg.com/media/A6oHDmuCMAATm92.png",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6oHDmuCMAATm92.png",
         "sizes" : [ {
           "h" : 189,
           "resize" : "fit",
@@ -11145,40 +10685,39 @@ Grailbird.data.tweets_2012_11 =
           "resize" : "fit",
           "w" : 600
         } ],
-        "display_url" : "pic.twitter.com/8S0M8mue"
+        "display_url" : "pic.twitter.com\/8S0M8mue"
       } ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "264031286665031681",
-    "text" : "http://t.co/8S0M8mue",
+    "text" : "http:\/\/t.co\/8S0M8mue",
     "id" : 264031286665031681,
-    "created_at" : "Thu Nov 01 15:48:59 +0000 2012",
+    "created_at" : "2012-11-01 15:48:59 +0000",
     "user" : {
       "name" : "LSU",
       "screen_name" : "lsu",
       "protected" : false,
       "id_str" : "44156044",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/382296603/lsu_logo2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/382296603\/lsu_logo2_normal.jpg",
       "id" : 44156044,
       "verified" : true
     }
   },
   "id" : 264033908641918977,
-  "created_at" : "Thu Nov 01 15:59:23 +0000 2012",
+  "created_at" : "2012-11-01 15:59:23 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Haas",
@@ -11192,14 +10731,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264031010478514176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264033800592445440",
   "in_reply_to_user_id" : 19028099,
   "text" : "@MarshallHaas: Haha. That\u2019s a good friend. Scary, but good.",
   "id" : 264033800592445440,
   "in_reply_to_status_id" : 264031010478514176,
-  "created_at" : "Thu Nov 01 15:58:58 +0000 2012",
+  "created_at" : "2012-11-01 15:58:58 +0000",
   "in_reply_to_screen_name" : "marshal",
   "in_reply_to_user_id_str" : "19028099",
   "user" : {
@@ -11207,12 +10745,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Roussell",
@@ -11226,14 +10764,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264032902059290625",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264033629943001088",
   "in_reply_to_user_id" : 248053843,
   "text" : "@steph_roussell: Thanks for having me! It was a great class. Great questions. I had a blast.",
   "id" : 264033629943001088,
   "in_reply_to_status_id" : 264032902059290625,
-  "created_at" : "Thu Nov 01 15:58:17 +0000 2012",
+  "created_at" : "2012-11-01 15:58:17 +0000",
   "in_reply_to_screen_name" : "steph_roussell",
   "in_reply_to_user_id_str" : "248053843",
   "user" : {
@@ -11241,38 +10778,37 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264028938341347330",
-  "text" : "My monthly email clearance rate is 98%. I\u2019m an email/inbox zero machine!",
+  "text" : "My monthly email clearance rate is 98%. I\u2019m an email\/inbox zero machine!",
   "id" : 264028938341347330,
-  "created_at" : "Thu Nov 01 15:39:38 +0000 2012",
+  "created_at" : "2012-11-01 15:39:38 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lilli",
+      "name" : "Lilli Lopez",
       "screen_name" : "LilliLopez",
       "indices" : [ 0, 11 ],
       "id_str" : "107831339",
@@ -11283,14 +10819,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264022265446940672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264024854909579264",
   "in_reply_to_user_id" : 107831339,
   "text" : "@LilliLopez: Definitely! Looking forward to it.",
   "id" : 264024854909579264,
   "in_reply_to_status_id" : 264022265446940672,
-  "created_at" : "Thu Nov 01 15:23:25 +0000 2012",
+  "created_at" : "2012-11-01 15:23:25 +0000",
   "in_reply_to_screen_name" : "LilliLopez",
   "in_reply_to_user_id_str" : "107831339",
   "user" : {
@@ -11298,12 +10833,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jennifer Macha",
@@ -11319,13 +10854,13 @@ Grailbird.data.tweets_2012_11 =
       "id" : 44156044
     } ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/lleger/status/264022100375896064/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/lleger\/status\/264022100375896064\/photo\/1",
       "indices" : [ 113, 133 ],
-      "url" : "http://t.co/RlXYO6sj",
-      "media_url" : "http://pbs.twimg.com/media/A6n-s5JCAAAZCsM.jpg",
+      "url" : "http:\/\/t.co\/RlXYO6sj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A6n-s5JCAAAZCsM.jpg",
       "id_str" : "264022100384284672",
       "id" : 264022100384284672,
-      "media_url_https" : "https://pbs.twimg.com/media/A6n-s5JCAAAZCsM.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A6n-s5JCAAAZCsM.jpg",
       "sizes" : [ {
         "h" : 450,
         "resize" : "fit",
@@ -11347,31 +10882,30 @@ Grailbird.data.tweets_2012_11 =
         "resize" : "fit",
         "w" : 340
       } ],
-      "display_url" : "pic.twitter.com/RlXYO6sj"
+      "display_url" : "pic.twitter.com\/RlXYO6sj"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264022100375896064",
-  "text" : "My reserved parking spot for guest lecture this morning. Royal treatment. Feels great. Thanks, @jmacha and @LSU! http://t.co/RlXYO6sj",
+  "text" : "My reserved parking spot for guest lecture this morning. Royal treatment. Feels great. Thanks, @jmacha and @LSU! http:\/\/t.co\/RlXYO6sj",
   "id" : 264022100375896064,
-  "created_at" : "Thu Nov 01 15:12:29 +0000 2012",
+  "created_at" : "2012-11-01 15:12:29 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lilli",
+      "name" : "Lilli Lopez",
       "screen_name" : "LilliLopez",
       "indices" : [ 0, 11 ],
       "id_str" : "107831339",
@@ -11382,14 +10916,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "264021334303047681",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264021759118958592",
   "in_reply_to_user_id" : 107831339,
   "text" : "@LilliLopez: Haha! Thanks a lot. It was a great experience for me.",
   "id" : 264021759118958592,
   "in_reply_to_status_id" : 264021334303047681,
-  "created_at" : "Thu Nov 01 15:11:07 +0000 2012",
+  "created_at" : "2012-11-01 15:11:07 +0000",
   "in_reply_to_screen_name" : "LilliLopez",
   "in_reply_to_user_id_str" : "107831339",
   "user" : {
@@ -11397,12 +10930,12 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jennifer Macha",
@@ -11415,23 +10948,22 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264021127670665216",
   "text" : "Great tweets from @jmacha this morning. She live tweeted my talk to her class, how awesome! If you want to see what I said, check them out.",
   "id" : 264021127670665216,
-  "created_at" : "Thu Nov 01 15:08:36 +0000 2012",
+  "created_at" : "2012-11-01 15:08:36 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jennifer Macha",
@@ -11459,12 +10991,11 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264020936506871808",
   "text" : "RT @jmacha: @lleger talking app development, product management in #mc4031 this morning @ManshipSchool",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Logan Leger",
@@ -11486,13 +11017,12 @@ Grailbird.data.tweets_2012_11 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "263992612871081984",
     "in_reply_to_user_id" : 3952921,
     "text" : "@lleger talking app development, product management in #mc4031 this morning @ManshipSchool",
     "id" : 263992612871081984,
-    "created_at" : "Thu Nov 01 13:15:18 +0000 2012",
+    "created_at" : "2012-11-01 13:15:18 +0000",
     "in_reply_to_screen_name" : "lleger",
     "in_reply_to_user_id_str" : "3952921",
     "user" : {
@@ -11500,24 +11030,24 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jmacha",
       "protected" : false,
       "id_str" : "8930192",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1632143474/hangover_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1632143474\/hangover_normal.JPG",
       "id" : 8930192,
       "verified" : false
     }
   },
   "id" : 264020936506871808,
-  "created_at" : "Thu Nov 01 15:07:51 +0000 2012",
+  "created_at" : "2012-11-01 15:07:51 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Snow",
@@ -11531,14 +11061,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "263994464115249153",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264020889497108480",
   "in_reply_to_user_id" : 34925686,
   "text" : "@jsnow9: Doh! Totally forgot to mention Tie Game. Most brilliant name we\u2019ve ever had for an app. My bad.",
   "id" : 264020889497108480,
   "in_reply_to_status_id" : 263994464115249153,
-  "created_at" : "Thu Nov 01 15:07:39 +0000 2012",
+  "created_at" : "2012-11-01 15:07:39 +0000",
   "in_reply_to_screen_name" : "jsnow9",
   "in_reply_to_user_id_str" : "34925686",
   "user" : {
@@ -11546,58 +11075,56 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "264020656277037059",
   "text" : "Gave a guest lecture to a class today at LSU. Really smart group, great questions. Glad they had me. Good luck on your project!",
   "id" : 264020656277037059,
-  "created_at" : "Thu Nov 01 15:06:44 +0000 2012",
+  "created_at" : "2012-11-01 15:06:44 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263985817624657920",
   "text" : "Fog is ridiculous this morning.",
   "id" : 263985817624657920,
-  "created_at" : "Thu Nov 01 12:48:18 +0000 2012",
+  "created_at" : "2012-11-01 12:48:18 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Fake ESPN",
@@ -11610,47 +11137,45 @@ Grailbird.data.tweets_2012_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263980615148384258",
   "text" : "RT @TheFakeESPN: That awkward moment when Anthony Davis has one more eyebrow than the Lakers have wins.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "263872208869412864",
     "text" : "That awkward moment when Anthony Davis has one more eyebrow than the Lakers have wins.",
     "id" : 263872208869412864,
-    "created_at" : "Thu Nov 01 05:16:51 +0000 2012",
+    "created_at" : "2012-11-01 05:16:51 +0000",
     "user" : {
       "name" : "The Fake ESPN",
       "screen_name" : "TheFakeESPN",
       "protected" : false,
       "id_str" : "307478701",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3636597876/9e92458d4102194073414c3fb44f447f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3636597876\/9e92458d4102194073414c3fb44f447f_normal.jpeg",
       "id" : 307478701,
       "verified" : false
     }
   },
   "id" : 263980615148384258,
-  "created_at" : "Thu Nov 01 12:27:37 +0000 2012",
+  "created_at" : "2012-11-01 12:27:37 +0000",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jarett Rodriguez",
@@ -11664,14 +11189,13 @@ Grailbird.data.tweets_2012_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "263970877652213760",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263976339466506241",
   "in_reply_to_user_id" : 25733272,
   "text" : "@jarettr: Thanks man. My first keynote so hopefully it goes well.",
   "id" : 263976339466506241,
   "in_reply_to_status_id" : 263970877652213760,
-  "created_at" : "Thu Nov 01 12:10:38 +0000 2012",
+  "created_at" : "2012-11-01 12:10:38 +0000",
   "in_reply_to_screen_name" : "jarettr",
   "in_reply_to_user_id_str" : "25733272",
   "user" : {
@@ -11679,7 +11203,7 @@ Grailbird.data.tweets_2012_11 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1598031128/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
     "id" : 3952921,
     "verified" : false
   }

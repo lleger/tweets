@@ -1,8 +1,11 @@
 var user_details =  {
+  "expanded_url" : "http:\/\/loganleger.com",
   "screen_name" : "lleger",
   "location" : "Baton Rouge, LA",
+  "url" : "http:\/\/t.co\/SOKA5MD0Er",
   "full_name" : "Logan Leger",
-  "bio" : "Engineer + entrepreneur. Founder + CEO, @newaperio. I love \uF8FF, program in Rails and Obj-C.",
+  "bio" : "Engineer + entrepreneur. @newaperio. Bearded. EBR library board member. Award-winning tweets.",
   "id" : "3952921",
-  "created_at" : "Mon Apr 09 23:06:37 +0000 2007"
+  "created_at" : "2007-04-09 23:06:37 +0000",
+  "display_url" : "loganleger.com"
 }
