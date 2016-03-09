@@ -1,425 +1,5 @@
 Grailbird.data.tweets_2012_01 = 
  [ {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164552580586930176",
-  "text" : "Word sucks so much on Mac. Pretty much the whole Office suite, actually. Next person to send me a Word document gets my wrath.",
-  "id" : 164552580586930176,
-  "created_at" : "2012-02-01 03:36:07 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John Worrel",
-      "screen_name" : "johnworrel",
-      "indices" : [ 0, 11 ],
-      "id_str" : "45771317",
-      "id" : 45771317
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164411621714825216",
-  "geo" : { },
-  "id_str" : "164411941207543809",
-  "in_reply_to_user_id" : 45771317,
-  "text" : "@johnworrel: I think he's a special athlete. We'll see what happens.",
-  "id" : 164411941207543809,
-  "in_reply_to_status_id" : 164411621714825216,
-  "created_at" : "2012-01-31 18:17:16 +0000",
-  "in_reply_to_screen_name" : "johnworrel",
-  "in_reply_to_user_id_str" : "45771317",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164409964478218241",
-  "geo" : { },
-  "id_str" : "164411775054381056",
-  "in_reply_to_user_id" : 4429011,
-  "text" : "@dgmcdowe: Truth.",
-  "id" : 164411775054381056,
-  "in_reply_to_status_id" : 164409964478218241,
-  "created_at" : "2012-01-31 18:16:36 +0000",
-  "in_reply_to_screen_name" : "dgmcdowell",
-  "in_reply_to_user_id_str" : "4429011",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164408766517882881",
-  "geo" : { },
-  "id_str" : "164409715789541378",
-  "in_reply_to_user_id" : 4429011,
-  "text" : "@dgmcdowe: Will be interesting to see him play at whatever position he's at.",
-  "id" : 164409715789541378,
-  "in_reply_to_status_id" : 164408766517882881,
-  "created_at" : "2012-01-31 18:08:25 +0000",
-  "in_reply_to_screen_name" : "dgmcdowell",
-  "in_reply_to_user_id_str" : "4429011",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cameron Roberson",
-      "screen_name" : "cameronroberson",
-      "indices" : [ 0, 16 ],
-      "id_str" : "19027992",
-      "id" : 19027992
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164409122631073793",
-  "geo" : { },
-  "id_str" : "164409534205534208",
-  "in_reply_to_user_id" : 19027992,
-  "text" : "@cameronroberson: Yeah, he could be a Jamarcus type. I haven't seen his highlight reel but apparently he's a monster. Will be interesting.",
-  "id" : 164409534205534208,
-  "in_reply_to_status_id" : 164409122631073793,
-  "created_at" : "2012-01-31 18:07:42 +0000",
-  "in_reply_to_screen_name" : "cameronroberson",
-  "in_reply_to_user_id_str" : "19027992",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164408900748189696",
-  "text" : "A bunch of articles online are making it seem like Miles will play Liggins at QB. Will be interesting.",
-  "id" : 164408900748189696,
-  "created_at" : "2012-01-31 18:05:11 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164408661358284800",
-  "text" : "I could see Liggins at QB, TE or DE and be great \u2014 if he loses a good bit of weight.",
-  "id" : 164408661358284800,
-  "created_at" : "2012-01-31 18:04:14 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164407816004698112",
-  "geo" : { },
-  "id_str" : "164408463655567360",
-  "in_reply_to_user_id" : 4429011,
-  "text" : "@dgmcdowe: I could see that. He needs to drop about 50 lbs though. 270? Wtf?",
-  "id" : 164408463655567360,
-  "in_reply_to_status_id" : 164407816004698112,
-  "created_at" : "2012-01-31 18:03:26 +0000",
-  "in_reply_to_screen_name" : "dgmcdowell",
-  "in_reply_to_user_id_str" : "4429011",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John Worrel",
-      "screen_name" : "johnworrel",
-      "indices" : [ 0, 11 ],
-      "id_str" : "45771317",
-      "id" : 45771317
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164405451704897536",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4085195594, -91.1804927487 ]
-  },
-  "id_str" : "164407441667276803",
-  "in_reply_to_user_id" : 45771317,
-  "text" : "@johnworrel: Probably, though he didn't have any INTs his senior year. He feels like a Jamarcus type QB to me. He's huge.",
-  "id" : 164407441667276803,
-  "in_reply_to_status_id" : 164405451704897536,
-  "created_at" : "2012-01-31 17:59:23 +0000",
-  "in_reply_to_screen_name" : "johnworrel",
-  "in_reply_to_user_id_str" : "45771317",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164404926804529153",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4084358644, -91.1806037756 ]
-  },
-  "id_str" : "164407261693878272",
-  "in_reply_to_user_id" : 4429011,
-  "text" : "@dgmcdowe: Also, the dude has major balls for the way he announced it. I know it feels shitty. My stomach is still I knots after Collins.",
-  "id" : 164407261693878272,
-  "in_reply_to_status_id" : 164404926804529153,
-  "created_at" : "2012-01-31 17:58:40 +0000",
-  "in_reply_to_screen_name" : "dgmcdowell",
-  "in_reply_to_user_id_str" : "4429011",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164404926804529153",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4084358644, -91.1806037756 ]
-  },
-  "id_str" : "164407095750434817",
-  "in_reply_to_user_id" : 4429011,
-  "text" : "@dgmcdowe: So you don't think he'll be a QB? Then what? DE or TE maybe? I hear he's a hell of an athlete.",
-  "id" : 164407095750434817,
-  "in_reply_to_status_id" : 164404926804529153,
-  "created_at" : "2012-01-31 17:58:00 +0000",
-  "in_reply_to_screen_name" : "dgmcdowell",
-  "in_reply_to_user_id_str" : "4429011",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cameron Roberson",
-      "screen_name" : "cameronroberson",
-      "indices" : [ 0, 16 ],
-      "id_str" : "19027992",
-      "id" : 19027992
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "164403459007840257",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4081770514, -91.1800045648 ]
-  },
-  "id_str" : "164406885972312064",
-  "in_reply_to_user_id" : 19027992,
-  "text" : "@cameronroberson: I just looked at they had us at 6. I like the class either way.",
-  "id" : 164406885972312064,
-  "in_reply_to_status_id" : 164403459007840257,
-  "created_at" : "2012-01-31 17:57:10 +0000",
-  "in_reply_to_screen_name" : "cameronroberson",
-  "in_reply_to_user_id_str" : "19027992",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.416264547, -91.1824236921 ]
-  },
-  "id_str" : "164403580411977728",
-  "text" : "My only question now is what's gonna happen with Liggins. Will he be a QB? If  not, what? TE, DE? I wonder what kind of QB he'd make.",
-  "id" : 164403580411977728,
-  "created_at" : "2012-01-31 17:44:02 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4165594225, -91.1827260083 ]
-  },
-  "id_str" : "164403327214428160",
-  "text" : "Plus, I think a lot of our La boys are underrated. And they're not counting Hill either. I like our class.",
-  "id" : 164403327214428160,
-  "created_at" : "2012-01-31 17:43:02 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.4169756116, -91.1831074744 ]
-  },
-  "id_str" : "164403133911535616",
-  "text" : "I think our signing class is pretty damn good. We hardly sign a higher class than top 5 and we've done pretty well with that.",
-  "id" : 164403133911535616,
-  "created_at" : "2012-01-31 17:42:16 +0000",
-  "user" : {
-    "name" : "Logan Leger",
-    "screen_name" : "lleger",
-    "protected" : false,
-    "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
-    "id" : 3952921,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -451,7 +31,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -478,10 +58,6 @@ Grailbird.data.tweets_2012_01 =
         "resize" : "fit",
         "w" : 768
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 340
@@ -489,6 +65,10 @@ Grailbird.data.tweets_2012_01 =
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -512,12 +92,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "TheStartupBus",
@@ -545,7 +125,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -578,7 +158,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -611,7 +191,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -636,7 +216,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -661,7 +241,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -694,7 +274,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -727,7 +307,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -760,7 +340,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -796,7 +376,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -832,7 +412,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -863,12 +443,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "TheStartupBus",
@@ -896,7 +476,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -921,7 +501,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -957,7 +537,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -982,7 +562,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1009,12 +589,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chase Swindler",
@@ -1042,45 +622,40 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Shea Leger",
       "screen_name" : "SheaLeger",
       "indices" : [ 0, 10 ],
-      "id_str" : "337825260",
-      "id" : 337825260
+      "id_str" : "3326204494",
+      "id" : 3326204494
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "161884738435563520",
   "geo" : { },
   "id_str" : "161902080292954113",
-  "in_reply_to_user_id" : 337825260,
   "text" : "@SheaLeger: I'm sure you're pulling it off.",
   "id" : 161902080292954113,
-  "in_reply_to_status_id" : 161884738435563520,
   "created_at" : "2012-01-24 20:03:58 +0000",
-  "in_reply_to_screen_name" : "SheaLeger",
-  "in_reply_to_user_id_str" : "337825260",
   "user" : {
     "name" : "Logan Leger",
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1097,12 +672,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1119,12 +694,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1141,12 +716,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1163,12 +738,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1185,7 +760,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1221,7 +796,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1246,12 +821,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Linode",
@@ -1277,7 +852,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1316,7 +891,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1338,7 +913,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1371,7 +946,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1393,7 +968,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1415,7 +990,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1437,7 +1012,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1459,7 +1034,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1481,12 +1056,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1508,7 +1083,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1533,7 +1108,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1602,12 +1177,12 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "National Geographic",
@@ -1638,7 +1213,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
@@ -1663,7 +1238,7 @@ Grailbird.data.tweets_2012_01 =
     "screen_name" : "lleger",
     "protected" : false,
     "id_str" : "3952921",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1598031128\/200732_1627930177402_1210980119_31319175_5326733_n_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492794760491302912\/zH2czqCK_normal.png",
     "id" : 3952921,
     "verified" : false
   }
